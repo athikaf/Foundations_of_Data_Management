@@ -1,0 +1,2698 @@
+Title,Region,City,Category,Sub-Category,Sales(USD),Quantity(Units),Discount(Sum),Profit(USD),Profit_Margin(%)
+Operational Report 2018-01-03 to 2021-12-30,,,,,,,,,
+,"('Central',)",Allen,Furniture,Furnishings,310.88,2,0.2,23.32,7.5
+,"('Central',)",Allen,Office Supplies,Art,9.4,5,0.0,2.73,29.04
+,"('Central',)",Allen,Office Supplies,Binders,8.78,4,0.8,-13.62,-155.13
+,"('Central',)",Allen,Office Supplies,Labels,74.0,5,0.0,37.0,50.0
+,"('Central',)",Allen,Office Supplies,Paper,10.37,2,0.2,3.63,35.0
+,"('Central',)",Allen,Office Supplies,Supplies,12.88,1,0.0,0.39,3.03
+,"('Central',)",Allen,Technology,Accessories,21.48,3,0.2,-0.27,-1.26
+,"('Central',)",Allen,Technology,Phones,201.58,2,0.2,12.6,6.25
+,"('Central',)",Amarillo,Furniture,Chairs,271.76,2,0.1,48.31,17.78
+,"('Central',)",Amarillo,Office Supplies,Appliances,20.5,6,0.8,-3.85,-18.78
+,"('Central',)",Amarillo,Office Supplies,Art,22.0,10,0.0,9.68,44.0
+,"('Central',)",Amarillo,Office Supplies,Binders,14.38,3,0.2,4.85,33.73
+,"('Central',)",Amarillo,Office Supplies,Paper,28.35,1,0.2,9.57,33.76
+,"('Central',)",Amarillo,Office Supplies,Storage,1117.92,4,0.0,55.9,5.0
+,"('Central',)",Amarillo,Technology,Accessories,215.41,7,0.4,55.17,25.61
+,"('Central',)",Amarillo,Technology,Copiers,1999.96,5,0.2,624.99,31.25
+,"('Central',)",Arlington,Furniture,Tables,2887.06,9,0.2,180.44,6.25
+,"('Central',)",Arlington,Office Supplies,Art,47.62,3,0.2,3.57,7.5
+,"('Central',)",Arlington,Office Supplies,Binders,12.67,2,0.2,4.75,37.49
+,"('Central',)",Arlington,Office Supplies,Paper,166.0,15,0.0,76.14,45.87
+,"('Central',)",Arlington,Office Supplies,Storage,16.06,1,0.0,4.18,26.03
+,"('Central',)",Arlington,Technology,Accessories,254.97,3,0.0,91.79,36.0
+,"('Central',)",Arlington,Technology,Phones,987.58,16,0.6,79.26,8.03
+,"('Central',)",Arlington Heights,Furniture,Furnishings,22.75,3,0.2,7.11,31.25
+,"('Central',)",Arlington Heights,Office Supplies,Art,14.11,6,0.2,1.23,8.72
+,"('Central',)",Arlington Heights,Office Supplies,Paper,6.67,1,0.2,2.08,31.18
+,"('Central',)",Arlington Heights,Office Supplies,Storage,237.1,3,0.2,20.75,8.75
+,"('Central',)",Aurora,Furniture,Bookcases,476.12,5,0.4,24.88,5.23
+,"('Central',)",Aurora,Furniture,Chairs,2396.86,12,1.1,-52.65,-2.2
+,"('Central',)",Aurora,Furniture,Furnishings,358.81,23,2.6,-141.29,-39.38
+,"('Central',)",Aurora,Furniture,Tables,1007.84,9,1.0,-412.05,-40.88
+,"('Central',)",Aurora,Office Supplies,Appliances,94.05,13,1.2,-158.54,-168.57
+,"('Central',)",Aurora,Office Supplies,Art,140.07,34,0.6,42.84,30.58
+,"('Central',)",Aurora,Office Supplies,Binders,611.34,38,4.7,4.68,0.77
+,"('Central',)",Aurora,Office Supplies,Envelopes,207.09,6,0.2,96.69,46.69
+,"('Central',)",Aurora,Office Supplies,Labels,52.54,8,0.4,24.25,46.16
+,"('Central',)",Aurora,Office Supplies,Paper,1202.54,38,1.0,531.63,44.21
+,"('Central',)",Aurora,Office Supplies,Storage,2334.67,26,0.8,206.18,8.83
+,"('Central',)",Aurora,Office Supplies,Supplies,69.5,5,0.0,20.15,28.99
+,"('Central',)",Aurora,Technology,Accessories,1157.73,15,0.8,241.55,20.86
+,"('Central',)",Aurora,Technology,Phones,6490.99,46,2.0,785.41,12.1
+,"('Central',)",Austin,Furniture,Chairs,1402.49,13,0.9,60.53,4.32
+,"('Central',)",Austin,Furniture,Furnishings,122.28,12,0.6,15.44,12.63
+,"('Central',)",Austin,Office Supplies,Appliances,32.67,3,0.0,8.49,25.99
+,"('Central',)",Austin,Office Supplies,Binders,167.21,13,1.0,61.68,36.89
+,"('Central',)",Austin,Office Supplies,Envelopes,84.95,12,0.4,32.87,38.69
+,"('Central',)",Austin,Office Supplies,Fasteners,19.41,7,0.4,-2.9,-14.94
+,"('Central',)",Austin,Office Supplies,Labels,4.93,2,0.2,1.72,34.89
+,"('Central',)",Austin,Office Supplies,Paper,34.89,6,0.2,15.51,44.45
+,"('Central',)",Austin,Technology,Accessories,244.06,12,0.2,84.12,34.47
+,"('Central',)",Austin,Technology,Phones,769.9,11,0.4,87.78,11.4
+,"('Central',)",Bloomington,Furniture,Bookcases,1266.86,7,0.0,291.38,23.0
+,"('Central',)",Bloomington,Furniture,Furnishings,155.25,3,0.0,46.57,30.0
+,"('Central',)",Bloomington,Furniture,Tables,617.7,6,0.5,-407.68,-66.0
+,"('Central',)",Bloomington,Office Supplies,Art,35.97,3,0.0,9.71,26.99
+,"('Central',)",Bloomington,Office Supplies,Labels,3.08,1,0.0,1.48,48.05
+,"('Central',)",Bloomington,Office Supplies,Paper,114.2,5,0.0,52.53,46.0
+,"('Central',)",Bloomington,Office Supplies,Storage,14.03,1,0.0,4.07,29.01
+,"('Central',)",Bloomington,Office Supplies,Supplies,32.94,3,0.0,9.22,27.99
+,"('Central',)",Bloomington,Technology,Accessories,529.97,5,0.0,189.59,35.77
+,"('Central',)",Brownsville,Furniture,Bookcases,327.73,2,0.32,-14.46,-4.41
+,"('Central',)",Brownsville,Furniture,Furnishings,24.85,5,0.0,7.7,30.99
+,"('Central',)",Brownsville,Furniture,Tables,2003.52,6,0.2,-325.57,-16.25
+,"('Central',)",Brownsville,Office Supplies,Binders,179.65,6,0.7,77.46,43.12
+,"('Central',)",Brownsville,Office Supplies,Envelopes,17.48,2,0.0,8.22,47.03
+,"('Central',)",Brownsville,Office Supplies,Labels,80.32,17,0.2,34.05,42.39
+,"('Central',)",Brownsville,Office Supplies,Paper,19.44,3,0.0,9.33,47.99
+,"('Central',)",Brownsville,Office Supplies,Storage,71.38,3,0.2,-4.46,-6.25
+,"('Central',)",Brownsville,Office Supplies,Supplies,1.74,1,0.2,-0.35,-20.11
+,"('Central',)",Brownsville,Technology,Accessories,121.34,8,0.0,17.47,14.4
+,"('Central',)",Brownsville,Technology,Phones,329.99,2,0.4,-77.0,-23.33
+,"('Central',)",Burlington,Office Supplies,Binders,5.4,3,0.0,2.59,47.96
+,"('Central',)",Burlington,Office Supplies,Envelopes,7.28,1,0.0,3.49,47.94
+,"('Central',)",Burlington,Office Supplies,Fasteners,9.65,6,0.2,3.5,36.27
+,"('Central',)",Carrollton,Furniture,Furnishings,26.94,3,0.0,11.31,41.98
+,"('Central',)",Carrollton,Office Supplies,Art,11.16,2,0.0,4.35,38.98
+,"('Central',)",Carrollton,Office Supplies,Binders,679.96,5,0.2,220.99,32.5
+,"('Central',)",Carrollton,Office Supplies,Paper,147.9,7,0.0,71.9,48.61
+,"('Central',)",Carrollton,Office Supplies,Storage,39.81,4,0.2,3.98,10.0
+,"('Central',)",Carrollton,Technology,Accessories,1399.94,7,0.2,52.5,3.75
+,"('Central',)",Chicago,Furniture,Bookcases,2905.26,34,0.84,-32.02,-1.1
+,"('Central',)",Chicago,Furniture,Chairs,4469.3,53,2.7,267.94,6.0
+,"('Central',)",Chicago,Furniture,Furnishings,4100.83,129,5.2,388.71,9.48
+,"('Central',)",Chicago,Furniture,Tables,6787.46,59,4.45,-1092.36,-16.09
+,"('Central',)",Chicago,Office Supplies,Appliances,2803.56,54,3.7,146.93,5.24
+,"('Central',)",Chicago,Office Supplies,Art,759.27,97,2.4,195.22,25.71
+,"('Central',)",Chicago,Office Supplies,Binders,3642.84,187,20.7,895.59,24.58
+,"('Central',)",Chicago,Office Supplies,Envelopes,226.84,14,0.2,102.54,45.2
+,"('Central',)",Chicago,Office Supplies,Fasteners,76.62,33,0.6,26.14,34.12
+,"('Central',)",Chicago,Office Supplies,Labels,356.26,66,1.2,159.3,44.71
+,"('Central',)",Chicago,Office Supplies,Paper,1743.32,115,2.6,677.61,38.87
+,"('Central',)",Chicago,Office Supplies,Storage,4534.38,82,1.8,424.14,9.35
+,"('Central',)",Chicago,Office Supplies,Supplies,8295.78,19,0.2,355.37,4.28
+,"('Central',)",Chicago,Technology,Accessories,3785.23,78,1.6,1025.27,27.09
+,"('Central',)",Chicago,Technology,Copiers,1989.96,4,0.4,779.99,39.2
+,"('Central',)",Chicago,Technology,Machines,1848.37,6,1.1,87.75,4.75
+,"('Central',)",Chicago,Technology,Phones,13026.02,123,5.8,1025.17,7.87
+,"('Central',)",College Station,Furniture,Chairs,233.06,3,0.3,-53.27,-22.86
+,"('Central',)",College Station,Furniture,Tables,174.29,2,0.3,-19.92,-11.43
+,"('Central',)",College Station,Office Supplies,Appliances,670.62,6,0.0,174.36,26.0
+,"('Central',)",College Station,Office Supplies,Binders,31.73,14,1.8,-16.98,-53.51
+,"('Central',)",College Station,Office Supplies,Envelopes,98.85,9,0.0,48.89,49.46
+,"('Central',)",College Station,Office Supplies,Paper,44.38,1,0.2,15.53,34.99
+,"('Central',)",College Station,Office Supplies,Storage,72.78,1,0.2,-18.2,-25.01
+,"('Central',)",College Station,Office Supplies,Supplies,2.94,1,0.2,-0.66,-22.45
+,"('Central',)",College Station,Technology,Accessories,121.28,7,0.2,27.16,22.39
+,"('Central',)",College Station,Technology,Phones,602.98,7,0.0,161.06,26.71
+,"('Central',)",Columbus,Furniture,Bookcases,498.71,9,0.8,-167.99,-33.68
+,"('Central',)",Columbus,Furniture,Chairs,2420.17,23,0.8,-130.43,-5.39
+,"('Central',)",Columbus,Furniture,Furnishings,532.2,21,1.2,67.46,12.68
+,"('Central',)",Columbus,Office Supplies,Appliances,270.74,5,0.0,73.1,27.0
+,"('Central',)",Columbus,Office Supplies,Art,226.16,30,0.2,40.52,17.92
+,"('Central',)",Columbus,Office Supplies,Binders,180.45,28,2.4,43.74,24.24
+,"('Central',)",Columbus,Office Supplies,Envelopes,21.74,1,0.2,7.34,33.76
+,"('Central',)",Columbus,Office Supplies,Labels,22.4,6,0.2,9.19,41.03
+,"('Central',)",Columbus,Office Supplies,Paper,499.23,39,0.8,193.8,38.82
+,"('Central',)",Columbus,Office Supplies,Supplies,21.76,7,0.0,6.37,29.27
+,"('Central',)",Columbus,Technology,Accessories,1382.84,22,0.0,238.8,17.27
+,"('Central',)",Columbus,Technology,Machines,343.2,1,0.2,38.61,11.25
+,"('Central',)",Columbus,Technology,Phones,985.44,16,1.2,56.93,5.78
+,"('Central',)",Conroe,Furniture,Tables,562.29,7,0.45,-255.59,-45.46
+,"('Central',)",Conroe,Office Supplies,Art,17.36,5,0.2,3.59,20.68
+,"('Central',)",Conroe,Office Supplies,Storage,111.67,9,0.2,6.98,6.25
+,"('Central',)",Conroe,Office Supplies,Supplies,6.84,1,0.0,1.85,27.05
+,"('Central',)",Conroe,Technology,Accessories,10.38,2,0.2,2.21,21.29
+,"('Central',)",Conroe,Technology,Phones,368.69,9,1.2,-61.9,-16.79
+,"('Central',)",Coppell,Furniture,Chairs,227.96,2,0.0,36.47,16.0
+,"('Central',)",Coppell,Office Supplies,Art,23.31,12,0.4,6.95,29.82
+,"('Central',)",Coppell,Office Supplies,Paper,10.69,2,0.2,3.74,34.99
+,"('Central',)",Coppell,Office Supplies,Storage,1818.41,7,0.4,-338.02,-18.59
+,"('Central',)",Coppell,Technology,Machines,71.98,3,0.2,24.29,33.75
+,"('Central',)",Cottage Grove,Furniture,Bookcases,307.67,2,0.15,-14.48,-4.71
+,"('Central',)",Cottage Grove,Furniture,Furnishings,82.38,6,0.0,25.54,31.0
+,"('Central',)",Cottage Grove,Office Supplies,Art,41.86,7,0.0,10.47,25.01
+,"('Central',)",Cottage Grove,Office Supplies,Storage,174.97,11,0.2,-26.96,-15.41
+,"('Central',)",Cottage Grove,Technology,Accessories,567.74,11,0.2,137.51,24.22
+,"('Central',)",Dallas,Furniture,Bookcases,773.01,11,0.35,48.89,6.32
+,"('Central',)",Dallas,Furniture,Chairs,2254.85,38,1.5,85.73,3.8
+,"('Central',)",Dallas,Furniture,Furnishings,1614.25,49,2.2,328.61,20.36
+,"('Central',)",Dallas,Furniture,Tables,1829.74,12,1.85,-235.34,-12.86
+,"('Central',)",Dallas,Office Supplies,Appliances,1750.2,27,3.6,46.68,2.67
+,"('Central',)",Dallas,Office Supplies,Art,96.67,24,1.2,22.07,22.83
+,"('Central',)",Dallas,Office Supplies,Binders,2253.1,76,6.7,777.14,34.49
+,"('Central',)",Dallas,Office Supplies,Envelopes,946.19,21,0.8,356.97,37.73
+,"('Central',)",Dallas,Office Supplies,Fasteners,79.05,26,0.6,30.21,38.22
+,"('Central',)",Dallas,Office Supplies,Labels,42.18,11,0.4,15.86,37.6
+,"('Central',)",Dallas,Office Supplies,Paper,1388.79,109,3.4,541.27,38.97
+,"('Central',)",Dallas,Office Supplies,Storage,2300.27,48,2.0,-35.18,-1.53
+,"('Central',)",Dallas,Office Supplies,Supplies,191.72,20,0.8,10.68,5.57
+,"('Central',)",Dallas,Technology,Accessories,3277.56,83,2.8,403.41,12.31
+,"('Central',)",Dallas,Technology,Copiers,1599.92,8,0.0,751.96,47.0
+,"('Central',)",Dallas,Technology,Machines,4799.98,2,0.2,360.0,7.5
+,"('Central',)",Dallas,Technology,Phones,4439.08,37,2.0,460.03,10.36
+,"('Central',)",Dearborn,Furniture,Chairs,1705.88,7,0.2,157.77,9.25
+,"('Central',)",Dearborn,Furniture,Furnishings,21.94,2,0.6,-10.42,-47.49
+,"('Central',)",Dearborn,Office Supplies,Appliances,555.21,5,0.1,178.9,32.22
+,"('Central',)",Dearborn,Office Supplies,Art,171.0,16,0.2,49.8,29.12
+,"('Central',)",Dearborn,Office Supplies,Binders,58.47,15,2.5,-22.31,-38.16
+,"('Central',)",Dearborn,Office Supplies,Paper,50.88,8,0.6,17.17,33.75
+,"('Central',)",Dearborn,Office Supplies,Storage,601.03,9,0.0,152.58,25.39
+,"('Central',)",Dearborn,Technology,Accessories,18.54,2,0.2,3.01,16.24
+,"('Central',)",Dearborn,Technology,Phones,153.58,2,0.2,13.44,8.75
+,"('Central',)",Decatur,Office Supplies,Binders,50.35,3,0.2,17.62,35.0
+,"('Central',)",Decatur,Office Supplies,Paper,313.92,8,0.0,153.82,49.0
+,"('Central',)",Decatur,Office Supplies,Storage,24.82,2,0.2,1.86,7.49
+,"('Central',)",Decatur,Technology,Accessories,408.74,7,0.2,76.64,18.75
+,"('Central',)",Des Moines,Furniture,Chairs,643.14,4,0.2,56.27,8.75
+,"('Central',)",Des Moines,Furniture,Furnishings,103.53,12,0.0,43.48,42.0
+,"('Central',)",Des Moines,Office Supplies,Art,40.3,2,0.0,10.88,27.0
+,"('Central',)",Des Moines,Office Supplies,Binders,64.47,11,0.7,24.3,37.69
+,"('Central',)",Des Moines,Office Supplies,Paper,128.49,12,0.4,46.52,36.21
+,"('Central',)",Des Moines,Office Supplies,Storage,296.37,3,0.0,80.02,27.0
+,"('Central',)",Des Moines,Technology,Phones,246.98,5,0.0,53.75,21.76
+,"('Central',)",Detroit,Furniture,Bookcases,4198.39,16,0.62,158.56,3.78
+,"('Central',)",Detroit,Furniture,Chairs,2801.36,31,1.1,124.25,4.44
+,"('Central',)",Detroit,Furniture,Furnishings,796.55,30,1.8,334.65,42.01
+,"('Central',)",Detroit,Furniture,Tables,2286.26,18,0.5,37.73,1.65
+,"('Central',)",Detroit,Office Supplies,Appliances,606.66,27,0.8,-341.32,-56.26
+,"('Central',)",Detroit,Office Supplies,Art,62.25,18,0.4,14.35,23.05
+,"('Central',)",Detroit,Office Supplies,Binders,282.27,39,4.2,-4.69,-1.66
+,"('Central',)",Detroit,Office Supplies,Envelopes,83.17,6,0.2,30.81,37.04
+,"('Central',)",Detroit,Office Supplies,Fasteners,45.27,16,0.4,12.94,28.58
+,"('Central',)",Detroit,Office Supplies,Labels,185.94,21,0.6,80.48,43.28
+,"('Central',)",Detroit,Office Supplies,Paper,171.6,19,0.4,66.63,38.83
+,"('Central',)",Detroit,Office Supplies,Storage,668.28,34,1.2,81.89,12.25
+,"('Central',)",Detroit,Technology,Accessories,3066.45,23,0.6,724.58,23.63
+,"('Central',)",Detroit,Technology,Phones,4650.54,34,1.8,763.7,16.42
+,"('Central',)",Eagan,Furniture,Chairs,239.84,8,0.0,64.76,27.0
+,"('Central',)",Eagan,Furniture,Furnishings,60.72,3,0.0,23.68,39.0
+,"('Central',)",Eagan,Furniture,Tables,630.02,4,0.4,-199.51,-31.67
+,"('Central',)",Eagan,Office Supplies,Appliances,58.24,5,0.2,5.1,8.76
+,"('Central',)",Eagan,Office Supplies,Art,57.65,7,0.2,13.81,23.95
+,"('Central',)",Eagan,Office Supplies,Binders,50.74,7,0.8,-41.71,-82.2
+,"('Central',)",Eagan,Office Supplies,Fasteners,8.38,3,0.2,2.72,32.46
+,"('Central',)",Eagan,Office Supplies,Labels,15.66,6,0.0,7.2,45.98
+,"('Central',)",Eagan,Office Supplies,Paper,160.91,6,0.2,78.34,48.69
+,"('Central',)",Eagan,Office Supplies,Storage,79.4,5,0.2,5.96,7.51
+,"('Central',)",Eagan,Technology,Accessories,45.98,2,0.0,19.77,43.0
+,"('Central',)",Eagan,Technology,Phones,159.98,2,0.2,14.0,8.75
+,"('Central',)",Edmond,Furniture,Bookcases,2154.9,5,0.0,129.29,6.0
+,"('Central',)",Edmond,Furniture,Furnishings,40.48,2,0.0,17.41,43.01
+,"('Central',)",Edmond,Office Supplies,Appliances,83.9,10,0.0,20.98,25.01
+,"('Central',)",Edmond,Office Supplies,Fasteners,17.9,5,0.0,8.77,48.99
+,"('Central',)",Edmond,Office Supplies,Labels,14.62,2,0.0,6.87,46.99
+,"('Central',)",Edmond,Office Supplies,Paper,11.76,2,0.0,5.76,48.98
+,"('Central',)",Edmond,Technology,Accessories,583.92,12,0.0,85.79,14.69
+,"('Central',)",Edmond,Technology,Phones,1000.92,8,0.2,239.73,23.95
+,"('Central',)",El Paso,Furniture,Chairs,763.28,5,0.3,-21.81,-2.86
+,"('Central',)",El Paso,Furniture,Furnishings,95.4,12,2.0,-32.17,-33.72
+,"('Central',)",El Paso,Furniture,Tables,51.59,1,0.4,-15.48,-30.01
+,"('Central',)",El Paso,Office Supplies,Art,13.12,5,0.2,1.48,11.28
+,"('Central',)",El Paso,Office Supplies,Binders,3.8,1,0.8,-6.08,-160.0
+,"('Central',)",El Paso,Office Supplies,Fasteners,93.36,12,0.0,0.93,1.0
+,"('Central',)",El Paso,Office Supplies,Paper,20.74,4,0.2,7.26,35.0
+,"('Central',)",El Paso,Office Supplies,Storage,514.14,15,0.4,61.04,11.87
+,"('Central',)",El Paso,Technology,Accessories,483.08,10,0.4,-62.42,-12.92
+,"('Central',)",El Paso,Technology,Phones,180.48,8,0.4,3.08,1.71
+,"('Central',)",Elmhurst,Furniture,Tables,1673.18,12,0.2,20.91,1.25
+,"('Central',)",Elmhurst,Office Supplies,Binders,10.53,7,0.2,3.68,34.95
+,"('Central',)",Elmhurst,Office Supplies,Paper,9.66,2,0.2,3.26,33.75
+,"('Central',)",Elmhurst,Office Supplies,Storage,230.38,3,0.2,-48.95,-21.25
+,"('Central',)",Elmhurst,Office Supplies,Supplies,25.35,3,0.0,7.6,29.98
+,"('Central',)",Elmhurst,Technology,Accessories,199.75,5,0.0,87.89,44.0
+,"('Central',)",Evanston,Furniture,Chairs,1451.57,18,1.0,-140.23,-9.66
+,"('Central',)",Evanston,Furniture,Furnishings,32.06,3,0.6,-12.83,-40.02
+,"('Central',)",Evanston,Furniture,Tables,435.17,4,0.4,7.32,1.68
+,"('Central',)",Evanston,Office Supplies,Appliances,130.11,2,0.2,13.01,10.0
+,"('Central',)",Evanston,Office Supplies,Art,17.94,3,0.0,6.46,36.01
+,"('Central',)",Evanston,Office Supplies,Binders,294.94,7,1.6,-230.15,-78.03
+,"('Central',)",Evanston,Office Supplies,Envelopes,604.66,9,0.2,204.07,33.75
+,"('Central',)",Evanston,Office Supplies,Fasteners,4.82,3,0.2,1.75,36.31
+,"('Central',)",Evanston,Office Supplies,Labels,6.26,3,0.2,2.04,32.59
+,"('Central',)",Evanston,Office Supplies,Paper,133.19,13,0.6,46.24,34.72
+,"('Central',)",Evanston,Technology,Accessories,40.78,3,0.2,0.51,1.25
+,"('Central',)",Evanston,Technology,Phones,11.99,1,0.2,0.9,7.51
+,"('Central',)",Fort Worth,Furniture,Chairs,1242.9,5,0.1,262.39,21.11
+,"('Central',)",Fort Worth,Furniture,Furnishings,113.14,6,0.6,47.47,41.96
+,"('Central',)",Fort Worth,Office Supplies,Appliances,68.81,5,0.8,-123.86,-180.0
+,"('Central',)",Fort Worth,Office Supplies,Binders,216.69,16,1.9,68.45,31.59
+,"('Central',)",Fort Worth,Office Supplies,Fasteners,21.48,6,0.0,10.74,50.0
+,"('Central',)",Fort Worth,Office Supplies,Paper,211.38,12,0.2,94.29,44.61
+,"('Central',)",Fort Worth,Office Supplies,Supplies,70.12,4,0.0,21.04,30.01
+,"('Central',)",Fort Worth,Technology,Accessories,95.98,2,0.2,12.0,12.5
+,"('Central',)",Franklin,Furniture,Chairs,1951.84,8,0.0,585.55,30.0
+,"('Central',)",Franklin,Furniture,Furnishings,14.76,2,0.0,4.28,29.0
+,"('Central',)",Franklin,Office Supplies,Binders,192.48,9,0.2,88.22,45.83
+,"('Central',)",Franklin,Office Supplies,Labels,3.75,1,0.0,1.8,48.0
+,"('Central',)",Franklin,Technology,Phones,534.42,14,0.0,109.8,20.55
+,"('Central',)",Fremont,Furniture,Chairs,1013.83,9,0.2,101.38,10.0
+,"('Central',)",Fremont,Furniture,Furnishings,79.92,4,0.0,34.37,43.01
+,"('Central',)",Fremont,Office Supplies,Appliances,60.34,7,0.0,15.69,26.0
+,"('Central',)",Fremont,Office Supplies,Art,124.48,12,0.2,20.92,16.81
+,"('Central',)",Fremont,Office Supplies,Binders,9.76,2,0.7,-6.83,-69.98
+,"('Central',)",Fremont,Office Supplies,Fasteners,10.7,7,0.4,2.96,27.66
+,"('Central',)",Fremont,Office Supplies,Paper,488.14,17,0.2,228.01,46.71
+,"('Central',)",Fremont,Office Supplies,Storage,322.37,11,0.0,34.45,10.69
+,"('Central',)",Fremont,Office Supplies,Supplies,64.4,5,0.0,1.93,3.0
+,"('Central',)",Fremont,Technology,Accessories,421.11,11,0.4,90.84,21.57
+,"('Central',)",Fremont,Technology,Phones,149.69,17,0.4,55.64,37.17
+,"('Central',)",Gladstone,Furniture,Furnishings,126.3,3,0.0,40.42,32.0
+,"('Central',)",Gladstone,Office Supplies,Binders,44.35,10,0.6,15.47,34.88
+,"('Central',)",Gladstone,Office Supplies,Labels,104.67,13,0.0,50.35,48.1
+,"('Central',)",Gladstone,Office Supplies,Paper,186.87,9,0.2,60.36,32.3
+,"('Central',)",Gladstone,Technology,Accessories,218.01,5,0.0,98.56,45.21
+,"('Central',)",Gladstone,Technology,Phones,327.94,7,0.2,83.19,25.37
+,"('Central',)",Grand Prairie,Furniture,Bookcases,115.96,4,0.5,-64.94,-56.0
+,"('Central',)",Grand Prairie,Furniture,Chairs,2087.71,20,1.3,-45.76,-2.19
+,"('Central',)",Grand Prairie,Furniture,Furnishings,48.16,13,1.2,-11.6,-24.09
+,"('Central',)",Grand Prairie,Furniture,Tables,253.18,3,0.2,-31.65,-12.5
+,"('Central',)",Grand Prairie,Office Supplies,Appliances,79.47,3,0.0,22.25,28.0
+,"('Central',)",Grand Prairie,Office Supplies,Art,86.29,11,0.2,24.91,28.87
+,"('Central',)",Grand Prairie,Office Supplies,Binders,820.61,30,2.9,241.19,29.39
+,"('Central',)",Grand Prairie,Office Supplies,Fasteners,3.29,1,0.0,1.48,44.98
+,"('Central',)",Grand Prairie,Office Supplies,Paper,255.41,22,0.4,117.18,45.88
+,"('Central',)",Grand Prairie,Office Supplies,Storage,198.15,13,0.4,27.03,13.64
+,"('Central',)",Grand Prairie,Technology,Accessories,559.95,13,0.0,183.58,32.79
+,"('Central',)",Grand Prairie,Technology,Phones,444.55,10,0.2,87.66,19.72
+,"('Central',)",Grapevine,Furniture,Bookcases,781.86,10,0.32,-137.98,-17.65
+,"('Central',)",Grapevine,Furniture,Chairs,1526.63,12,0.8,-173.51,-11.37
+,"('Central',)",Grapevine,Office Supplies,Art,38.83,9,0.2,7.36,18.95
+,"('Central',)",Grapevine,Office Supplies,Binders,62.77,18,2.2,-31.93,-50.87
+,"('Central',)",Grapevine,Office Supplies,Fasteners,8.04,5,0.2,2.91,36.19
+,"('Central',)",Grapevine,Office Supplies,Labels,3.15,1,0.0,1.51,47.94
+,"('Central',)",Grapevine,Office Supplies,Paper,54.07,15,0.6,17.45,32.27
+,"('Central',)",Grapevine,Office Supplies,Storage,497.61,9,0.0,129.38,26.0
+,"('Central',)",Grapevine,Technology,Accessories,100.8,2,0.2,21.42,21.25
+,"('Central',)",Grapevine,Technology,Phones,1078.94,8,0.6,-208.33,-19.31
+,"('Central',)",Green Bay,Furniture,Bookcases,359.5,3,0.15,-29.61,-8.24
+,"('Central',)",Green Bay,Furniture,Chairs,685.15,10,0.8,-73.23,-10.69
+,"('Central',)",Green Bay,Furniture,Furnishings,144.19,14,1.2,-14.32,-9.93
+,"('Central',)",Green Bay,Furniture,Tables,136.46,2,0.2,15.35,11.25
+,"('Central',)",Green Bay,Office Supplies,Appliances,215.13,7,0.2,58.17,27.04
+,"('Central',)",Green Bay,Office Supplies,Binders,79.47,17,2.0,-61.14,-76.93
+,"('Central',)",Green Bay,Office Supplies,Envelopes,31.12,4,0.0,14.63,47.01
+,"('Central',)",Green Bay,Office Supplies,Fasteners,48.55,6,0.4,16.32,33.61
+,"('Central',)",Green Bay,Office Supplies,Labels,6.26,3,0.2,2.04,32.59
+,"('Central',)",Green Bay,Office Supplies,Paper,408.48,34,0.8,132.8,32.51
+,"('Central',)",Green Bay,Office Supplies,Storage,10.48,1,0.0,2.83,27.0
+,"('Central',)",Green Bay,Technology,Accessories,468.9,6,0.0,206.32,44.0
+,"('Central',)",Green Bay,Technology,Copiers,319.98,2,0.2,107.99,33.75
+,"('Central',)",Green Bay,Technology,Machines,1035.8,4,0.0,269.31,26.0
+,"('Central',)",Green Bay,Technology,Phones,3350.28,14,0.6,796.67,23.78
+,"('Central',)",Harlingen,Furniture,Tables,35.54,1,0.2,-0.89,-2.5
+,"('Central',)",Harlingen,Office Supplies,Binders,33.57,8,0.8,-53.71,-159.99
+,"('Central',)",Harlingen,Office Supplies,Fasteners,3.96,2,0.0,0.08,2.02
+,"('Central',)",Harlingen,Office Supplies,Labels,61.06,2,0.0,28.09,46.0
+,"('Central',)",Harlingen,Office Supplies,Paper,38.88,7,0.2,15.62,40.17
+,"('Central',)",Harlingen,Office Supplies,Storage,53.42,3,0.2,4.67,8.74
+,"('Central',)",Highland Park,Furniture,Chairs,562.74,4,0.6,-24.12,-4.29
+,"('Central',)",Highland Park,Furniture,Furnishings,54.3,6,0.2,9.42,17.35
+,"('Central',)",Highland Park,Furniture,Tables,286.85,1,0.0,63.11,22.0
+,"('Central',)",Highland Park,Office Supplies,Appliances,671.54,3,0.2,50.37,7.5
+,"('Central',)",Highland Park,Office Supplies,Binders,1059.28,33,3.8,401.63,37.92
+,"('Central',)",Highland Park,Office Supplies,Envelopes,35.7,4,0.0,16.98,47.56
+,"('Central',)",Highland Park,Office Supplies,Paper,59.44,2,0.0,28.53,48.0
+,"('Central',)",Highland Park,Office Supplies,Storage,1284.18,10,0.0,251.34,19.57
+,"('Central',)",Highland Park,Technology,Accessories,267.94,7,0.2,88.84,33.16
+,"('Central',)",Highland Park,Technology,Machines,703.71,6,0.7,-938.28,-133.33
+,"('Central',)",Houston,Furniture,Bookcases,9807.74,44,2.49,-648.65,-6.61
+,"('Central',)",Houston,Furniture,Chairs,12895.72,87,3.6,1540.41,11.95
+,"('Central',)",Houston,Furniture,Furnishings,2026.51,108,6.2,395.24,19.5
+,"('Central',)",Houston,Furniture,Tables,4089.08,30,2.1,-117.09,-2.86
+,"('Central',)",Houston,Office Supplies,Appliances,3751.56,71,4.7,-403.23,-10.75
+,"('Central',)",Houston,Office Supplies,Art,2149.81,157,3.4,557.26,25.92
+,"('Central',)",Houston,Office Supplies,Binders,3971.84,212,22.4,1152.24,29.01
+,"('Central',)",Houston,Office Supplies,Envelopes,398.66,31,0.8,147.91,37.1
+,"('Central',)",Houston,Office Supplies,Fasteners,107.43,29,0.8,44.27,41.21
+,"('Central',)",Houston,Office Supplies,Labels,231.66,42,0.6,98.67,42.59
+,"('Central',)",Houston,Office Supplies,Paper,4032.82,211,4.4,1785.53,44.27
+,"('Central',)",Houston,Office Supplies,Storage,5386.44,119,3.8,322.08,5.98
+,"('Central',)",Houston,Office Supplies,Supplies,253.23,29,0.2,35.65,14.08
+,"('Central',)",Houston,Technology,Accessories,5194.94,103,3.4,1134.84,21.85
+,"('Central',)",Houston,Technology,Copiers,14849.89,11,0.2,6944.96,46.77
+,"('Central',)",Houston,Technology,Machines,8012.4,29,2.2,-1608.76,-20.08
+,"('Central',)",Houston,Technology,Phones,9996.79,112,4.0,1898.16,18.99
+,"('Central',)",Huntsville,Furniture,Bookcases,1228.0,6,0.32,-36.12,-2.94
+,"('Central',)",Huntsville,Furniture,Chairs,1101.64,10,0.7,68.16,6.19
+,"('Central',)",Huntsville,Furniture,Furnishings,21.18,1,0.2,4.77,22.52
+,"('Central',)",Huntsville,Office Supplies,Appliances,41.38,6,0.2,3.1,7.49
+,"('Central',)",Huntsville,Office Supplies,Art,146.35,9,0.4,21.88,14.95
+,"('Central',)",Huntsville,Office Supplies,Binders,330.26,23,2.7,128.54,38.92
+,"('Central',)",Huntsville,Office Supplies,Fasteners,7.56,6,0.0,0.3,3.97
+,"('Central',)",Huntsville,Office Supplies,Labels,14.62,2,0.0,6.87,46.99
+,"('Central',)",Huntsville,Office Supplies,Paper,111.77,17,0.2,51.64,46.2
+,"('Central',)",Huntsville,Office Supplies,Storage,941.37,13,0.2,127.7,13.57
+,"('Central',)",Huntsville,Technology,Accessories,63.98,2,0.2,10.4,16.26
+,"('Central',)",Huntsville,Technology,Phones,1770.24,18,1.0,131.21,7.41
+,"('Central',)",Independence,Furniture,Bookcases,425.83,1,0.15,20.04,4.71
+,"('Central',)",Independence,Furniture,Chairs,323.14,4,0.2,20.2,6.25
+,"('Central',)",Independence,Office Supplies,Appliances,839.43,3,0.0,218.25,26.0
+,"('Central',)",Independence,Office Supplies,Art,5.04,3,0.0,1.26,25.0
+,"('Central',)",Independence,Office Supplies,Binders,398.35,3,0.2,124.48,31.25
+,"('Central',)",Independence,Office Supplies,Fasteners,17.45,5,0.0,8.03,46.02
+,"('Central',)",Independence,Office Supplies,Paper,24.96,2,0.0,11.73,47.0
+,"('Central',)",Independence,Office Supplies,Storage,46.84,2,0.0,12.65,27.01
+,"('Central',)",Independence,Office Supplies,Supplies,29.7,3,0.0,8.02,27.0
+,"('Central',)",Independence,Technology,Phones,1295.84,4,0.2,145.78,11.25
+,"('Central',)",Indianapolis,Furniture,Bookcases,901.61,8,0.15,37.59,4.17
+,"('Central',)",Indianapolis,Furniture,Chairs,225.3,2,0.2,22.53,10.0
+,"('Central',)",Indianapolis,Furniture,Furnishings,140.54,14,1.2,-34.61,-24.63
+,"('Central',)",Indianapolis,Furniture,Tables,701.64,10,0.85,-256.42,-36.55
+,"('Central',)",Indianapolis,Office Supplies,Appliances,125.13,3,0.0,36.29,29.0
+,"('Central',)",Indianapolis,Office Supplies,Art,85.39,17,0.4,17.63,20.65
+,"('Central',)",Indianapolis,Office Supplies,Binders,44.91,17,1.4,-3.71,-8.26
+,"('Central',)",Indianapolis,Office Supplies,Envelopes,93.91,7,0.0,44.13,46.99
+,"('Central',)",Indianapolis,Office Supplies,Labels,62.46,9,0.2,28.78,46.08
+,"('Central',)",Indianapolis,Office Supplies,Paper,91.32,17,0.0,42.2,46.21
+,"('Central',)",Indianapolis,Office Supplies,Storage,909.12,8,0.0,9.09,1.0
+,"('Central',)",Indianapolis,Technology,Phones,356.74,3,0.4,38.59,10.82
+,"('Central',)",Irving,Furniture,Furnishings,580.86,5,0.0,151.02,26.0
+,"('Central',)",Irving,Office Supplies,Appliances,1245.86,7,0.0,361.3,29.0
+,"('Central',)",Irving,Office Supplies,Art,421.42,17,0.0,123.64,29.34
+,"('Central',)",Irving,Office Supplies,Binders,38.28,6,0.0,17.61,46.0
+,"('Central',)",Irving,Office Supplies,Labels,15.94,4,0.2,5.18,32.5
+,"('Central',)",Irving,Office Supplies,Paper,3.42,1,0.2,1.07,31.29
+,"('Central',)",Irving,Technology,Accessories,217.56,7,0.2,55.36,25.45
+,"('Central',)",Irving,Technology,Phones,149.95,5,0.0,44.98,30.0
+,"('Central',)",Jackson,Furniture,Chairs,199.3,4,0.3,-8.54,-4.28
+,"('Central',)",Jackson,Furniture,Furnishings,250.92,12,0.0,90.72,36.15
+,"('Central',)",Jackson,Furniture,Tables,1159.3,8,0.3,145.36,12.54
+,"('Central',)",Jackson,Office Supplies,Binders,46.8,4,0.0,21.06,45.0
+,"('Central',)",Jackson,Office Supplies,Envelopes,20.94,1,0.2,7.07,33.76
+,"('Central',)",Jackson,Office Supplies,Paper,181.88,7,0.0,88.12,48.45
+,"('Central',)",Jackson,Office Supplies,Storage,352.38,2,0.0,81.05,23.0
+,"('Central',)",Jackson,Technology,Accessories,1928.78,7,0.0,829.38,43.0
+,"('Central',)",Jackson,Technology,Phones,1469.78,6,0.0,391.45,26.63
+,"('Central',)",Kenosha,Furniture,Bookcases,512.94,3,0.0,97.46,19.0
+,"('Central',)",Kenosha,Furniture,Chairs,860.93,7,0.0,189.4,22.0
+,"('Central',)",Kenosha,Furniture,Furnishings,932.28,14,0.4,137.1,14.71
+,"('Central',)",Kenosha,Office Supplies,Appliances,186.15,3,0.0,55.84,30.0
+,"('Central',)",Kenosha,Office Supplies,Art,208.72,21,0.4,33.56,16.08
+,"('Central',)",Kenosha,Office Supplies,Binders,327.82,27,1.8,97.1,29.62
+,"('Central',)",Kenosha,Office Supplies,Paper,197.34,5,0.2,94.05,47.66
+,"('Central',)",Kenosha,Office Supplies,Storage,582.15,6,0.0,172.3,29.6
+,"('Central',)",Kenosha,Office Supplies,Supplies,47.19,3,0.0,13.69,29.01
+,"('Central',)",Kenosha,Technology,Accessories,413.06,16,0.0,48.66,11.78
+,"('Central',)",Kenosha,Technology,Copiers,299.99,1,0.0,90.0,30.0
+,"('Central',)",Kenosha,Technology,Phones,1884.3,20,0.4,503.09,26.7
+,"('Central',)",La Porte,Furniture,Chairs,951.76,8,0.3,20.63,2.17
+,"('Central',)",La Porte,Furniture,Furnishings,708.22,12,0.0,66.26,9.36
+,"('Central',)",La Porte,Furniture,Tables,1229.22,7,0.3,-15.23,-1.24
+,"('Central',)",La Porte,Office Supplies,Appliances,842.32,15,0.2,242.65,28.81
+,"('Central',)",La Porte,Office Supplies,Art,193.13,19,0.0,59.25,30.68
+,"('Central',)",La Porte,Office Supplies,Binders,1514.02,25,1.9,565.72,37.37
+,"('Central',)",La Porte,Office Supplies,Envelopes,334.98,14,0.2,146.37,43.7
+,"('Central',)",La Porte,Office Supplies,Labels,26.06,6,0.0,12.44,47.74
+,"('Central',)",La Porte,Office Supplies,Paper,462.52,26,0.4,178.95,38.69
+,"('Central',)",La Porte,Office Supplies,Storage,469.88,21,0.0,58.63,12.48
+,"('Central',)",La Porte,Technology,Accessories,515.8,17,0.2,174.75,33.88
+,"('Central',)",La Porte,Technology,Machines,885.04,6,0.8,83.35,9.42
+,"('Central',)",La Porte,Technology,Phones,1748.45,32,1.4,312.37,17.87
+,"('Central',)",Lakeville,Furniture,Chairs,2001.86,7,0.0,580.54,29.0
+,"('Central',)",Lakeville,Furniture,Tables,674.35,3,0.2,-8.43,-1.25
+,"('Central',)",Lakeville,Office Supplies,Appliances,1503.25,5,0.0,496.07,33.0
+,"('Central',)",Lakeville,Office Supplies,Art,34.58,1,0.0,10.03,29.01
+,"('Central',)",Lakeville,Office Supplies,Binders,58.34,2,0.0,28.0,47.99
+,"('Central',)",Lakeville,Office Supplies,Paper,73.8,10,0.0,36.38,49.3
+,"('Central',)",Lakeville,Office Supplies,Storage,166.72,2,0.0,41.68,25.0
+,"('Central',)",Lakeville,Technology,Phones,758.73,8,0.2,164.48,21.68
+,"('Central',)",Lansing,Office Supplies,Appliances,644.08,2,0.1,107.35,16.67
+,"('Central',)",Lansing,Office Supplies,Art,217.2,19,0.2,53.84,24.79
+,"('Central',)",Lansing,Office Supplies,Binders,29.98,6,0.2,11.9,39.69
+,"('Central',)",Lansing,Office Supplies,Fasteners,18.72,11,0.2,7.96,42.52
+,"('Central',)",Lansing,Office Supplies,Paper,18.04,3,0.0,8.77,48.61
+,"('Central',)",Lansing,Office Supplies,Storage,834.06,6,0.0,168.55,20.21
+,"('Central',)",Lansing,Technology,Accessories,88.4,4,0.0,11.49,13.0
+,"('Central',)",Lansing,Technology,Copiers,599.98,2,0.0,209.99,35.0
+,"('Central',)",Lansing,Technology,Phones,10.95,1,0.0,0.44,4.02
+,"('Central',)",Laredo,Furniture,Furnishings,79.92,4,0.0,28.77,36.0
+,"('Central',)",Laredo,Furniture,Tables,239.37,2,0.3,-23.94,-10.0
+,"('Central',)",Laredo,Office Supplies,Art,9.34,2,0.2,1.17,12.53
+,"('Central',)",Laredo,Office Supplies,Binders,10.51,3,0.2,3.68,35.01
+,"('Central',)",Laredo,Technology,Accessories,31.2,3,0.2,9.75,31.25
+,"('Central',)",Lincoln Park,Furniture,Bookcases,194.32,4,0.0,31.09,16.0
+,"('Central',)",Lincoln Park,Furniture,Tables,99.37,2,0.3,-1.42,-1.43
+,"('Central',)",Lincoln Park,Office Supplies,Appliances,876.98,8,0.4,66.8,7.62
+,"('Central',)",Lincoln Park,Office Supplies,Art,37.83,6,0.4,9.22,24.37
+,"('Central',)",Lincoln Park,Office Supplies,Binders,12.83,2,0.2,4.33,33.75
+,"('Central',)",Lincoln Park,Office Supplies,Storage,100.7,6,0.2,-1.26,-1.25
+,"('Central',)",Madison,Furniture,Chairs,962.23,10,0.5,22.88,2.38
+,"('Central',)",Madison,Furniture,Furnishings,409.14,5,0.0,202.13,49.4
+,"('Central',)",Madison,Furniture,Tables,1478.27,8,0.2,92.39,6.25
+,"('Central',)",Madison,Office Supplies,Appliances,100.94,7,0.0,33.31,33.0
+,"('Central',)",Madison,Office Supplies,Binders,4397.98,27,0.8,1487.71,33.83
+,"('Central',)",Madison,Office Supplies,Envelopes,10.86,3,0.0,5.1,46.96
+,"('Central',)",Madison,Office Supplies,Fasteners,21.48,6,0.0,10.53,49.02
+,"('Central',)",Madison,Office Supplies,Labels,52.87,11,0.0,25.18,47.63
+,"('Central',)",Madison,Office Supplies,Paper,229.07,13,0.2,88.76,38.75
+,"('Central',)",Madison,Office Supplies,Storage,948.92,13,0.0,61.92,6.53
+,"('Central',)",Madison,Technology,Accessories,35.17,4,0.2,8.35,23.74
+,"('Central',)",Mcallen,Office Supplies,Art,10.5,5,0.0,2.94,28.0
+,"('Central',)",Mcallen,Office Supplies,Binders,8.87,8,1.6,-13.94,-157.16
+,"('Central',)",Mcallen,Office Supplies,Paper,19.65,2,0.2,6.63,33.74
+,"('Central',)",Mcallen,Office Supplies,Storage,8.93,2,0.2,0.67,7.5
+,"('Central',)",Mesquite,Furniture,Chairs,1352.03,4,0.2,84.5,6.25
+,"('Central',)",Mesquite,Office Supplies,Appliances,1640.7,5,0.0,459.4,28.0
+,"('Central',)",Mesquite,Office Supplies,Art,259.26,8,0.2,113.46,43.76
+,"('Central',)",Mesquite,Office Supplies,Binders,4.54,2,0.2,1.65,36.34
+,"('Central',)",Mesquite,Office Supplies,Paper,28.7,6,0.4,10.34,36.03
+,"('Central',)",Mesquite,Office Supplies,Storage,51.97,2,0.2,-10.39,-19.99
+,"('Central',)",Mesquite,Technology,Phones,552.16,10,0.4,55.33,10.02
+,"('Central',)",Milwaukee,Furniture,Chairs,2280.82,13,0.8,-116.79,-5.12
+,"('Central',)",Milwaukee,Furniture,Furnishings,526.49,19,0.8,146.25,27.78
+,"('Central',)",Milwaukee,Furniture,Tables,913.43,5,0.3,-169.64,-18.57
+,"('Central',)",Milwaukee,Office Supplies,Appliances,430.77,10,0.8,103.98,24.14
+,"('Central',)",Milwaukee,Office Supplies,Art,264.37,26,0.4,61.08,23.1
+,"('Central',)",Milwaukee,Office Supplies,Binders,316.35,39,3.3,16.05,5.07
+,"('Central',)",Milwaukee,Office Supplies,Labels,24.9,5,0.0,11.45,45.98
+,"('Central',)",Milwaukee,Office Supplies,Paper,478.76,26,0.0,230.31,48.11
+,"('Central',)",Milwaukee,Office Supplies,Storage,3162.82,27,0.8,58.69,1.86
+,"('Central',)",Milwaukee,Technology,Accessories,543.86,13,0.4,186.55,34.3
+,"('Central',)",Milwaukee,Technology,Copiers,2999.95,5,0.0,1439.98,48.0
+,"('Central',)",Milwaukee,Technology,Machines,3059.98,2,0.1,680.0,22.22
+,"('Central',)",Milwaukee,Technology,Phones,870.91,10,0.6,117.66,13.51
+,"('Central',)",Minneapolis,Furniture,Bookcases,305.97,3,0.15,25.2,8.24
+,"('Central',)",Minneapolis,Furniture,Chairs,1986.52,11,0.0,482.59,24.29
+,"('Central',)",Minneapolis,Furniture,Furnishings,918.87,21,0.4,-38.11,-4.15
+,"('Central',)",Minneapolis,Furniture,Tables,1128.39,3,0.0,259.53,23.0
+,"('Central',)",Minneapolis,Office Supplies,Appliances,2920.66,12,0.0,731.76,25.05
+,"('Central',)",Minneapolis,Office Supplies,Art,62.17,6,0.2,15.25,24.53
+,"('Central',)",Minneapolis,Office Supplies,Binders,3863.49,48,3.8,1510.74,39.1
+,"('Central',)",Minneapolis,Office Supplies,Envelopes,112.69,6,0.2,38.35,34.03
+,"('Central',)",Minneapolis,Office Supplies,Fasteners,2.3,1,0.2,0.78,33.91
+,"('Central',)",Minneapolis,Office Supplies,Labels,42.0,10,0.2,17.5,41.67
+,"('Central',)",Minneapolis,Office Supplies,Paper,199.58,22,0.4,89.57,44.88
+,"('Central',)",Minneapolis,Office Supplies,Storage,490.03,7,0.2,-7.75,-1.58
+,"('Central',)",Minneapolis,Office Supplies,Supplies,5595.69,5,0.2,-752.7,-13.45
+,"('Central',)",Minneapolis,Technology,Accessories,230.34,14,0.6,13.26,5.76
+,"('Central',)",Minneapolis,Technology,Copiers,479.98,2,0.2,60.0,12.5
+,"('Central',)",Minneapolis,Technology,Phones,3150.22,24,1.2,226.43,7.19
+,"('Central',)",Mishawaka,Furniture,Chairs,647.84,8,0.0,32.39,5.0
+,"('Central',)",Mishawaka,Office Supplies,Art,136.58,13,0.2,33.27,24.36
+,"('Central',)",Mishawaka,Office Supplies,Binders,118.31,9,2.2,34.57,29.22
+,"('Central',)",Naperville,Furniture,Chairs,1674.4,12,0.9,-131.47,-7.85
+,"('Central',)",Naperville,Furniture,Furnishings,20.32,4,0.0,6.91,34.01
+,"('Central',)",Naperville,Office Supplies,Art,11.31,7,0.2,5.11,45.18
+,"('Central',)",Naperville,Office Supplies,Binders,130.82,15,1.6,39.79,30.42
+,"('Central',)",Naperville,Office Supplies,Labels,11.78,3,0.2,4.27,36.25
+,"('Central',)",Naperville,Office Supplies,Paper,30.31,6,0.4,10.25,33.82
+,"('Central',)",Naperville,Office Supplies,Storage,272.74,3,0.2,-64.77,-23.75
+,"('Central',)",Naperville,Technology,Accessories,286.25,9,0.2,86.26,30.13
+,"('Central',)",Naperville,Technology,Machines,2396.4,10,0.2,179.73,7.5
+,"('Central',)",Naperville,Technology,Phones,715.46,15,0.4,102.51,14.33
+,"('Central',)",New Albany,Furniture,Chairs,89.99,1,0.0,17.1,19.0
+,"('Central',)",New Albany,Furniture,Furnishings,96.25,10,1.2,-47.8,-49.66
+,"('Central',)",New Albany,Office Supplies,Art,38.35,6,0.0,12.77,33.3
+,"('Central',)",New Albany,Office Supplies,Binders,104.15,15,1.4,-33.76,-32.41
+,"('Central',)",New Albany,Office Supplies,Labels,80.22,8,0.2,37.09,46.24
+,"('Central',)",New Albany,Office Supplies,Paper,499.71,14,0.6,226.53,45.33
+,"('Central',)",New Albany,Technology,Accessories,127.98,2,0.2,25.6,20.0
+,"('Central',)",New Albany,Technology,Phones,13.98,2,0.0,3.91,27.97
+,"('Central',)",Oklahoma City,Furniture,Furnishings,14.89,1,0.0,4.02,27.0
+,"('Central',)",Oklahoma City,Furniture,Tables,210.01,1,0.2,2.63,1.25
+,"('Central',)",Oklahoma City,Office Supplies,Envelopes,325.86,2,0.0,149.9,46.0
+,"('Central',)",Oklahoma City,Technology,Phones,543.92,8,0.0,135.98,25.0
+,"('Central',)",Olathe,Furniture,Chairs,110.98,1,0.0,15.54,14.0
+,"('Central',)",Olathe,Furniture,Furnishings,54.71,7,0.2,11.63,21.26
+,"('Central',)",Olathe,Office Supplies,Appliances,54.48,1,0.0,15.25,27.99
+,"('Central',)",Olathe,Office Supplies,Art,107.94,3,0.0,26.98,25.0
+,"('Central',)",Olathe,Office Supplies,Binders,34.6,10,0.7,6.31,18.24
+,"('Central',)",Olathe,Office Supplies,Fasteners,7.22,2,0.2,1.71,23.68
+,"('Central',)",Olathe,Office Supplies,Paper,57.97,4,0.2,19.61,33.83
+,"('Central',)",Olathe,Office Supplies,Storage,848.54,4,0.2,-21.21,-2.5
+,"('Central',)",Olathe,Technology,Accessories,199.98,2,0.0,83.99,42.0
+,"('Central',)",Olathe,Technology,Phones,251.23,6,0.4,-20.61,-8.2
+,"('Central',)",Omaha,Furniture,Bookcases,217.76,6,0.7,-384.72,-176.67
+,"('Central',)",Omaha,Furniture,Chairs,191.96,2,0.0,51.83,27.0
+,"('Central',)",Omaha,Furniture,Furnishings,209.88,3,0.0,35.68,17.0
+,"('Central',)",Omaha,Office Supplies,Art,95.14,7,0.2,10.7,11.25
+,"('Central',)",Omaha,Office Supplies,Binders,43.94,10,0.7,-6.8,-15.48
+,"('Central',)",Omaha,Office Supplies,Supplies,39.07,6,0.2,4.4,11.26
+,"('Central',)",Omaha,Technology,Phones,2949.91,9,0.0,875.58,29.68
+,"('Central',)",Orland Park,Office Supplies,Art,10.16,1,0.0,2.64,25.98
+,"('Central',)",Orland Park,Office Supplies,Binders,162.56,11,0.9,68.4,42.08
+,"('Central',)",Orland Park,Office Supplies,Envelopes,216.73,10,0.2,86.83,40.06
+,"('Central',)",Orland Park,Technology,Accessories,339.96,5,0.2,67.99,20.0
+,"('Central',)",Park Ridge,Furniture,Furnishings,291.28,13,1.4,-311.84,-107.06
+,"('Central',)",Park Ridge,Office Supplies,Binders,12.2,7,0.7,-9.76,-80.0
+,"('Central',)",Park Ridge,Office Supplies,Labels,29.12,10,0.2,13.0,44.64
+,"('Central',)",Park Ridge,Office Supplies,Paper,11.95,3,0.2,4.03,33.72
+,"('Central',)",Park Ridge,Office Supplies,Storage,124.61,4,0.2,-23.36,-18.75
+,"('Central',)",Pasadena,Furniture,Chairs,1177.02,11,0.5,172.3,14.64
+,"('Central',)",Pasadena,Furniture,Furnishings,28.35,5,0.2,10.51,37.07
+,"('Central',)",Pasadena,Office Supplies,Appliances,1.62,2,0.8,-4.47,-275.93
+,"('Central',)",Pasadena,Office Supplies,Art,15.53,3,0.2,4.85,31.23
+,"('Central',)",Pasadena,Office Supplies,Binders,26.29,7,0.4,9.12,34.69
+,"('Central',)",Pasadena,Office Supplies,Envelopes,77.54,6,0.4,27.41,35.35
+,"('Central',)",Pasadena,Office Supplies,Fasteners,5.68,2,0.2,1.92,33.8
+,"('Central',)",Pasadena,Office Supplies,Labels,73.54,12,0.8,32.01,43.53
+,"('Central',)",Pasadena,Office Supplies,Paper,36.29,7,0.4,12.7,35.0
+,"('Central',)",Pasadena,Office Supplies,Storage,857.78,16,0.0,104.38,12.17
+,"('Central',)",Pasadena,Office Supplies,Supplies,13.68,2,0.0,3.69,26.97
+,"('Central',)",Pasadena,Technology,Accessories,417.11,10,0.2,87.27,20.92
+,"('Central',)",Pasadena,Technology,Machines,336.51,3,0.4,44.87,13.33
+,"('Central',)",Pasadena,Technology,Phones,195.96,5,0.2,19.6,10.0
+,"('Central',)",Peoria,Furniture,Bookcases,647.04,6,0.5,-28.71,-4.44
+,"('Central',)",Peoria,Office Supplies,Appliances,171.54,14,0.8,-155.4,-90.59
+,"('Central',)",Peoria,Office Supplies,Art,265.86,13,0.4,62.24,23.41
+,"('Central',)",Peoria,Office Supplies,Binders,4857.86,38,3.2,1701.61,35.03
+,"('Central',)",Peoria,Office Supplies,Fasteners,41.92,14,0.2,16.67,39.77
+,"('Central',)",Peoria,Office Supplies,Labels,14.62,2,0.0,6.87,46.99
+,"('Central',)",Peoria,Office Supplies,Paper,188.19,15,0.2,79.21,42.09
+,"('Central',)",Peoria,Office Supplies,Storage,14.97,1,0.0,4.19,27.99
+,"('Central',)",Peoria,Technology,Accessories,95.98,3,0.2,-10.8,-11.25
+,"('Central',)",Peoria,Technology,Phones,1624.8,14,0.4,329.91,20.3
+,"('Central',)",Plano,Furniture,Bookcases,193.07,4,0.32,-19.87,-10.29
+,"('Central',)",Plano,Furniture,Chairs,563.94,3,0.0,112.79,20.0
+,"('Central',)",Plano,Office Supplies,Appliances,176.77,3,0.8,-459.61,-260.0
+,"('Central',)",Plano,Office Supplies,Art,3.9,2,0.0,1.52,38.97
+,"('Central',)",Plano,Office Supplies,Binders,3.39,4,0.8,-5.09,-150.15
+,"('Central',)",Plano,Office Supplies,Paper,116.09,23,0.8,42.24,36.39
+,"('Central',)",Plano,Office Supplies,Storage,1685.42,19,0.4,88.53,5.25
+,"('Central',)",Plano,Technology,Machines,418.8,2,0.4,-97.72,-23.33
+,"('Central',)",Plano,Technology,Phones,201.58,2,0.2,20.16,10.0
+,"('Central',)",Quincy,Furniture,Chairs,196.78,2,0.2,-22.14,-11.25
+,"('Central',)",Quincy,Furniture,Furnishings,9.82,2,0.0,3.24,32.99
+,"('Central',)",Quincy,Office Supplies,Appliances,61.44,3,0.0,16.59,27.0
+,"('Central',)",Quincy,Office Supplies,Binders,70.95,3,0.7,-49.72,-70.08
+,"('Central',)",Quincy,Office Supplies,Fasteners,14.13,3,0.0,0.71,5.02
+,"('Central',)",Quincy,Office Supplies,Paper,191.94,15,0.4,72.13,37.58
+,"('Central',)",Quincy,Office Supplies,Supplies,22.37,2,0.2,1.68,7.51
+,"('Central',)",Quincy,Technology,Accessories,207.98,2,0.2,36.4,17.5
+,"('Central',)",Richardson,Furniture,Furnishings,263.7,8,1.2,-218.92,-83.02
+,"('Central',)",Richardson,Technology,Phones,1097.54,7,0.2,123.47,11.25
+,"('Central',)",Rochester,Furniture,Chairs,2498.83,17,0.6,372.72,14.92
+,"('Central',)",Rochester,Furniture,Furnishings,1135.51,16,1.0,193.05,17.0
+,"('Central',)",Rochester,Furniture,Tables,1774.26,11,1.0,-287.8,-16.22
+,"('Central',)",Rochester,Office Supplies,Appliances,960.87,4,0.8,144.44,15.03
+,"('Central',)",Rochester,Office Supplies,Art,512.85,41,0.0,148.49,28.95
+,"('Central',)",Rochester,Office Supplies,Binders,450.07,23,0.4,154.62,34.35
+,"('Central',)",Rochester,Office Supplies,Envelopes,207.82,6,0.2,92.72,44.62
+,"('Central',)",Rochester,Office Supplies,Fasteners,7.56,6,0.0,0.3,3.97
+,"('Central',)",Rochester,Office Supplies,Labels,18.76,6,0.0,9.01,48.03
+,"('Central',)",Rochester,Office Supplies,Paper,523.36,39,0.8,207.76,39.7
+,"('Central',)",Rochester,Office Supplies,Storage,224.91,5,0.0,20.98,9.33
+,"('Central',)",Rochester,Office Supplies,Supplies,185.38,2,0.2,-34.76,-18.75
+,"('Central',)",Rochester,Technology,Accessories,2509.71,15,0.4,806.33,32.13
+,"('Central',)",Rochester,Technology,Copiers,479.98,2,0.2,60.0,12.5
+,"('Central',)",Rochester,Technology,Machines,480.0,4,0.0,225.6,47.0
+,"('Central',)",Rochester,Technology,Phones,1235.71,10,0.8,33.79,2.73
+,"('Central',)",Rochester Hills,Furniture,Chairs,3202.89,7,0.5,-28.5,-0.89
+,"('Central',)",Rochester Hills,Furniture,Furnishings,52.58,14,0.6,15.87,30.18
+,"('Central',)",Rochester Hills,Office Supplies,Binders,8.0,7,0.7,-5.6,-70.0
+,"('Central',)",Rochester Hills,Office Supplies,Envelopes,39.76,7,0.0,18.69,47.01
+,"('Central',)",Rochester Hills,Office Supplies,Labels,15.94,4,0.2,5.18,32.5
+,"('Central',)",Rochester Hills,Office Supplies,Paper,52.06,11,0.4,17.27,33.17
+,"('Central',)",Rochester Hills,Technology,Accessories,607.83,14,0.2,206.24,33.93
+,"('Central',)",Rockford,Office Supplies,Binders,11.42,4,0.8,-18.84,-164.97
+,"('Central',)",Rockford,Office Supplies,Fasteners,4.71,1,0.0,0.0,0.0
+,"('Central',)",Rockford,Office Supplies,Paper,91.06,6,0.2,31.87,35.0
+,"('Central',)",Rockford,Technology,Phones,269.98,2,0.0,72.89,27.0
+,"('Central',)",Round Rock,Furniture,Bookcases,78.85,2,0.32,-11.6,-14.71
+,"('Central',)",Round Rock,Office Supplies,Art,27.17,2,0.2,2.72,10.01
+,"('Central',)",Round Rock,Office Supplies,Supplies,40.92,5,0.2,3.07,7.5
+,"('Central',)",Saginaw,Furniture,Tables,4297.64,13,0.4,-1862.31,-43.33
+,"('Central',)",Saginaw,Office Supplies,Appliances,103.92,4,0.0,36.37,35.0
+,"('Central',)",Saginaw,Office Supplies,Binders,2192.9,18,0.8,693.97,31.65
+,"('Central',)",Saginaw,Office Supplies,Fasteners,56.65,11,0.0,18.0,31.77
+,"('Central',)",Saginaw,Office Supplies,Paper,96.08,2,0.0,46.12,48.0
+,"('Central',)",Saginaw,Office Supplies,Storage,175.91,5,0.0,9.55,5.43
+,"('Central',)",Saginaw,Technology,Accessories,899.91,9,0.0,377.96,42.0
+,"('Central',)",Saginaw,Technology,Phones,131.98,2,0.0,35.63,27.0
+,"('Central',)",Saint Louis,Furniture,Chairs,725.34,4,0.2,54.4,7.5
+,"('Central',)",Saint Louis,Furniture,Furnishings,19.92,3,0.0,9.56,47.99
+,"('Central',)",Saint Louis,Office Supplies,Appliances,55.53,11,0.8,-78.64,-141.62
+,"('Central',)",Saint Louis,Office Supplies,Art,38.38,13,0.0,11.33,29.52
+,"('Central',)",Saint Louis,Office Supplies,Binders,1027.24,23,1.9,33.09,3.22
+,"('Central',)",Saint Louis,Office Supplies,Envelopes,64.02,6,0.0,29.45,46.0
+,"('Central',)",Saint Louis,Office Supplies,Paper,258.7,16,0.2,120.13,46.44
+,"('Central',)",Saint Louis,Office Supplies,Storage,449.15,5,0.0,8.98,2.0
+,"('Central',)",Saint Louis,Technology,Accessories,178.03,11,0.0,65.15,36.59
+,"('Central',)",Saint Louis,Technology,Machines,101.99,2,0.7,-71.4,-70.01
+,"('Central',)",Saint Louis,Technology,Phones,539.92,5,0.2,47.24,8.75
+,"('Central',)",Saint Paul,Furniture,Bookcases,4404.9,5,0.0,1013.13,23.0
+,"('Central',)",Saint Paul,Furniture,Tables,876.3,10,0.4,-292.1,-33.33
+,"('Central',)",Saint Paul,Office Supplies,Appliances,247.64,21,0.3,53.82,21.73
+,"('Central',)",Saint Paul,Office Supplies,Art,13.57,4,0.2,3.22,23.73
+,"('Central',)",Saint Paul,Office Supplies,Binders,385.42,14,0.7,173.73,45.08
+,"('Central',)",Saint Paul,Office Supplies,Envelopes,66.54,6,0.0,32.6,48.99
+,"('Central',)",Saint Paul,Office Supplies,Paper,126.62,6,0.2,41.15,32.5
+,"('Central',)",Saint Paul,Office Supplies,Storage,45.25,2,0.2,3.96,8.75
+,"('Central',)",Saint Paul,Office Supplies,Supplies,185.38,2,0.2,-34.76,-18.75
+,"('Central',)",Saint Paul,Technology,Accessories,205.03,7,0.0,67.66,33.0
+,"('Central',)",Saint Paul,Technology,Phones,797.48,11,0.4,-154.46,-19.37
+,"('Central',)",Saint Peters,Furniture,Chairs,454.27,8,0.2,-73.82,-16.25
+,"('Central',)",Saint Peters,Furniture,Tables,697.16,4,0.0,146.4,21.0
+,"('Central',)",Saint Peters,Office Supplies,Binders,1577.94,3,0.0,757.41,48.0
+,"('Central',)",Saint Peters,Office Supplies,Labels,16.52,5,0.2,5.37,32.51
+,"('Central',)",Saint Peters,Office Supplies,Storage,40.74,3,0.0,0.41,1.01
+,"('Central',)",San Antonio,Furniture,Bookcases,436.0,3,0.15,5.13,1.18
+,"('Central',)",San Antonio,Furniture,Chairs,1956.04,12,0.5,-27.56,-1.41
+,"('Central',)",San Antonio,Furniture,Furnishings,286.4,15,0.2,79.42,27.73
+,"('Central',)",San Antonio,Furniture,Tables,138.59,1,0.4,-34.65,-25.0
+,"('Central',)",San Antonio,Office Supplies,Appliances,534.77,12,0.8,-353.95,-66.19
+,"('Central',)",San Antonio,Office Supplies,Art,58.94,18,0.8,10.94,18.56
+,"('Central',)",San Antonio,Office Supplies,Binders,86.11,10,0.4,40.03,46.49
+,"('Central',)",San Antonio,Office Supplies,Envelopes,65.94,3,0.0,30.99,47.0
+,"('Central',)",San Antonio,Office Supplies,Fasteners,7.52,5,0.2,1.41,18.75
+,"('Central',)",San Antonio,Office Supplies,Labels,80.8,22,0.4,29.19,36.13
+,"('Central',)",San Antonio,Office Supplies,Paper,446.16,35,0.4,195.96,43.92
+,"('Central',)",San Antonio,Office Supplies,Storage,1591.47,22,0.4,-61.36,-3.86
+,"('Central',)",San Antonio,Office Supplies,Supplies,37.75,3,0.2,4.25,11.26
+,"('Central',)",San Antonio,Technology,Accessories,142.03,5,0.0,59.3,41.75
+,"('Central',)",San Antonio,Technology,Machines,8159.95,8,0.4,-1359.99,-16.67
+,"('Central',)",San Antonio,Technology,Phones,4452.19,38,1.2,727.88,16.35
+,"('Central',)",Sioux Falls,Furniture,Chairs,182.94,3,0.0,27.44,15.0
+,"('Central',)",Sioux Falls,Furniture,Furnishings,29.48,5,0.6,-8.68,-29.44
+,"('Central',)",Sioux Falls,Office Supplies,Appliances,416.32,2,0.0,112.41,27.0
+,"('Central',)",Sioux Falls,Office Supplies,Binders,103.83,12,0.0,50.63,48.76
+,"('Central',)",Sioux Falls,Office Supplies,Labels,23.84,6,0.2,10.21,42.83
+,"('Central',)",Sioux Falls,Office Supplies,Paper,472.76,16,0.0,225.86,47.77
+,"('Central',)",Sioux Falls,Office Supplies,Storage,62.18,1,0.0,16.79,27.0
+,"('Central',)",Sioux Falls,Technology,Accessories,555.48,8,0.0,192.46,34.65
+,"('Central',)",Sioux Falls,Technology,Phones,492.77,4,0.2,55.44,11.25
+,"('Central',)",Skokie,Furniture,Bookcases,242.35,8,0.7,-363.53,-150.0
+,"('Central',)",Skokie,Furniture,Chairs,1512.02,11,0.2,213.28,14.11
+,"('Central',)",Skokie,Furniture,Furnishings,593.52,15,0.6,16.28,2.74
+,"('Central',)",Skokie,Office Supplies,Appliances,196.42,8,0.0,65.91,33.56
+,"('Central',)",Skokie,Office Supplies,Art,86.35,3,0.2,5.4,6.25
+,"('Central',)",Skokie,Office Supplies,Binders,667.78,30,2.9,174.73,26.17
+,"('Central',)",Skokie,Office Supplies,Fasteners,28.42,7,0.4,6.31,22.2
+,"('Central',)",Skokie,Office Supplies,Paper,27.16,5,0.2,11.45,42.16
+,"('Central',)",Skokie,Office Supplies,Storage,397.13,9,0.2,32.95,8.3
+,"('Central',)",Skokie,Technology,Accessories,139.96,5,0.2,-1.75,-1.25
+,"('Central',)",Skokie,Technology,Copiers,899.98,3,0.4,75.0,8.33
+,"('Central',)",Skokie,Technology,Phones,106.98,8,0.4,-9.38,-8.77
+,"('Central',)",Springfield,Furniture,Chairs,1325.76,6,0.2,149.15,11.25
+,"('Central',)",Springfield,Furniture,Furnishings,21.44,2,0.2,7.5,34.98
+,"('Central',)",Springfield,Office Supplies,Binders,11.87,4,0.7,2.02,17.02
+,"('Central',)",Springfield,Office Supplies,Paper,15.55,3,0.2,5.44,34.98
+,"('Central',)",Springfield,Office Supplies,Storage,511.06,9,0.2,-95.82,-18.75
+,"('Central',)",Springfield,Technology,Accessories,467.91,10,0.0,160.71,34.35
+,"('Central',)",Taylor,Furniture,Chairs,4921.42,10,0.2,984.92,20.01
+,"('Central',)",Taylor,Furniture,Furnishings,465.97,24,1.2,161.57,34.67
+,"('Central',)",Taylor,Office Supplies,Fasteners,2.9,2,0.2,0.47,16.21
+,"('Central',)",Taylor,Office Supplies,Labels,59.76,14,0.2,21.8,36.48
+,"('Central',)",Taylor,Office Supplies,Paper,677.57,16,0.0,324.29,47.86
+,"('Central',)",Taylor,Office Supplies,Storage,141.88,7,0.2,1.69,1.19
+,"('Central',)",Taylor,Technology,Accessories,391.85,7,0.0,127.78,32.61
+,"('Central',)",Taylor,Technology,Phones,2011.88,25,1.0,436.6,21.7
+,"('Central',)",Trenton,Furniture,Chairs,302.67,3,0.0,72.64,24.0
+,"('Central',)",Trenton,Furniture,Furnishings,157.74,11,0.0,56.79,36.0
+,"('Central',)",Trenton,Office Supplies,Appliances,137.62,2,0.0,60.55,44.0
+,"('Central',)",Trenton,Office Supplies,Art,56.98,7,0.0,22.79,40.0
+,"('Central',)",Trenton,Office Supplies,Binders,94.41,6,0.0,44.52,47.16
+,"('Central',)",Trenton,Office Supplies,Fasteners,10.23,3,0.0,4.91,48.0
+,"('Central',)",Trenton,Office Supplies,Labels,21.93,3,0.0,10.31,47.01
+,"('Central',)",Trenton,Office Supplies,Paper,154.9,5,0.0,69.71,45.0
+,"('Central',)",Trenton,Technology,Accessories,582.87,7,0.0,199.44,34.22
+,"('Central',)",Trenton,Technology,Phones,821.95,6,0.2,169.97,20.68
+,"('Central',)",Tulsa,Office Supplies,Envelopes,62.81,3,0.2,21.2,33.75
+,"('Central',)",Tulsa,Technology,Phones,69.93,7,0.0,0.7,1.0
+,"('Central',)",Tyler,Furniture,Furnishings,82.52,3,0.6,-41.26,-50.0
+,"('Central',)",Tyler,Office Supplies,Appliances,2.69,3,0.8,-7.39,-274.72
+,"('Central',)",Tyler,Office Supplies,Binders,182.99,3,0.8,-320.24,-175.0
+,"('Central',)",Tyler,Office Supplies,Paper,343.74,10,0.2,157.65,45.86
+,"('Central',)",Tyler,Technology,Accessories,27.82,3,0.2,4.52,16.25
+,"('Central',)",Urbandale,Furniture,Chairs,3416.06,15,0.4,686.26,20.09
+,"('Central',)",Urbandale,Furniture,Furnishings,303.92,5,0.2,-30.39,-10.0
+,"('Central',)",Urbandale,Office Supplies,Appliances,262.24,2,0.0,78.67,30.0
+,"('Central',)",Urbandale,Office Supplies,Art,97.2,5,0.0,30.86,31.75
+,"('Central',)",Urbandale,Office Supplies,Binders,752.25,18,0.8,283.01,37.62
+,"('Central',)",Urbandale,Office Supplies,Envelopes,293.17,10,0.2,129.75,44.26
+,"('Central',)",Urbandale,Office Supplies,Paper,272.3,15,0.4,122.94,45.15
+,"('Central',)",Urbandale,Office Supplies,Storage,1461.02,13,0.4,121.58,8.32
+,"('Central',)",Urbandale,Technology,Accessories,189.71,9,0.2,15.16,7.99
+,"('Central',)",Urbandale,Technology,Machines,3106.96,8,0.4,328.59,10.58
+,"('Central',)",Urbandale,Technology,Phones,725.73,6,0.2,167.34,23.06
+,"('Central',)",Westland,Furniture,Bookcases,323.14,4,0.2,12.12,3.75
+,"('Central',)",Westland,Furniture,Chairs,301.96,2,0.0,33.22,11.0
+,"('Central',)",Westland,Furniture,Furnishings,206.64,6,0.0,67.6,32.71
+,"('Central',)",Westland,Office Supplies,Binders,178.66,9,0.2,80.21,44.9
+,"('Central',)",Westland,Office Supplies,Labels,133.2,9,0.0,66.6,50.0
+,"('Central',)",Westland,Office Supplies,Storage,542.36,6,0.0,94.38,17.4
+,"('Central',)",Westland,Technology,Accessories,111.58,5,0.0,43.19,38.71
+,"('Central',)",Westland,Technology,Phones,695.68,13,0.2,40.53,5.83
+,"('Central',)",Subtotal,,,518800.04,8965,392.2,63609.1,12.26
+,"('East',)",Akron,Furniture,Chairs,1107.87,12,0.7,-68.4,-6.17
+,"('East',)",Akron,Furniture,Furnishings,419.05,15,0.8,106.22,25.35
+,"('East',)",Akron,Furniture,Tables,2080.34,12,0.8,-82.93,-3.99
+,"('East',)",Akron,Office Supplies,Appliances,76.12,2,0.0,22.07,28.99
+,"('East',)",Akron,Office Supplies,Art,84.26,12,0.4,7.81,9.27
+,"('East',)",Akron,Office Supplies,Binders,276.85,23,1.3,89.86,32.46
+,"('East',)",Akron,Office Supplies,Envelopes,15.84,2,0.2,5.54,34.97
+,"('East',)",Akron,Office Supplies,Fasteners,18.24,3,0.0,9.12,50.0
+,"('East',)",Akron,Office Supplies,Labels,33.64,5,0.4,11.28,33.53
+,"('East',)",Akron,Office Supplies,Paper,171.96,16,0.8,60.6,35.24
+,"('East',)",Akron,Office Supplies,Storage,739.42,7,0.4,78.73,10.65
+,"('East',)",Akron,Technology,Accessories,149.02,6,0.4,-15.44,-10.36
+,"('East',)",Akron,Technology,Phones,21.07,3,0.2,1.58,7.5
+,"('East',)",Auburn,Furniture,Bookcases,163.88,4,0.5,-81.94,-50.0
+,"('East',)",Auburn,Furniture,Chairs,402.18,4,0.4,45.39,11.29
+,"('East',)",Auburn,Furniture,Furnishings,464.51,18,0.4,103.1,22.2
+,"('East',)",Auburn,Furniture,Tables,241.92,4,0.4,-56.45,-23.33
+,"('East',)",Auburn,Office Supplies,Appliances,151.62,7,0.0,50.03,33.0
+,"('East',)",Auburn,Office Supplies,Art,399.79,26,0.6,105.07,26.28
+,"('East',)",Auburn,Office Supplies,Binders,14.77,5,1.4,-11.44,-77.45
+,"('East',)",Auburn,Office Supplies,Fasteners,10.58,7,0.2,-2.38,-22.5
+,"('East',)",Auburn,Office Supplies,Labels,39.74,14,0.2,18.07,45.47
+,"('East',)",Auburn,Office Supplies,Paper,76.39,13,0.2,35.45,46.41
+,"('East',)",Auburn,Office Supplies,Storage,399.09,10,0.4,-21.11,-5.29
+,"('East',)",Auburn,Office Supplies,Supplies,16.9,2,0.0,5.07,30.0
+,"('East',)",Auburn,Technology,Accessories,158.96,8,0.2,53.54,33.68
+,"('East',)",Auburn,Technology,Copiers,13999.96,4,0.0,6719.98,48.0
+,"('East',)",Auburn,Technology,Phones,145.5,7,0.2,21.55,14.81
+,"('East',)",Baltimore,Office Supplies,Appliances,90.86,7,0.0,26.35,29.0
+,"('East',)",Baltimore,Office Supplies,Art,14.67,3,0.0,3.96,26.99
+,"('East',)",Baltimore,Office Supplies,Labels,11.07,3,0.0,5.2,46.97
+,"('East',)",Baltimore,Office Supplies,Paper,156.35,16,0.0,75.42,48.24
+,"('East',)",Belleville,Furniture,Furnishings,101.33,4,0.0,43.18,42.61
+,"('East',)",Belleville,Office Supplies,Labels,9.82,2,0.0,4.81,48.98
+,"('East',)",Belleville,Office Supplies,Paper,46.42,10,0.2,19.64,42.31
+,"('East',)",Belleville,Technology,Accessories,239.97,3,0.0,71.99,30.0
+,"('East',)",Belleville,Technology,Phones,278.4,3,0.0,80.74,29.0
+,"('East',)",Bridgeton,Furniture,Tables,189.58,1,0.2,9.48,5.0
+,"('East',)",Bridgeton,Office Supplies,Appliances,11.67,3,0.0,3.03,25.96
+,"('East',)",Bridgeton,Office Supplies,Art,4.17,3,0.0,1.08,25.9
+,"('East',)",Bridgeton,Office Supplies,Binders,18.69,3,0.7,-14.33,-76.67
+,"('East',)",Bridgeton,Office Supplies,Fasteners,2.37,2,0.2,0.83,35.02
+,"('East',)",Bridgeton,Office Supplies,Labels,18.45,5,0.0,8.67,46.99
+,"('East',)",Bridgeton,Office Supplies,Paper,19.01,3,0.2,6.89,36.24
+,"('East',)",Bridgeton,Office Supplies,Storage,78.06,6,0.0,10.86,13.91
+,"('East',)",Bridgeton,Technology,Accessories,383.95,6,0.2,76.79,20.0
+,"('East',)",Bridgeton,Technology,Phones,139.0,9,0.4,13.9,10.0
+,"('East',)",Buffalo,Furniture,Bookcases,204.67,1,0.32,-6.02,-2.94
+,"('East',)",Buffalo,Furniture,Tables,1000.99,8,0.6,-164.4,-16.42
+,"('East',)",Buffalo,Office Supplies,Appliances,339.82,7,1.2,-355.67,-104.66
+,"('East',)",Buffalo,Office Supplies,Art,85.95,6,0.2,10.08,11.73
+,"('East',)",Buffalo,Office Supplies,Envelopes,79.96,2,0.0,35.98,45.0
+,"('East',)",Buffalo,Office Supplies,Fasteners,2.88,1,0.0,1.35,46.88
+,"('East',)",Buffalo,Office Supplies,Labels,4.91,1,0.0,2.41,49.08
+,"('East',)",Buffalo,Office Supplies,Paper,44.18,7,0.2,18.6,42.1
+,"('East',)",Buffalo,Office Supplies,Storage,863.55,7,0.4,-58.5,-6.77
+,"('East',)",Buffalo,Office Supplies,Supplies,835.17,7,0.0,16.7,2.0
+,"('East',)",Buffalo,Technology,Accessories,2.38,3,0.2,0.74,31.09
+,"('East',)",Buffalo,Technology,Copiers,1799.97,5,0.4,240.0,13.33
+,"('East',)",Buffalo,Technology,Phones,719.96,5,0.2,54.0,7.5
+,"('East',)",Chester,Furniture,Bookcases,1279.17,5,0.15,225.73,17.65
+,"('East',)",Chester,Furniture,Chairs,2806.32,18,0.9,254.64,9.07
+,"('East',)",Chester,Furniture,Furnishings,417.54,25,1.2,37.65,9.02
+,"('East',)",Chester,Office Supplies,Appliances,40.74,3,0.0,12.22,30.0
+,"('East',)",Chester,Office Supplies,Art,211.5,14,0.6,21.28,10.06
+,"('East',)",Chester,Office Supplies,Binders,276.03,25,2.1,96.64,35.01
+,"('East',)",Chester,Office Supplies,Envelopes,244.94,9,0.2,83.47,34.08
+,"('East',)",Chester,Office Supplies,Fasteners,29.65,9,0.0,3.54,11.94
+,"('East',)",Chester,Office Supplies,Labels,145.06,8,0.4,49.51,34.13
+,"('East',)",Chester,Office Supplies,Paper,844.46,13,0.0,404.28,47.87
+,"('East',)",Chester,Office Supplies,Storage,1426.38,20,0.2,-161.56,-11.33
+,"('East',)",Chester,Technology,Accessories,1286.35,12,0.2,78.27,6.08
+,"('East',)",Chester,Technology,Machines,403.41,7,0.1,176.21,43.68
+,"('East',)",Chester,Technology,Phones,2269.33,17,1.4,-85.43,-3.76
+,"('East',)",Cincinnati,Furniture,Chairs,1515.69,21,0.7,60.0,3.96
+,"('East',)",Cincinnati,Furniture,Furnishings,64.47,8,0.4,16.01,24.83
+,"('East',)",Cincinnati,Furniture,Tables,70.56,1,0.3,-4.03,-5.71
+,"('East',)",Cincinnati,Office Supplies,Appliances,254.4,10,1.0,57.44,22.58
+,"('East',)",Cincinnati,Office Supplies,Art,105.36,15,0.6,21.68,20.58
+,"('East',)",Cincinnati,Office Supplies,Binders,159.27,23,3.7,-3.67,-2.3
+,"('East',)",Cincinnati,Office Supplies,Envelopes,75.06,5,0.2,29.81,39.71
+,"('East',)",Cincinnati,Office Supplies,Labels,84.76,18,0.4,37.27,43.97
+,"('East',)",Cincinnati,Office Supplies,Paper,740.29,60,0.8,305.85,41.31
+,"('East',)",Cincinnati,Office Supplies,Storage,1764.93,20,0.6,141.91,8.04
+,"('East',)",Cincinnati,Office Supplies,Supplies,13.98,1,0.0,3.63,25.97
+,"('East',)",Cincinnati,Technology,Accessories,195.68,5,0.4,-11.47,-5.86
+,"('East',)",Cincinnati,Technology,Copiers,1319.97,5,0.6,231.99,17.58
+,"('East',)",Cincinnati,Technology,Phones,1335.62,22,0.8,286.52,21.45
+,"('East',)",Cleveland,Furniture,Chairs,2807.84,8,0.0,673.88,24.0
+,"('East',)",Cleveland,Furniture,Furnishings,44.55,8,0.2,14.26,32.01
+,"('East',)",Cleveland,Office Supplies,Appliances,26.21,4,0.2,10.18,38.84
+,"('East',)",Cleveland,Office Supplies,Art,53.63,7,0.0,14.62,27.26
+,"('East',)",Cleveland,Office Supplies,Binders,1508.59,31,3.1,-513.59,-34.04
+,"('East',)",Cleveland,Office Supplies,Fasteners,5.7,5,0.0,2.68,47.02
+,"('East',)",Cleveland,Office Supplies,Paper,191.14,8,0.0,93.89,49.12
+,"('East',)",Cleveland,Office Supplies,Storage,22.58,2,0.0,5.87,26.0
+,"('East',)",Cleveland,Office Supplies,Supplies,29.88,7,0.2,6.53,21.85
+,"('East',)",Cleveland,Technology,Accessories,462.94,8,0.0,156.93,33.9
+,"('East',)",Clinton,Furniture,Bookcases,120.67,2,0.15,21.29,17.64
+,"('East',)",Clinton,Furniture,Chairs,150.98,1,0.0,43.78,29.0
+,"('East',)",Clinton,Furniture,Furnishings,52.67,8,1.0,4.34,8.24
+,"('East',)",Clinton,Office Supplies,Appliances,355.96,2,0.0,103.23,29.0
+,"('East',)",Clinton,Office Supplies,Art,16.99,1,0.0,4.93,29.02
+,"('East',)",Clinton,Office Supplies,Envelopes,137.25,9,0.0,63.13,46.0
+,"('East',)",Clinton,Office Supplies,Fasteners,13.33,5,0.0,6.06,45.46
+,"('East',)",Clinton,Office Supplies,Paper,28.9,5,0.0,14.16,49.0
+,"('East',)",Clinton,Office Supplies,Storage,67.4,5,0.0,17.52,25.99
+,"('East',)",Clinton,Office Supplies,Supplies,6.21,2,0.2,0.7,11.27
+,"('East',)",Clinton,Technology,Accessories,84.44,5,0.2,1.82,2.16
+,"('East',)",Clinton,Technology,Phones,156.79,1,0.2,17.64,11.25
+,"('East',)",Columbia,Furniture,Furnishings,86.62,2,0.0,8.66,10.0
+,"('East',)",Columbia,Office Supplies,Binders,37.66,7,0.0,18.45,48.99
+,"('East',)",Columbus,Furniture,Bookcases,1617.58,26,2.6,-707.65,-43.75
+,"('East',)",Columbus,Furniture,Chairs,1151.68,9,0.7,48.75,4.23
+,"('East',)",Columbus,Furniture,Furnishings,391.97,29,1.0,13.98,3.57
+,"('East',)",Columbus,Furniture,Tables,275.49,1,0.5,-170.8,-62.0
+,"('East',)",Columbus,Office Supplies,Appliances,1325.26,17,1.0,275.06,20.76
+,"('East',)",Columbus,Office Supplies,Art,40.74,9,0.2,7.68,18.85
+,"('East',)",Columbus,Office Supplies,Binders,233.16,49,7.6,-159.57,-68.44
+,"('East',)",Columbus,Office Supplies,Envelopes,390.28,21,1.0,132.03,33.83
+,"('East',)",Columbus,Office Supplies,Fasteners,80.66,30,0.6,28.18,34.94
+,"('East',)",Columbus,Office Supplies,Labels,24.4,10,0.4,8.23,33.73
+,"('East',)",Columbus,Office Supplies,Paper,575.43,42,0.8,258.37,44.9
+,"('East',)",Columbus,Office Supplies,Storage,1171.25,24,1.0,249.51,21.3
+,"('East',)",Columbus,Office Supplies,Supplies,95.21,12,0.4,10.56,11.09
+,"('East',)",Columbus,Technology,Accessories,1028.15,20,0.8,249.92,24.31
+,"('East',)",Columbus,Technology,Copiers,1439.98,4,0.4,192.0,13.33
+,"('East',)",Columbus,Technology,Phones,831.02,23,1.2,53.71,6.46
+,"('East',)",Concord,Furniture,Bookcases,894.21,6,0.5,-75.5,-8.44
+,"('East',)",Concord,Office Supplies,Binders,68.62,2,0.0,32.25,47.0
+,"('East',)",Concord,Office Supplies,Labels,8.26,2,0.0,3.8,46.0
+,"('East',)",Concord,Office Supplies,Paper,19.44,3,0.0,9.33,47.99
+,"('East',)",Concord,Office Supplies,Storage,104.79,7,0.0,29.34,28.0
+,"('East',)",Concord,Technology,Accessories,43.56,3,0.2,-4.9,-11.25
+,"('East',)",Concord,Technology,Copiers,1439.97,4,0.2,485.99,33.75
+,"('East',)",Concord,Technology,Machines,2973.32,7,0.2,334.5,11.25
+,"('East',)",Concord,Technology,Phones,858.83,11,0.6,70.65,8.23
+,"('East',)",Cranston,Office Supplies,Art,13.9,5,0.0,3.75,26.98
+,"('East',)",Cranston,Office Supplies,Binders,1.8,5,0.8,-2.88,-160.0
+,"('East',)",Cranston,Office Supplies,Envelopes,19.4,5,0.0,9.31,47.99
+,"('East',)",Cranston,Office Supplies,Storage,606.16,5,0.0,78.73,12.99
+,"('East',)",Cranston,Office Supplies,Supplies,22.24,2,0.2,2.5,11.24
+,"('East',)",Cranston,Technology,Machines,319.92,8,0.0,118.37,37.0
+,"('East',)",Dover,Furniture,Bookcases,915.54,14,0.5,106.73,11.66
+,"('East',)",Dover,Furniture,Chairs,6356.32,33,1.6,963.43,15.16
+,"('East',)",Dover,Furniture,Furnishings,637.95,32,0.4,162.79,25.52
+,"('East',)",Dover,Furniture,Tables,2048.4,10,0.8,-193.77,-9.46
+,"('East',)",Dover,Office Supplies,Appliances,33.28,4,0.0,9.32,28.0
+,"('East',)",Dover,Office Supplies,Art,52.87,12,0.2,17.8,33.67
+,"('East',)",Dover,Office Supplies,Binders,550.4,35,2.9,218.73,39.74
+,"('East',)",Dover,Office Supplies,Envelopes,28.75,3,0.2,9.34,32.49
+,"('East',)",Dover,Office Supplies,Fasteners,4.36,2,0.0,1.79,41.06
+,"('East',)",Dover,Office Supplies,Labels,22.03,7,0.4,7.41,33.64
+,"('East',)",Dover,Office Supplies,Paper,273.9,32,0.6,103.07,37.63
+,"('East',)",Dover,Office Supplies,Storage,2479.56,18,0.2,390.43,15.75
+,"('East',)",Dover,Office Supplies,Supplies,9.18,2,0.2,1.15,12.53
+,"('East',)",Dover,Technology,Accessories,1168.53,33,0.4,250.69,21.45
+,"('East',)",Dover,Technology,Copiers,599.97,5,0.4,70.0,11.67
+,"('East',)",Dover,Technology,Phones,2263.24,14,1.0,279.48,12.35
+,"('East',)",Dublin,Furniture,Chairs,98.39,1,0.2,-11.07,-11.25
+,"('East',)",Dublin,Furniture,Furnishings,271.74,9,0.4,58.36,21.48
+,"('East',)",Dublin,Furniture,Tables,1048.35,5,0.4,-69.89,-6.67
+,"('East',)",Dublin,Office Supplies,Appliances,397.02,9,0.0,110.74,27.89
+,"('East',)",Dublin,Office Supplies,Art,64.79,7,0.2,14.44,22.29
+,"('East',)",Dublin,Office Supplies,Binders,42.98,9,0.9,-5.72,-13.31
+,"('East',)",Dublin,Office Supplies,Fasteners,5.58,2,0.2,1.81,32.44
+,"('East',)",Dublin,Office Supplies,Paper,222.68,23,0.4,82.34,36.98
+,"('East',)",Dublin,Office Supplies,Storage,82.37,2,0.2,-19.56,-23.75
+,"('East',)",Dublin,Technology,Accessories,55.33,6,0.2,20.6,37.23
+,"('East',)",Dublin,Technology,Machines,479.99,4,0.7,-383.99,-80.0
+,"('East',)",Dublin,Technology,Phones,587.97,3,0.0,164.63,28.0
+,"('East',)",Everett,Furniture,Bookcases,782.94,3,0.0,203.56,26.0
+,"('East',)",Everett,Furniture,Furnishings,16.74,2,0.0,4.35,25.99
+,"('East',)",Everett,Office Supplies,Art,16.28,2,0.0,6.51,39.99
+,"('East',)",Everett,Office Supplies,Binders,242.48,7,0.0,116.39,48.0
+,"('East',)",Everett,Office Supplies,Paper,40.03,6,0.2,15.01,37.5
+,"('East',)",Everett,Office Supplies,Storage,123.55,3,0.2,-29.34,-23.75
+,"('East',)",Everett,Technology,Phones,39.99,1,0.0,11.6,29.01
+,"('East',)",Fairfield,Furniture,Chairs,600.92,7,0.7,-63.73,-10.61
+,"('East',)",Fairfield,Furniture,Furnishings,6.24,3,0.0,2.62,41.99
+,"('East',)",Fairfield,Furniture,Tables,801.6,5,0.5,-448.9,-56.0
+,"('East',)",Fairfield,Office Supplies,Appliances,587.1,4,0.0,156.3,26.62
+,"('East',)",Fairfield,Office Supplies,Binders,103.67,18,1.4,37.0,35.69
+,"('East',)",Fairfield,Office Supplies,Labels,11.52,5,0.2,4.18,36.28
+,"('East',)",Fairfield,Office Supplies,Paper,72.03,6,0.4,25.4,35.26
+,"('East',)",Fairfield,Office Supplies,Supplies,122.71,7,0.0,36.81,30.0
+,"('East',)",Fairfield,Technology,Accessories,36.24,1,0.0,15.22,42.0
+,"('East',)",Fairfield,Technology,Phones,1462.89,14,0.4,327.71,22.4
+,"('East',)",Franklin,Furniture,Chairs,549.83,8,0.5,-81.07,-14.74
+,"('East',)",Franklin,Furniture,Furnishings,366.54,6,0.6,-275.36,-75.12
+,"('East',)",Franklin,Furniture,Tables,1631.85,8,0.5,-294.09,-18.02
+,"('East',)",Franklin,Office Supplies,Binders,675.31,24,0.7,297.33,44.03
+,"('East',)",Franklin,Office Supplies,Paper,97.82,2,0.0,45.98,47.0
+,"('East',)",Franklin,Office Supplies,Storage,1220.53,12,0.2,347.11,28.44
+,"('East',)",Franklin,Technology,Accessories,342.82,14,0.0,115.78,33.77
+,"('East',)",Franklin,Technology,Copiers,5399.91,9,0.0,2591.96,48.0
+,"('East',)",Franklin,Technology,Phones,302.38,3,0.2,22.68,7.5
+,"('East',)",Grove City,Furniture,Chairs,341.49,8,0.3,-73.18,-21.43
+,"('East',)",Grove City,Furniture,Furnishings,343.32,20,0.4,51.18,14.91
+,"('East',)",Grove City,Office Supplies,Art,11.12,5,0.2,0.83,7.46
+,"('East',)",Grove City,Office Supplies,Binders,106.21,22,2.9,8.93,8.41
+,"('East',)",Grove City,Office Supplies,Envelopes,29.34,3,0.0,13.5,46.01
+,"('East',)",Grove City,Office Supplies,Paper,378.58,18,0.2,145.12,38.33
+,"('East',)",Grove City,Office Supplies,Storage,69.52,2,0.0,17.38,25.0
+,"('East',)",Grove City,Office Supplies,Supplies,11.91,3,0.0,0.12,1.01
+,"('East',)",Grove City,Technology,Accessories,961.32,17,0.2,317.81,33.06
+,"('East',)",Grove City,Technology,Phones,119.94,10,0.4,15.99,13.33
+,"('East',)",Hackensack,Furniture,Furnishings,156.11,9,0.2,61.2,39.2
+,"('East',)",Hackensack,Furniture,Tables,120.96,2,0.4,-28.22,-23.33
+,"('East',)",Hackensack,Office Supplies,Appliances,384.4,15,1.0,39.91,10.38
+,"('East',)",Hackensack,Office Supplies,Art,18.06,7,0.0,4.7,26.02
+,"('East',)",Hackensack,Office Supplies,Paper,912.9,17,0.4,421.35,46.16
+,"('East',)",Hackensack,Office Supplies,Storage,159.05,2,0.4,13.99,8.8
+,"('East',)",Hackensack,Technology,Accessories,99.98,2,0.0,8.0,8.0
+,"('East',)",Hackensack,Technology,Phones,3519.65,13,0.6,341.97,9.72
+,"('East',)",Hamilton,Furniture,Bookcases,307.67,2,0.15,28.96,9.41
+,"('East',)",Hamilton,Furniture,Furnishings,36.52,6,0.0,13.4,36.69
+,"('East',)",Hamilton,Furniture,Tables,918.78,5,0.3,-118.13,-12.86
+,"('East',)",Hamilton,Office Supplies,Appliances,474.5,10,0.0,134.22,28.29
+,"('East',)",Hamilton,Office Supplies,Art,55.23,13,0.6,13.2,23.9
+,"('East',)",Hamilton,Office Supplies,Binders,368.02,17,1.8,-378.87,-102.95
+,"('East',)",Hamilton,Office Supplies,Envelopes,11.98,6,0.4,4.13,34.47
+,"('East',)",Hamilton,Office Supplies,Labels,29.24,5,0.2,9.87,33.76
+,"('East',)",Hamilton,Office Supplies,Paper,246.42,12,0.2,118.31,48.01
+,"('East',)",Hamilton,Office Supplies,Storage,3344.68,35,0.4,286.01,8.55
+,"('East',)",Hamilton,Technology,Accessories,239.92,8,0.0,23.99,10.0
+,"('East',)",Hamilton,Technology,Phones,43.18,3,0.2,15.11,34.99
+,"('East',)",Jamestown,Furniture,Chairs,333.68,7,0.6,-18.96,-5.68
+,"('East',)",Jamestown,Furniture,Furnishings,80.96,4,0.0,29.15,36.01
+,"('East',)",Jamestown,Office Supplies,Appliances,47.92,7,0.8,-19.99,-41.72
+,"('East',)",Jamestown,Office Supplies,Art,2.3,1,0.2,0.26,11.3
+,"('East',)",Jamestown,Office Supplies,Labels,5.04,2,0.2,1.76,34.92
+,"('East',)",Jamestown,Office Supplies,Paper,505.38,15,0.2,197.98,39.17
+,"('East',)",Jamestown,Office Supplies,Storage,221.02,2,0.2,-55.26,-25.0
+,"('East',)",Jamestown,Technology,Phones,6428.77,12,0.2,1439.68,22.39
+,"('East',)",Kent,Furniture,Furnishings,18.18,1,0.2,4.77,26.24
+,"('East',)",Kent,Office Supplies,Appliances,48.36,5,0.2,6.04,12.49
+,"('East',)",Kent,Office Supplies,Art,14.02,3,0.2,1.75,12.48
+,"('East',)",Kent,Office Supplies,Binders,57.42,9,0.0,26.41,45.99
+,"('East',)",Kent,Office Supplies,Envelopes,22.92,3,0.0,11.23,49.0
+,"('East',)",Kent,Office Supplies,Labels,7.5,2,0.0,3.6,48.0
+,"('East',)",Kent,Office Supplies,Storage,228.92,5,0.2,14.31,6.25
+,"('East',)",Kent,Technology,Accessories,71.98,3,0.2,-9.0,-12.5
+,"('East',)",Kent,Technology,Phones,107.98,3,0.4,-27.0,-25.0
+,"('East',)",Lakewood,Furniture,Chairs,634.74,6,0.0,174.07,27.42
+,"('East',)",Lakewood,Furniture,Furnishings,108.24,8,0.0,38.43,35.5
+,"('East',)",Lakewood,Office Supplies,Appliances,2089.16,9,0.2,767.92,36.76
+,"('East',)",Lakewood,Office Supplies,Art,372.8,15,0.2,108.05,28.98
+,"('East',)",Lakewood,Office Supplies,Binders,51.7,7,0.7,15.95,30.85
+,"('East',)",Lakewood,Office Supplies,Labels,11.52,4,0.0,5.64,48.96
+,"('East',)",Lakewood,Office Supplies,Paper,310.43,11,0.2,151.5,48.8
+,"('East',)",Lakewood,Office Supplies,Storage,143.64,7,0.2,5.4,3.76
+,"('East',)",Lakewood,Technology,Phones,1210.67,14,0.4,360.51,29.78
+,"('East',)",Lancaster,Office Supplies,Binders,181.8,18,0.9,23.67,13.02
+,"('East',)",Lancaster,Office Supplies,Envelopes,268.58,4,0.2,90.64,33.75
+,"('East',)",Lancaster,Office Supplies,Paper,292.94,8,0.4,103.84,35.45
+,"('East',)",Lancaster,Office Supplies,Storage,104.9,5,0.0,25.18,24.0
+,"('East',)",Lancaster,Technology,Accessories,1649.75,5,0.0,544.42,33.0
+,"('East',)",Lawrence,Furniture,Bookcases,565.92,8,0.35,9.73,1.72
+,"('East',)",Lawrence,Furniture,Chairs,964.86,10,1.3,10.27,1.06
+,"('East',)",Lawrence,Furniture,Furnishings,85.72,6,0.0,25.5,29.75
+,"('East',)",Lawrence,Furniture,Tables,2520.62,10,0.4,115.02,4.56
+,"('East',)",Lawrence,Office Supplies,Appliances,534.27,10,0.0,149.59,28.0
+,"('East',)",Lawrence,Office Supplies,Art,188.0,22,0.4,37.57,19.98
+,"('East',)",Lawrence,Office Supplies,Binders,174.15,29,3.4,12.11,6.95
+,"('East',)",Lawrence,Office Supplies,Envelopes,63.9,5,0.0,28.75,44.99
+,"('East',)",Lawrence,Office Supplies,Fasteners,22.2,5,0.0,10.43,46.98
+,"('East',)",Lawrence,Office Supplies,Labels,235.94,3,0.2,85.53,36.25
+,"('East',)",Lawrence,Office Supplies,Paper,181.88,12,0.2,82.9,45.58
+,"('East',)",Lawrence,Office Supplies,Storage,1701.18,14,0.0,339.66,19.97
+,"('East',)",Lawrence,Technology,Accessories,2100.15,26,0.6,794.39,37.83
+,"('East',)",Lawrence,Technology,Phones,1443.65,19,1.2,179.12,12.41
+,"('East',)",Linden,Furniture,Chairs,266.35,3,0.2,13.32,5.0
+,"('East',)",Linden,Furniture,Tables,719.1,8,1.0,-473.27,-65.81
+,"('East',)",Linden,Office Supplies,Art,140.75,5,0.0,39.41,28.0
+,"('East',)",Linden,Office Supplies,Binders,68.74,9,0.7,-48.12,-70.0
+,"('East',)",Linden,Office Supplies,Fasteners,7.24,5,0.2,1.18,16.3
+,"('East',)",Linden,Office Supplies,Labels,8.67,3,0.0,4.07,46.94
+,"('East',)",Linden,Office Supplies,Paper,34.68,6,0.0,16.99,48.99
+,"('East',)",Linden,Office Supplies,Storage,195.51,15,0.0,51.7,26.44
+,"('East',)",Linden,Office Supplies,Supplies,25.71,3,0.0,6.68,25.98
+,"('East',)",Linden,Technology,Accessories,115.36,7,0.0,49.6,43.0
+,"('East',)",Lindenhurst,Furniture,Furnishings,152.78,5,0.0,60.2,39.4
+,"('East',)",Lindenhurst,Furniture,Tables,1297.32,14,0.2,66.57,5.13
+,"('East',)",Lindenhurst,Office Supplies,Art,119.04,6,0.0,35.71,30.0
+,"('East',)",Lindenhurst,Office Supplies,Binders,34.94,6,0.2,11.79,33.74
+,"('East',)",Lindenhurst,Office Supplies,Paper,64.73,3,0.2,29.98,46.32
+,"('East',)",Lindenhurst,Office Supplies,Storage,534.97,8,0.2,34.31,6.41
+,"('East',)",Long Beach,Furniture,Furnishings,15.99,2,0.6,-13.99,-87.49
+,"('East',)",Long Beach,Office Supplies,Art,158.66,7,0.2,24.15,15.22
+,"('East',)",Long Beach,Office Supplies,Binders,49.63,6,0.2,16.75,33.75
+,"('East',)",Long Beach,Office Supplies,Paper,145.21,12,0.4,63.72,43.88
+,"('East',)",Long Beach,Office Supplies,Supplies,25.29,3,0.2,5.9,23.33
+,"('East',)",Long Beach,Technology,Accessories,571.93,7,0.0,217.13,37.96
+,"('East',)",Lorain,Furniture,Bookcases,205.67,2,0.15,-12.1,-5.88
+,"('East',)",Lorain,Furniture,Chairs,60.89,1,0.0,15.22,25.0
+,"('East',)",Lorain,Furniture,Furnishings,417.9,13,0.2,75.38,18.04
+,"('East',)",Lorain,Office Supplies,Appliances,10.89,1,0.0,2.83,25.99
+,"('East',)",Lorain,Office Supplies,Art,59.3,9,0.4,10.64,17.94
+,"('East',)",Lorain,Office Supplies,Binders,322.7,38,2.6,-36.14,-11.2
+,"('East',)",Lorain,Office Supplies,Fasteners,27.95,10,0.0,11.78,42.15
+,"('East',)",Lorain,Office Supplies,Labels,14.94,3,0.0,6.87,45.98
+,"('East',)",Lorain,Office Supplies,Paper,477.59,19,0.4,201.92,42.28
+,"('East',)",Lorain,Office Supplies,Storage,92.4,4,0.2,5.0,5.41
+,"('East',)",Lorain,Office Supplies,Supplies,61.37,9,0.2,9.37,15.27
+,"('East',)",Lorain,Technology,Accessories,78.37,6,0.6,21.14,26.97
+,"('East',)",Lorain,Technology,Copiers,479.98,2,0.2,90.0,18.75
+,"('East',)",Lorain,Technology,Phones,2.97,1,0.4,-0.64,-21.55
+,"('East',)",Lowell,Furniture,Chairs,2050.36,17,0.6,293.4,14.31
+,"('East',)",Lowell,Furniture,Furnishings,24.05,9,0.2,7.21,29.98
+,"('East',)",Lowell,Office Supplies,Appliances,249.65,7,1.0,13.89,5.56
+,"('East',)",Lowell,Office Supplies,Art,40.08,10,0.2,8.96,22.36
+,"('East',)",Lowell,Office Supplies,Binders,19.42,6,1.5,-32.88,-169.31
+,"('East',)",Lowell,Office Supplies,Fasteners,48.51,14,0.2,20.5,42.26
+,"('East',)",Lowell,Office Supplies,Labels,10.44,5,0.2,3.39,32.47
+,"('East',)",Lowell,Office Supplies,Paper,241.13,11,0.2,114.14,47.34
+,"('East',)",Lowell,Office Supplies,Storage,1686.23,7,0.0,332.35,19.71
+,"('East',)",Lowell,Office Supplies,Supplies,120.78,14,0.2,27.37,22.66
+,"('East',)",Lowell,Technology,Phones,246.17,3,0.2,21.54,8.75
+,"('East',)",Manchester,Furniture,Bookcases,1043.92,4,0.0,271.42,26.0
+,"('East',)",Manchester,Furniture,Chairs,392.94,3,0.0,43.22,11.0
+,"('East',)",Manchester,Furniture,Furnishings,30.19,3,0.2,8.3,27.49
+,"('East',)",Manchester,Office Supplies,Art,59.58,9,0.6,5.22,8.76
+,"('East',)",Manchester,Office Supplies,Binders,588.88,34,3.9,-778.24,-132.16
+,"('East',)",Manchester,Office Supplies,Paper,31.1,6,0.2,10.89,35.02
+,"('East',)",Manchester,Office Supplies,Storage,104.79,7,0.0,29.34,28.0
+,"('East',)",Manchester,Office Supplies,Supplies,7.36,2,0.0,0.15,2.04
+,"('East',)",Manchester,Technology,Phones,43.6,5,0.2,4.36,10.0
+,"('East',)",Marion,Furniture,Chairs,70.69,1,0.3,-24.24,-34.29
+,"('East',)",Marion,Furniture,Furnishings,61.05,11,0.0,25.87,42.38
+,"('East',)",Marion,Office Supplies,Appliances,1.39,2,0.8,-3.76,-270.5
+,"('East',)",Marion,Office Supplies,Art,66.58,13,0.2,15.18,22.8
+,"('East',)",Marion,Office Supplies,Binders,37.27,5,0.4,13.03,34.96
+,"('East',)",Marion,Office Supplies,Fasteners,7.86,2,0.0,3.62,46.06
+,"('East',)",Marion,Office Supplies,Labels,87.71,7,0.0,41.22,47.0
+,"('East',)",Marion,Office Supplies,Paper,71.56,11,0.0,33.82,47.26
+,"('East',)",Marion,Office Supplies,Storage,1256.39,9,0.2,97.34,7.75
+,"('East',)",Marion,Technology,Accessories,773.3,9,0.0,159.13,20.58
+,"('East',)",Marion,Technology,Phones,884.69,7,0.6,15.84,1.79
+,"('East',)",Medina,Furniture,Bookcases,452.45,5,0.5,-244.32,-54.0
+,"('East',)",Medina,Furniture,Chairs,1212.96,8,0.3,-69.31,-5.71
+,"('East',)",Medina,Furniture,Furnishings,21.36,8,0.0,8.12,38.01
+,"('East',)",Medina,Furniture,Tables,661.18,2,0.4,-231.41,-35.0
+,"('East',)",Medina,Office Supplies,Art,5.28,3,0.0,1.53,28.98
+,"('East',)",Medina,Office Supplies,Binders,21.34,7,0.2,7.73,36.22
+,"('East',)",Medina,Office Supplies,Fasteners,6.54,3,0.0,2.68,40.98
+,"('East',)",Medina,Office Supplies,Labels,23.68,2,0.2,8.88,37.5
+,"('East',)",Medina,Office Supplies,Paper,118.48,4,0.0,57.71,48.71
+,"('East',)",Medina,Office Supplies,Storage,1807.26,12,0.0,500.44,27.69
+,"('East',)",Medina,Technology,Accessories,552.53,11,0.2,48.39,8.76
+,"('East',)",Medina,Technology,Machines,1188.0,9,0.7,-950.4,-80.0
+,"('East',)",Medina,Technology,Phones,62.98,3,0.4,-14.7,-23.34
+,"('East',)",Middletown,Furniture,Bookcases,590.06,7,0.7,-786.74,-133.33
+,"('East',)",Middletown,Office Supplies,Art,14.04,3,0.2,1.58,11.25
+,"('East',)",Middletown,Office Supplies,Storage,552.56,4,0.0,0.0,0.0
+,"('East',)",Mount Vernon,Furniture,Furnishings,4.93,2,0.2,0.74,15.01
+,"('East',)",Mount Vernon,Furniture,Tables,510.24,3,0.2,6.38,1.25
+,"('East',)",Mount Vernon,Office Supplies,Appliances,281.34,6,0.0,109.72,39.0
+,"('East',)",Mount Vernon,Office Supplies,Binders,328.4,9,0.8,156.41,47.63
+,"('East',)",Mount Vernon,Office Supplies,Labels,11.78,3,0.2,4.27,36.25
+,"('East',)",Mount Vernon,Office Supplies,Paper,327.92,8,0.0,160.69,49.0
+,"('East',)",Mount Vernon,Office Supplies,Storage,1261.33,7,0.0,327.95,26.0
+,"('East',)",Mount Vernon,Technology,Accessories,416.8,7,0.2,147.58,35.41
+,"('East',)",Mount Vernon,Technology,Phones,1017.03,9,0.0,292.65,28.77
+,"('East',)",New Brunswick,Furniture,Chairs,851.46,11,0.7,-124.99,-14.68
+,"('East',)",New Brunswick,Furniture,Furnishings,44.4,2,0.6,-52.17,-117.5
+,"('East',)",New Brunswick,Office Supplies,Art,12.73,5,0.4,3.54,27.81
+,"('East',)",New Brunswick,Office Supplies,Binders,52.62,21,2.5,-15.58,-29.61
+,"('East',)",New Brunswick,Office Supplies,Envelopes,146.35,3,0.2,49.39,33.75
+,"('East',)",New Brunswick,Office Supplies,Fasteners,7.16,2,0.0,3.58,50.0
+,"('East',)",New Brunswick,Office Supplies,Labels,12.0,4,0.2,4.2,35.0
+,"('East',)",New Brunswick,Office Supplies,Paper,479.25,33,0.0,221.05,46.12
+,"('East',)",New Brunswick,Office Supplies,Storage,745.48,5,0.4,-67.78,-9.09
+,"('East',)",New Brunswick,Technology,Accessories,76.86,10,0.2,26.48,34.45
+,"('East',)",New Brunswick,Technology,Phones,1521.34,8,0.4,96.41,6.34
+,"('East',)",New Rochelle,Furniture,Chairs,470.3,7,0.3,-87.34,-18.57
+,"('East',)",New Rochelle,Furniture,Furnishings,122.11,13,0.2,38.77,31.75
+,"('East',)",New Rochelle,Furniture,Tables,154.76,3,0.4,-36.11,-23.33
+,"('East',)",New Rochelle,Office Supplies,Appliances,186.73,1,0.1,41.5,22.22
+,"('East',)",New Rochelle,Office Supplies,Binders,3838.41,9,0.0,1919.21,50.0
+,"('East',)",New Rochelle,Office Supplies,Paper,77.82,13,0.4,31.74,40.79
+,"('East',)",New Rochelle,Office Supplies,Storage,654.66,12,0.2,-39.12,-5.98
+,"('East',)",New Rochelle,Office Supplies,Supplies,38.23,4,0.2,5.91,15.46
+,"('East',)",New Rochelle,Technology,Accessories,116.78,2,0.2,21.9,18.75
+,"('East',)",New Rochelle,Technology,Machines,69.99,1,0.0,30.1,43.01
+,"('East',)",New Rochelle,Technology,Phones,391.31,17,0.2,58.63,14.98
+,"('East',)",New York City,Furniture,Bookcases,12197.82,95,4.81,-427.44,-3.5
+,"('East',)",New York City,Furniture,Chairs,17067.67,133,4.4,2043.46,11.97
+,"('East',)",New York City,Furniture,Furnishings,6293.35,305,10.2,1127.05,17.91
+,"('East',)",New York City,Furniture,Tables,16746.37,102,7.8,-1837.82,-10.97
+,"('East',)",New York City,Office Supplies,Appliances,6929.24,115,3.6,1679.14,24.23
+,"('East',)",New York City,Office Supplies,Art,1923.99,257,4.6,490.94,25.52
+,"('East',)",New York City,Office Supplies,Binders,21880.21,525,41.2,4204.7,19.22
+,"('East',)",New York City,Office Supplies,Envelopes,1633.47,69,1.0,697.97,42.73
+,"('East',)",New York City,Office Supplies,Fasteners,206.57,69,0.2,68.49,33.16
+,"('East',)",New York City,Office Supplies,Labels,1084.23,125,1.6,502.58,46.35
+,"('East',)",New York City,Office Supplies,Paper,5634.6,463,6.4,2533.44,44.96
+,"('East',)",New York City,Office Supplies,Storage,15578.64,277,5.4,2228.32,14.3
+,"('East',)",New York City,Office Supplies,Supplies,3352.42,71,2.0,-299.21,-8.93
+,"('East',)",New York City,Technology,Accessories,15320.92,254,3.4,3952.42,25.8
+,"('East',)",New York City,Technology,Copiers,15839.86,18,0.8,5235.96,33.06
+,"('East',)",New York City,Technology,Machines,43808.33,59,0.8,14574.35,33.27
+,"('East',)",New York City,Technology,Phones,25429.37,280,8.2,5118.31,20.13
+,"('East',)",Newark,Furniture,Bookcases,1497.67,2,0.15,140.96,9.41
+,"('East',)",Newark,Furniture,Chairs,63.69,1,0.3,-15.47,-24.29
+,"('East',)",Newark,Furniture,Furnishings,450.43,22,1.2,86.19,19.14
+,"('East',)",Newark,Furniture,Tables,344.22,2,0.4,-189.32,-55.0
+,"('East',)",Newark,Office Supplies,Appliances,122.43,4,0.0,46.71,38.15
+,"('East',)",Newark,Office Supplies,Art,114.56,11,0.2,44.1,38.5
+,"('East',)",Newark,Office Supplies,Binders,401.64,28,0.9,138.93,34.59
+,"('East',)",Newark,Office Supplies,Fasteners,30.62,10,0.0,12.03,39.29
+,"('East',)",Newark,Office Supplies,Labels,18.39,5,0.2,7.8,42.41
+,"('East',)",Newark,Office Supplies,Paper,75.84,13,0.4,32.96,43.46
+,"('East',)",Newark,Office Supplies,Storage,1024.02,24,0.2,71.62,6.99
+,"('East',)",Newark,Technology,Accessories,990.92,21,1.0,73.09,7.38
+,"('East',)",Newark,Technology,Machines,1688.76,11,1.1,-155.48,-9.21
+,"('East',)",Newark,Technology,Phones,147.5,4,0.2,58.89,39.93
+,"('East',)",Niagara Falls,Furniture,Furnishings,14.73,3,0.0,4.86,32.99
+,"('East',)",Niagara Falls,Office Supplies,Art,17.28,6,0.0,5.01,28.99
+,"('East',)",Niagara Falls,Office Supplies,Binders,132.74,10,1.1,34.65,26.1
+,"('East',)",Niagara Falls,Office Supplies,Envelopes,63.97,2,0.2,19.99,31.25
+,"('East',)",Niagara Falls,Technology,Copiers,999.98,2,0.0,449.99,45.0
+,"('East',)",Norwich,Furniture,Bookcases,552.86,8,0.2,61.74,11.17
+,"('East',)",Norwich,Furniture,Furnishings,1650.43,32,0.4,315.39,19.11
+,"('East',)",Norwich,Office Supplies,Appliances,42.38,2,0.2,4.24,10.0
+,"('East',)",Norwich,Office Supplies,Art,209.94,6,0.0,54.58,26.0
+,"('East',)",Norwich,Office Supplies,Binders,119.17,28,2.6,-5.72,-4.8
+,"('East',)",Norwich,Office Supplies,Labels,47.36,4,0.2,17.76,37.5
+,"('East',)",Norwich,Office Supplies,Paper,110.97,15,0.2,52.31,47.14
+,"('East',)",Norwich,Office Supplies,Storage,2068.33,15,0.4,350.36,16.94
+,"('East',)",Norwich,Office Supplies,Supplies,4164.05,5,0.0,83.28,2.0
+,"('East',)",Norwich,Technology,Accessories,422.86,8,0.2,116.36,27.52
+,"('East',)",Norwich,Technology,Machines,1279.97,4,0.2,415.99,32.5
+,"('East',)",Norwich,Technology,Phones,617.54,6,0.2,165.1,26.74
+,"('East',)",Oceanside,Furniture,Chairs,1353.01,9,0.6,103.48,7.65
+,"('East',)",Oceanside,Furniture,Furnishings,32.24,4,0.0,14.9,46.22
+,"('East',)",Oceanside,Furniture,Tables,527.82,3,0.7,-184.38,-34.93
+,"('East',)",Oceanside,Office Supplies,Appliances,1238.52,9,0.0,336.38,27.16
+,"('East',)",Oceanside,Office Supplies,Art,50.64,11,0.0,16.65,32.88
+,"('East',)",Oceanside,Office Supplies,Binders,125.52,29,2.8,-16.48,-13.13
+,"('East',)",Oceanside,Office Supplies,Envelopes,51.12,4,0.0,23.0,44.99
+,"('East',)",Oceanside,Office Supplies,Labels,6.3,2,0.0,3.02,47.94
+,"('East',)",Oceanside,Office Supplies,Paper,651.32,39,0.8,288.59,44.31
+,"('East',)",Oceanside,Office Supplies,Storage,190.14,7,0.2,-25.13,-13.22
+,"('East',)",Oceanside,Office Supplies,Supplies,33.8,5,0.2,4.22,12.49
+,"('East',)",Oceanside,Technology,Accessories,329.96,6,0.2,116.39,35.27
+,"('East',)",Oceanside,Technology,Machines,65.97,3,0.0,31.01,47.01
+,"('East',)",Parma,Furniture,Furnishings,31.98,2,0.2,1.2,3.75
+,"('East',)",Parma,Office Supplies,Appliances,14.34,4,0.2,0.9,6.28
+,"('East',)",Parma,Office Supplies,Art,46.83,4,0.4,5.27,11.25
+,"('East',)",Parma,Office Supplies,Binders,198.16,7,0.2,74.07,37.38
+,"('East',)",Parma,Office Supplies,Paper,47.28,9,0.4,16.96,35.87
+,"('East',)",Parma,Office Supplies,Storage,33.29,1,0.0,7.99,24.0
+,"('East',)",Parma,Technology,Phones,61.46,6,1.0,-21.93,-35.68
+,"('East',)",Perth Amboy,Furniture,Furnishings,56.91,8,1.2,4.67,8.21
+,"('East',)",Perth Amboy,Furniture,Tables,1218.73,5,0.3,-121.87,-10.0
+,"('East',)",Perth Amboy,Office Supplies,Appliances,162.64,2,0.0,45.54,28.0
+,"('East',)",Perth Amboy,Office Supplies,Fasteners,24.85,7,0.0,11.68,47.0
+,"('East',)",Perth Amboy,Office Supplies,Labels,8.42,3,0.4,2.87,34.09
+,"('East',)",Perth Amboy,Office Supplies,Paper,81.55,6,0.4,35.36,43.36
+,"('East',)",Perth Amboy,Office Supplies,Storage,130.52,7,0.2,-10.21,-7.82
+,"('East',)",Perth Amboy,Technology,Accessories,145.44,6,0.4,40.36,27.75
+,"('East',)",Perth Amboy,Technology,Phones,597.0,3,0.0,280.59,47.0
+,"('East',)",Philadelphia,Furniture,Bookcases,7987.41,45,3.29,-1914.89,-23.97
+,"('East',)",Philadelphia,Furniture,Chairs,16747.45,116,5.5,1183.24,7.07
+,"('East',)",Philadelphia,Furniture,Furnishings,6678.67,248,9.6,699.28,10.47
+,"('East',)",Philadelphia,Furniture,Tables,9737.9,67,4.3,-490.3,-5.03
+,"('East',)",Philadelphia,Office Supplies,Appliances,6945.28,122,6.1,1264.69,18.21
+,"('East',)",Philadelphia,Office Supplies,Art,1297.99,148,3.6,200.14,15.42
+,"('East',)",Philadelphia,Office Supplies,Binders,5034.38,306,39.0,-913.41,-18.14
+,"('East',)",Philadelphia,Office Supplies,Envelopes,1446.22,87,2.0,646.48,44.7
+,"('East',)",Philadelphia,Office Supplies,Fasteners,142.06,50,1.4,43.85,30.87
+,"('East',)",Philadelphia,Office Supplies,Labels,474.37,66,1.8,189.16,39.88
+,"('East',)",Philadelphia,Office Supplies,Paper,3607.04,330,7.8,1542.47,42.76
+,"('East',)",Philadelphia,Office Supplies,Storage,21641.57,235,4.4,2540.04,11.74
+,"('East',)",Philadelphia,Office Supplies,Supplies,852.97,31,1.0,-107.98,-12.66
+,"('East',)",Philadelphia,Technology,Accessories,8614.32,141,3.6,1946.81,22.6
+,"('East',)",Philadelphia,Technology,Copiers,10369.82,20,0.6,4341.43,41.87
+,"('East',)",Philadelphia,Technology,Machines,2559.05,18,2.0,-76.05,-2.97
+,"('East',)",Philadelphia,Technology,Phones,26784.68,269,13.2,1281.57,4.78
+,"('East',)",Providence,Furniture,Bookcases,220.98,1,0.0,50.83,23.0
+,"('East',)",Providence,Furniture,Chairs,1776.45,15,0.5,153.84,8.66
+,"('East',)",Providence,Furniture,Furnishings,209.44,12,0.0,25.89,12.36
+,"('East',)",Providence,Furniture,Tables,124.4,4,0.3,-21.33,-17.15
+,"('East',)",Providence,Office Supplies,Appliances,13.76,1,0.8,-24.77,-180.01
+,"('East',)",Providence,Office Supplies,Art,31.08,5,0.2,6.62,21.3
+,"('East',)",Providence,Office Supplies,Binders,378.8,24,1.1,122.01,32.21
+,"('East',)",Providence,Office Supplies,Envelopes,7.07,2,0.2,2.39,33.8
+,"('East',)",Providence,Office Supplies,Fasteners,34.44,3,0.0,16.19,47.01
+,"('East',)",Providence,Office Supplies,Paper,265.61,22,0.4,118.01,44.43
+,"('East',)",Providence,Office Supplies,Storage,1812.77,19,0.6,501.13,27.64
+,"('East',)",Providence,Office Supplies,Supplies,739.56,11,0.0,47.19,6.38
+,"('East',)",Providence,Technology,Accessories,43.63,6,0.2,10.13,23.22
+,"('East',)",Providence,Technology,Machines,3987.53,10,0.2,673.8,16.9
+,"('East',)",Providence,Technology,Phones,829.92,7,0.2,52.66,6.35
+,"('East',)",Quincy,Furniture,Bookcases,411.33,4,0.15,-4.84,-1.18
+,"('East',)",Quincy,Furniture,Furnishings,125.26,4,0.0,28.89,23.06
+,"('East',)",Quincy,Office Supplies,Appliances,211.25,6,0.2,15.84,7.5
+,"('East',)",Quincy,Office Supplies,Art,47.96,5,0.2,4.2,8.76
+,"('East',)",Quincy,Office Supplies,Labels,44.35,5,0.2,20.87,47.06
+,"('East',)",Quincy,Office Supplies,Paper,31.1,6,0.2,10.89,35.02
+,"('East',)",Quincy,Office Supplies,Supplies,12.91,4,0.2,-0.89,-6.89
+,"('East',)",Quincy,Technology,Accessories,158.93,7,0.2,41.72,26.25
+,"('East',)",Rochester,Furniture,Bookcases,523.26,9,0.0,125.58,24.0
+,"('East',)",Rochester,Furniture,Furnishings,1214.32,9,0.0,125.63,10.35
+,"('East',)",Rochester,Office Supplies,Appliances,122.94,3,0.0,30.73,25.0
+,"('East',)",Rochester,Office Supplies,Art,19.9,6,0.0,5.83,29.3
+,"('East',)",Rochester,Office Supplies,Binders,131.97,14,0.4,51.66,39.15
+,"('East',)",Rochester,Office Supplies,Envelopes,11.07,3,0.0,5.09,45.98
+,"('East',)",Rochester,Office Supplies,Labels,7.38,2,0.0,3.47,47.02
+,"('East',)",Rochester,Office Supplies,Paper,19.05,3,0.0,8.76,45.98
+,"('East',)",Rochester,Office Supplies,Storage,449.15,5,0.0,8.98,2.0
+,"('East',)",Rochester,Technology,Accessories,272.61,13,0.0,98.14,36.0
+,"('East',)",Rochester,Technology,Phones,598.8,5,0.0,156.57,26.15
+,"('East',)",Springfield,Furniture,Bookcases,72.59,2,0.7,-128.24,-176.66
+,"('East',)",Springfield,Furniture,Chairs,1408.1,10,0.0,394.27,28.0
+,"('East',)",Springfield,Furniture,Furnishings,429.26,14,0.2,70.2,16.35
+,"('East',)",Springfield,Furniture,Tables,85.98,1,0.0,22.35,25.99
+,"('East',)",Springfield,Office Supplies,Art,66.08,13,0.4,23.3,35.26
+,"('East',)",Springfield,Office Supplies,Binders,537.61,12,0.9,230.22,42.82
+,"('East',)",Springfield,Office Supplies,Paper,299.1,14,0.4,126.71,42.36
+,"('East',)",Springfield,Office Supplies,Storage,1900.15,21,0.2,-136.05,-7.16
+,"('East',)",Springfield,Technology,Accessories,1092.9,19,0.2,259.88,23.78
+,"('East',)",Springfield,Technology,Phones,207.57,5,0.6,9.33,4.49
+,"('East',)",Toledo,Furniture,Bookcases,241.96,2,0.0,24.2,10.0
+,"('East',)",Toledo,Furniture,Chairs,422.06,3,0.3,-18.09,-4.29
+,"('East',)",Toledo,Furniture,Furnishings,723.75,20,0.4,331.01,45.74
+,"('East',)",Toledo,Office Supplies,Appliances,82.9,5,0.2,15.07,18.18
+,"('East',)",Toledo,Office Supplies,Art,204.92,10,0.2,60.39,29.47
+,"('East',)",Toledo,Office Supplies,Binders,661.97,23,2.8,-529.13,-79.93
+,"('East',)",Toledo,Office Supplies,Fasteners,11.87,8,0.4,-1.97,-16.6
+,"('East',)",Toledo,Office Supplies,Paper,64.8,10,0.0,31.1,47.99
+,"('East',)",Toledo,Office Supplies,Storage,254.35,6,0.2,-50.87,-20.0
+,"('East',)",Toledo,Office Supplies,Supplies,25.35,3,0.0,7.6,29.98
+,"('East',)",Toledo,Technology,Phones,406.75,6,0.4,50.03,12.3
+,"('East',)",Troy,Furniture,Chairs,319.41,5,0.1,7.1,2.22
+,"('East',)",Troy,Furniture,Furnishings,80.12,7,0.0,30.48,38.04
+,"('East',)",Troy,Furniture,Tables,416.57,3,0.3,65.68,15.77
+,"('East',)",Troy,Office Supplies,Art,55.09,13,0.2,16.01,29.06
+,"('East',)",Troy,Office Supplies,Binders,139.5,24,2.0,32.52,23.31
+,"('East',)",Troy,Office Supplies,Envelopes,8.86,3,0.2,2.88,32.51
+,"('East',)",Troy,Office Supplies,Fasteners,11.68,4,0.0,5.26,45.03
+,"('East',)",Troy,Office Supplies,Labels,18.61,6,0.4,6.05,32.51
+,"('East',)",Troy,Office Supplies,Paper,478.21,26,0.0,230.46,48.19
+,"('East',)",Troy,Office Supplies,Storage,219.46,7,0.0,54.97,25.05
+,"('East',)",Troy,Technology,Accessories,1049.09,14,0.2,186.25,17.75
+,"('East',)",Troy,Technology,Phones,59.97,3,0.0,28.79,48.01
+,"('East',)",Vineland,Furniture,Furnishings,17.31,3,0.0,5.19,29.98
+,"('East',)",Vineland,Furniture,Tables,244.01,2,0.3,-31.37,-12.86
+,"('East',)",Vineland,Office Supplies,Art,19.54,3,0.2,4.88,24.97
+,"('East',)",Vineland,Office Supplies,Binders,82.44,13,0.9,-48.03,-58.26
+,"('East',)",Vineland,Office Supplies,Envelopes,16.56,2,0.0,7.78,46.98
+,"('East',)",Vineland,Office Supplies,Labels,122.12,5,0.2,39.69,32.5
+,"('East',)",Vineland,Technology,Accessories,279.95,5,0.0,67.19,24.0
+,"('East',)",Vineland,Technology,Phones,646.31,6,0.4,72.47,11.21
+,"('East',)",Warwick,Furniture,Furnishings,71.49,18,0.8,17.13,23.96
+,"('East',)",Warwick,Office Supplies,Appliances,34.18,3,0.8,-87.15,-254.97
+,"('East',)",Warwick,Office Supplies,Art,223.33,15,0.2,60.99,27.31
+,"('East',)",Warwick,Office Supplies,Binders,3.91,1,0.2,1.27,32.48
+,"('East',)",Warwick,Office Supplies,Paper,346.35,20,0.0,163.44,47.19
+,"('East',)",Warwick,Office Supplies,Storage,49.96,2,0.0,9.49,19.0
+,"('East',)",Warwick,Office Supplies,Supplies,34.48,2,0.0,10.0,29.0
+,"('East',)",Warwick,Technology,Accessories,52.67,15,0.4,10.9,20.69
+,"('East',)",Warwick,Technology,Phones,507.66,10,0.0,146.26,28.81
+,"('East',)",Washington,Furniture,Furnishings,41.37,3,0.0,17.38,42.01
+,"('East',)",Washington,Office Supplies,Appliances,59.7,3,0.0,26.86,44.99
+,"('East',)",Washington,Office Supplies,Binders,44.21,9,0.9,7.62,17.24
+,"('East',)",Washington,Office Supplies,Paper,51.79,8,0.0,24.21,46.75
+,"('East',)",Washington,Technology,Accessories,1287.45,5,0.0,244.62,19.0
+,"('East',)",Washington,Technology,Phones,713.94,7,0.2,170.27,23.85
+,"('East',)",Watertown,Furniture,Bookcases,361.96,2,0.0,83.25,23.0
+,"('East',)",Watertown,Furniture,Chairs,2820.59,14,0.6,286.11,10.14
+,"('East',)",Watertown,Furniture,Furnishings,255.54,9,0.0,95.1,37.22
+,"('East',)",Watertown,Office Supplies,Appliances,105.88,6,0.0,27.97,26.42
+,"('East',)",Watertown,Office Supplies,Art,223.48,19,0.2,72.84,32.59
+,"('East',)",Watertown,Office Supplies,Binders,1218.34,37,1.2,433.07,35.55
+,"('East',)",Watertown,Office Supplies,Envelopes,455.77,18,0.2,210.82,46.26
+,"('East',)",Watertown,Office Supplies,Fasteners,15.12,5,0.2,4.91,32.47
+,"('East',)",Watertown,Office Supplies,Labels,51.75,5,0.0,24.84,48.0
+,"('East',)",Watertown,Office Supplies,Paper,417.97,21,0.2,189.71,45.39
+,"('East',)",Watertown,Office Supplies,Storage,1847.31,16,0.2,29.42,1.59
+,"('East',)",Watertown,Office Supplies,Supplies,4967.49,8,0.0,211.87,4.27
+,"('East',)",Watertown,Technology,Accessories,22.96,2,0.0,4.36,18.99
+,"('East',)",Westfield,Office Supplies,Art,2.91,2,0.2,0.91,31.27
+,"('East',)",Westfield,Office Supplies,Binders,100.16,6,0.4,35.06,35.0
+,"('East',)",Westfield,Office Supplies,Fasteners,3.17,2,0.2,-0.71,-22.4
+,"('East',)",Westfield,Office Supplies,Paper,64.8,10,0.0,31.1,47.99
+,"('East',)",Westfield,Office Supplies,Storage,92.77,4,0.0,13.89,14.97
+,"('East',)",Westfield,Technology,Accessories,35.36,2,0.2,-3.09,-8.74
+,"('East',)",Westfield,Technology,Phones,2155.7,11,0.2,436.38,20.24
+,"('East',)",Wilmington,Furniture,Chairs,1314.92,6,0.4,140.4,10.68
+,"('East',)",Wilmington,Furniture,Furnishings,749.86,20,0.4,241.79,32.24
+,"('East',)",Wilmington,Furniture,Tables,826.32,9,0.3,64.71,7.83
+,"('East',)",Wilmington,Office Supplies,Art,191.62,12,0.2,50.12,26.16
+,"('East',)",Wilmington,Office Supplies,Binders,268.13,26,2.4,97.21,36.25
+,"('East',)",Wilmington,Office Supplies,Envelopes,115.02,9,0.0,51.76,45.0
+,"('East',)",Wilmington,Office Supplies,Labels,34.65,12,0.0,16.45,47.47
+,"('East',)",Wilmington,Office Supplies,Paper,36.29,7,0.2,12.7,35.0
+,"('East',)",Wilmington,Office Supplies,Storage,1257.41,19,0.0,350.18,27.85
+,"('East',)",Wilmington,Office Supplies,Supplies,40.71,7,0.2,3.56,8.74
+,"('East',)",Wilmington,Technology,Accessories,282.88,6,0.4,-36.86,-13.03
+,"('East',)",Wilmington,Technology,Phones,1422.41,17,0.2,463.03,32.55
+,"('East',)",Subtotal,,,611734.49,10515,417.47,94603.8,15.46
+,"('South',)",Arlington,Furniture,Bookcases,421.93,5,0.0,83.53,19.8
+,"('South',)",Arlington,Furniture,Chairs,2948.43,11,0.3,328.06,11.13
+,"('South',)",Arlington,Furniture,Furnishings,615.0,24,1.4,-50.17,-8.16
+,"('South',)",Arlington,Furniture,Tables,945.04,6,0.4,-299.26,-31.67
+,"('South',)",Arlington,Office Supplies,Appliances,94.72,7,0.0,25.04,26.44
+,"('South',)",Arlington,Office Supplies,Art,11.61,5,0.0,5.36,46.17
+,"('South',)",Arlington,Office Supplies,Binders,136.13,33,6.3,-44.26,-32.51
+,"('South',)",Arlington,Office Supplies,Labels,96.2,5,0.2,43.8,45.53
+,"('South',)",Arlington,Office Supplies,Paper,376.35,24,0.2,174.68,46.41
+,"('South',)",Arlington,Office Supplies,Storage,1320.93,20,0.6,97.82,7.41
+,"('South',)",Arlington,Office Supplies,Supplies,70.12,4,0.0,21.04,30.01
+,"('South',)",Arlington,Technology,Accessories,549.9,6,0.2,160.43,29.17
+,"('South',)",Arlington,Technology,Phones,143.55,5,0.6,15.84,11.03
+,"('South',)",Asheville,Furniture,Bookcases,663.79,8,0.45,-16.19,-2.44
+,"('South',)",Asheville,Furniture,Chairs,909.72,6,0.3,-51.98,-5.71
+,"('South',)",Asheville,Furniture,Furnishings,16.67,4,0.8,-6.06,-36.35
+,"('South',)",Asheville,Furniture,Tables,292.1,4,0.5,-175.26,-60.0
+,"('South',)",Asheville,Office Supplies,Art,25.92,9,0.0,7.78,30.02
+,"('South',)",Asheville,Office Supplies,Binders,75.62,16,3.2,9.52,12.59
+,"('South',)",Asheville,Office Supplies,Fasteners,18.86,9,0.2,6.13,32.5
+,"('South',)",Asheville,Office Supplies,Paper,151.59,10,0.4,53.05,35.0
+,"('South',)",Asheville,Office Supplies,Storage,381.72,5,0.2,-66.8,-17.5
+,"('South',)",Asheville,Office Supplies,Supplies,97.3,7,0.0,28.22,29.0
+,"('South',)",Asheville,Technology,Accessories,209.97,3,0.0,71.39,34.0
+,"('South',)",Asheville,Technology,Copiers,659.99,2,0.4,110.0,16.67
+,"('South',)",Asheville,Technology,Phones,1363.96,5,0.2,85.25,6.25
+,"('South',)",Atlanta,Furniture,Furnishings,6.46,1,0.6,-4.04,-62.54
+,"('South',)",Atlanta,Office Supplies,Art,20.2,7,0.0,6.01,29.75
+,"('South',)",Atlanta,Office Supplies,Binders,8377.22,13,0.2,3860.0,46.08
+,"('South',)",Atlanta,Office Supplies,Labels,11.52,5,0.2,4.18,36.28
+,"('South',)",Atlanta,Office Supplies,Storage,316.23,6,0.0,17.07,5.4
+,"('South',)",Atlanta,Technology,Phones,222.38,2,0.2,16.68,7.5
+,"('South',)",Auburn,Furniture,Bookcases,302.94,3,0.0,69.68,23.0
+,"('South',)",Auburn,Furniture,Chairs,1955.88,6,0.0,565.71,28.92
+,"('South',)",Auburn,Furniture,Furnishings,41.23,10,0.0,15.92,38.61
+,"('South',)",Auburn,Furniture,Tables,1257.09,5,0.3,87.53,6.96
+,"('South',)",Auburn,Office Supplies,Art,170.87,17,0.0,53.99,31.6
+,"('South',)",Auburn,Office Supplies,Binders,107.69,20,0.9,29.33,27.24
+,"('South',)",Auburn,Office Supplies,Envelopes,17.48,2,0.0,8.22,47.03
+,"('South',)",Auburn,Office Supplies,Paper,23.24,4,0.0,10.8,46.47
+,"('South',)",Auburn,Office Supplies,Storage,900.08,4,0.0,117.01,13.0
+,"('South',)",Auburn,Office Supplies,Supplies,231.72,2,0.0,11.59,5.0
+,"('South',)",Auburn,Technology,Phones,655.8,8,0.2,115.97,17.68
+,"('South',)",Bossier City,Furniture,Furnishings,416.56,7,0.0,51.32,12.32
+,"('South',)",Bossier City,Office Supplies,Art,13.12,4,0.0,4.33,33.0
+,"('South',)",Bossier City,Office Supplies,Binders,234.34,23,0.8,95.69,40.83
+,"('South',)",Bossier City,Office Supplies,Envelopes,68.91,7,0.2,32.96,47.83
+,"('South',)",Bossier City,Office Supplies,Labels,50.12,4,0.0,23.56,47.01
+,"('South',)",Bossier City,Office Supplies,Paper,180.71,21,0.2,85.4,47.26
+,"('South',)",Bossier City,Office Supplies,Storage,678.22,12,0.0,44.5,6.56
+,"('South',)",Bossier City,Technology,Accessories,922.7,12,0.0,380.36,41.22
+,"('South',)",Bossier City,Technology,Phones,189.54,7,0.4,20.25,10.68
+,"('South',)",Bowling Green,Furniture,Chairs,1605.24,13,0.7,1.09,0.07
+,"('South',)",Bowling Green,Furniture,Furnishings,89.75,6,0.2,16.44,18.32
+,"('South',)",Bowling Green,Office Supplies,Appliances,91.92,5,0.2,11.49,12.5
+,"('South',)",Bowling Green,Office Supplies,Binders,255.76,17,1.1,82.56,32.28
+,"('South',)",Bowling Green,Office Supplies,Envelopes,34.74,3,0.0,17.37,50.0
+,"('South',)",Bowling Green,Office Supplies,Paper,105.67,16,0.4,42.35,40.08
+,"('South',)",Bowling Green,Office Supplies,Storage,112.21,6,0.2,6.64,5.92
+,"('South',)",Bowling Green,Technology,Accessories,196.3,16,0.2,30.56,15.57
+,"('South',)",Bowling Green,Technology,Phones,1403.93,7,0.0,387.82,27.62
+,"('South',)",Boynton Beach,Furniture,Chairs,718.62,15,0.1,156.43,21.77
+,"('South',)",Boynton Beach,Furniture,Furnishings,85.44,3,0.0,31.61,37.0
+,"('South',)",Boynton Beach,Office Supplies,Art,16.4,5,0.0,4.76,29.02
+,"('South',)",Boynton Beach,Office Supplies,Binders,21.91,6,1.0,-15.59,-71.15
+,"('South',)",Boynton Beach,Office Supplies,Fasteners,40.67,7,0.0,12.61,31.01
+,"('South',)",Boynton Beach,Office Supplies,Paper,15.55,3,0.2,5.44,34.98
+,"('South',)",Boynton Beach,Office Supplies,Storage,33.48,2,0.0,1.34,4.0
+,"('South',)",Boynton Beach,Technology,Phones,806.34,8,0.2,50.4,6.25
+,"('South',)",Bristol,Furniture,Bookcases,206.0,3,0.32,-27.26,-13.23
+,"('South',)",Bristol,Furniture,Chairs,751.87,10,0.6,-58.34,-7.76
+,"('South',)",Bristol,Furniture,Furnishings,84.25,8,0.2,29.67,35.22
+,"('South',)",Bristol,Furniture,Tables,206.35,3,0.2,5.16,2.5
+,"('South',)",Bristol,Office Supplies,Appliances,48.23,6,0.2,7.35,15.24
+,"('South',)",Bristol,Office Supplies,Art,66.73,7,0.2,9.15,13.71
+,"('South',)",Bristol,Office Supplies,Binders,229.47,22,3.5,-120.3,-52.43
+,"('South',)",Bristol,Office Supplies,Envelopes,11.16,2,0.0,5.58,50.0
+,"('South',)",Bristol,Office Supplies,Fasteners,26.24,8,0.0,12.07,46.0
+,"('South',)",Bristol,Office Supplies,Paper,450.23,43,0.8,179.12,39.78
+,"('South',)",Bristol,Office Supplies,Storage,645.71,15,0.4,14.73,2.28
+,"('South',)",Bristol,Technology,Accessories,1136.5,30,0.2,339.35,29.86
+,"('South',)",Bristol,Technology,Phones,47.98,2,0.2,14.3,29.8
+,"('South',)",Burlington,Furniture,Chairs,436.7,6,0.2,-38.21,-8.75
+,"('South',)",Burlington,Furniture,Furnishings,86.94,6,0.2,28.2,32.44
+,"('South',)",Burlington,Furniture,Tables,1350.34,5,0.4,-307.68,-22.79
+,"('South',)",Burlington,Office Supplies,Appliances,167.44,2,0.2,14.65,8.75
+,"('South',)",Burlington,Office Supplies,Art,62.25,13,0.6,6.05,9.72
+,"('South',)",Burlington,Office Supplies,Binders,3062.82,34,1.3,971.75,31.73
+,"('South',)",Burlington,Office Supplies,Envelopes,98.46,9,0.0,49.23,50.0
+,"('South',)",Burlington,Office Supplies,Paper,55.68,7,0.4,18.79,33.75
+,"('South',)",Burlington,Office Supplies,Storage,2687.18,19,0.0,705.41,26.25
+,"('South',)",Burlington,Office Supplies,Supplies,17.14,2,0.0,4.46,26.02
+,"('South',)",Burlington,Technology,Accessories,236.0,4,0.0,40.12,17.0
+,"('South',)",Burlington,Technology,Machines,8119.98,6,1.0,-3847.19,-47.38
+,"('South',)",Cary,Office Supplies,Appliances,166.84,5,0.2,18.77,11.25
+,"('South',)",Cary,Office Supplies,Fasteners,12.58,4,0.2,4.09,32.51
+,"('South',)",Cary,Office Supplies,Paper,10.37,2,0.2,3.63,35.0
+,"('South',)",Cary,Office Supplies,Storage,10.68,1,0.0,2.88,26.97
+,"('South',)",Cary,Technology,Accessories,15.22,1,0.2,2.28,14.98
+,"('South',)",Cary,Technology,Phones,49.62,2,0.2,4.96,10.0
+,"('South',)",Chapel Hill,Furniture,Bookcases,509.96,5,0.15,42.0,8.24
+,"('South',)",Chapel Hill,Furniture,Chairs,819.92,5,0.4,75.16,9.17
+,"('South',)",Chapel Hill,Furniture,Furnishings,146.08,12,0.2,41.88,28.67
+,"('South',)",Chapel Hill,Office Supplies,Appliances,262.24,2,0.0,78.67,30.0
+,"('South',)",Chapel Hill,Office Supplies,Art,31.9,12,0.2,10.12,31.72
+,"('South',)",Chapel Hill,Office Supplies,Binders,357.3,9,0.0,171.5,48.0
+,"('South',)",Chapel Hill,Office Supplies,Envelopes,42.68,4,0.0,19.63,45.99
+,"('South',)",Chapel Hill,Office Supplies,Paper,26.62,5,0.0,12.65,47.52
+,"('South',)",Chapel Hill,Office Supplies,Storage,1649.81,15,0.0,428.96,26.0
+,"('South',)",Chapel Hill,Technology,Accessories,399.95,5,0.0,168.98,42.25
+,"('South',)",Charlotte,Furniture,Chairs,1810.95,21,0.9,197.87,10.93
+,"('South',)",Charlotte,Furniture,Furnishings,886.93,31,1.4,48.15,5.43
+,"('South',)",Charlotte,Furniture,Tables,3117.88,12,0.2,599.14,19.22
+,"('South',)",Charlotte,Office Supplies,Appliances,170.2,9,1.8,-254.16,-149.33
+,"('South',)",Charlotte,Office Supplies,Art,143.14,22,0.6,35.99,25.14
+,"('South',)",Charlotte,Office Supplies,Binders,320.4,70,6.9,-55.57,-17.34
+,"('South',)",Charlotte,Office Supplies,Envelopes,203.67,4,0.0,96.23,47.25
+,"('South',)",Charlotte,Office Supplies,Fasteners,6.98,4,0.2,1.83,26.22
+,"('South',)",Charlotte,Office Supplies,Labels,38.2,10,0.4,12.89,33.74
+,"('South',)",Charlotte,Office Supplies,Paper,909.27,43,1.6,385.77,42.43
+,"('South',)",Charlotte,Office Supplies,Storage,1072.43,16,0.6,-106.93,-9.97
+,"('South',)",Charlotte,Technology,Accessories,238.06,14,0.4,58.95,24.76
+,"('South',)",Charlotte,Technology,Copiers,3959.94,7,0.2,1283.99,32.42
+,"('South',)",Charlotte,Technology,Machines,341.99,3,0.7,-319.19,-93.33
+,"('South',)",Charlotte,Technology,Phones,516.63,9,1.2,-35.07,-6.79
+,"('South',)",Charlottesville,Furniture,Bookcases,353.57,2,0.2,-44.2,-12.5
+,"('South',)",Charlottesville,Furniture,Chairs,579.53,4,0.1,83.71,14.44
+,"('South',)",Charlottesville,Furniture,Furnishings,119.95,6,0.2,37.33,31.12
+,"('South',)",Charlottesville,Furniture,Tables,1024.38,7,0.0,215.12,21.0
+,"('South',)",Charlottesville,Office Supplies,Appliances,13.97,1,0.0,3.63,25.98
+,"('South',)",Charlottesville,Office Supplies,Art,47.69,7,0.0,16.14,33.84
+,"('South',)",Charlottesville,Office Supplies,Binders,787.44,22,2.8,-336.01,-42.67
+,"('South',)",Charlottesville,Office Supplies,Envelopes,54.62,8,0.0,25.67,47.0
+,"('South',)",Charlottesville,Office Supplies,Labels,11.04,4,0.4,3.86,34.96
+,"('South',)",Charlottesville,Office Supplies,Paper,17.34,3,0.0,8.5,49.02
+,"('South',)",Charlottesville,Office Supplies,Storage,125.81,12,0.4,16.59,13.19
+,"('South',)",Charlottesville,Technology,Accessories,119.96,5,0.4,34.19,28.5
+,"('South',)",Clarksville,Furniture,Furnishings,244.98,6,0.0,42.08,17.18
+,"('South',)",Clarksville,Office Supplies,Appliances,69.22,6,0.2,11.25,16.25
+,"('South',)",Clarksville,Office Supplies,Binders,28.4,4,0.0,13.06,45.99
+,"('South',)",Clarksville,Technology,Accessories,106.5,6,0.0,41.54,39.0
+,"('South',)",Columbia,Furniture,Bookcases,102.02,7,0.7,-183.63,-179.99
+,"('South',)",Columbia,Furniture,Chairs,2056.53,16,0.8,195.44,9.5
+,"('South',)",Columbia,Furniture,Furnishings,463.02,20,0.6,152.86,33.01
+,"('South',)",Columbia,Furniture,Tables,285.48,5,0.2,-10.71,-3.75
+,"('South',)",Columbia,Office Supplies,Appliances,1901.79,22,0.6,376.72,19.81
+,"('South',)",Columbia,Office Supplies,Art,202.28,11,0.0,54.45,26.92
+,"('South',)",Columbia,Office Supplies,Binders,324.69,34,1.7,132.13,40.69
+,"('South',)",Columbia,Office Supplies,Paper,506.93,20,0.4,242.49,47.84
+,"('South',)",Columbia,Office Supplies,Storage,592.92,12,0.6,-97.39,-16.43
+,"('South',)",Columbia,Office Supplies,Supplies,238.62,2,0.0,4.77,2.0
+,"('South',)",Columbia,Technology,Accessories,1941.07,14,0.0,755.21,38.91
+,"('South',)",Columbia,Technology,Machines,91.48,1,0.5,-1.83,-2.0
+,"('South',)",Columbia,Technology,Phones,2394.69,20,0.6,331.11,13.83
+,"('South',)",Columbus,Furniture,Chairs,4251.48,26,0.8,681.32,16.03
+,"('South',)",Columbus,Furniture,Furnishings,1988.91,38,0.2,333.41,16.76
+,"('South',)",Columbus,Furniture,Tables,864.74,5,0.0,137.95,15.95
+,"('South',)",Columbus,Office Supplies,Appliances,1165.1,34,1.1,303.53,26.05
+,"('South',)",Columbus,Office Supplies,Art,91.63,20,0.2,31.22,34.07
+,"('South',)",Columbus,Office Supplies,Binders,1110.7,62,7.2,196.13,17.66
+,"('South',)",Columbus,Office Supplies,Fasteners,65.99,15,0.2,12.94,19.61
+,"('South',)",Columbus,Office Supplies,Labels,30.11,6,0.2,13.49,44.8
+,"('South',)",Columbus,Office Supplies,Paper,698.14,30,0.6,282.19,40.42
+,"('South',)",Columbus,Office Supplies,Storage,2363.64,23,0.2,434.53,18.38
+,"('South',)",Columbus,Office Supplies,Supplies,5.84,2,0.2,0.73,12.5
+,"('South',)",Columbus,Technology,Accessories,1735.88,15,0.2,623.37,35.91
+,"('South',)",Columbus,Technology,Phones,7359.26,44,1.4,1016.66,13.81
+,"('South',)",Concord,Furniture,Furnishings,27.46,2,0.0,9.89,36.02
+,"('South',)",Concord,Furniture,Tables,447.84,4,0.0,98.52,22.0
+,"('South',)",Concord,Office Supplies,Art,8.64,3,0.0,2.51,29.05
+,"('South',)",Concord,Office Supplies,Paper,108.52,17,0.2,50.33,46.38
+,"('South',)",Concord,Office Supplies,Storage,508.11,4,0.0,52.59,10.35
+,"('South',)",Concord,Technology,Accessories,479.97,3,0.0,163.19,34.0
+,"('South',)",Concord,Technology,Phones,209.97,3,0.0,58.79,28.0
+,"('South',)",Daytona Beach,Furniture,Bookcases,205.67,2,0.15,-12.1,-5.88
+,"('South',)",Daytona Beach,Furniture,Furnishings,89.34,6,0.0,24.12,27.0
+,"('South',)",Daytona Beach,Furniture,Tables,268.7,3,0.2,6.72,2.5
+,"('South',)",Daytona Beach,Office Supplies,Art,21.92,8,0.0,5.92,27.01
+,"('South',)",Daytona Beach,Office Supplies,Binders,110.15,18,1.6,15.61,14.17
+,"('South',)",Daytona Beach,Office Supplies,Envelopes,27.31,2,0.2,9.22,33.76
+,"('South',)",Daytona Beach,Office Supplies,Fasteners,4.46,3,0.2,-0.95,-21.3
+,"('South',)",Daytona Beach,Office Supplies,Labels,34.86,7,0.0,16.04,46.01
+,"('South',)",Daytona Beach,Office Supplies,Paper,135.18,8,0.2,57.92,42.85
+,"('South',)",Daytona Beach,Office Supplies,Storage,151.69,10,0.2,30.09,19.84
+,"('South',)",Daytona Beach,Technology,Accessories,370.46,11,0.4,54.75,14.78
+,"('South',)",Decatur,Furniture,Chairs,386.68,2,0.3,-5.52,-1.43
+,"('South',)",Decatur,Furniture,Furnishings,257.64,6,0.0,100.48,39.0
+,"('South',)",Decatur,Furniture,Tables,718.12,6,0.3,-71.81,-10.0
+,"('South',)",Decatur,Office Supplies,Appliances,661.76,4,0.2,146.92,22.2
+,"('South',)",Decatur,Office Supplies,Art,31.78,4,0.2,8.74,27.5
+,"('South',)",Decatur,Office Supplies,Binders,718.06,24,4.6,90.38,12.59
+,"('South',)",Decatur,Office Supplies,Paper,140.85,17,0.8,47.76,33.91
+,"('South',)",Decatur,Office Supplies,Storage,678.64,7,0.4,-166.51,-24.54
+,"('South',)",Decatur,Office Supplies,Supplies,6.98,4,0.2,-1.4,-20.06
+,"('South',)",Decatur,Technology,Accessories,520.13,11,0.4,88.75,17.06
+,"('South',)",Decatur,Technology,Machines,449.1,3,0.7,-643.71,-143.33
+,"('South',)",Decatur,Technology,Phones,846.82,9,0.6,-23.15,-2.73
+,"('South',)",Deltona,Furniture,Chairs,47.97,2,0.2,4.2,8.76
+,"('South',)",Deltona,Furniture,Furnishings,23.88,3,0.0,10.51,44.01
+,"('South',)",Deltona,Furniture,Tables,35.45,1,0.5,-24.1,-67.98
+,"('South',)",Deltona,Office Supplies,Appliances,556.83,9,0.0,170.92,30.7
+,"('South',)",Deltona,Office Supplies,Art,20.64,5,0.2,2.32,11.24
+,"('South',)",Deltona,Office Supplies,Binders,30.76,8,0.9,5.32,17.3
+,"('South',)",Deltona,Office Supplies,Paper,66.72,8,0.0,30.29,45.4
+,"('South',)",Deltona,Technology,Accessories,145.92,5,0.4,13.52,9.27
+,"('South',)",Deltona,Technology,Machines,269.97,2,0.7,-386.96,-143.33
+,"('South',)",Deltona,Technology,Phones,1039.92,7,0.2,206.55,19.86
+,"('South',)",Durham,Furniture,Chairs,292.27,6,0.2,18.27,6.25
+,"('South',)",Durham,Furniture,Furnishings,69.08,11,0.0,29.01,41.99
+,"('South',)",Durham,Office Supplies,Envelopes,200.98,7,0.2,62.81,31.25
+,"('South',)",Durham,Office Supplies,Labels,12.39,3,0.0,5.7,46.0
+,"('South',)",Durham,Office Supplies,Paper,37.96,7,0.0,17.54,46.21
+,"('South',)",Durham,Office Supplies,Storage,210.01,6,0.0,58.22,27.72
+,"('South',)",Durham,Technology,Phones,35.88,3,0.0,10.05,28.01
+,"('South',)",Fayetteville,Furniture,Bookcases,451.14,4,0.2,-67.67,-15.0
+,"('South',)",Fayetteville,Furniture,Chairs,1413.72,24,1.1,177.62,12.56
+,"('South',)",Fayetteville,Furniture,Furnishings,510.52,18,0.4,58.93,11.54
+,"('South',)",Fayetteville,Furniture,Tables,933.41,4,0.3,-173.35,-18.57
+,"('South',)",Fayetteville,Office Supplies,Appliances,64.86,4,0.2,6.49,10.01
+,"('South',)",Fayetteville,Office Supplies,Art,16.06,7,0.2,2.73,17.0
+,"('South',)",Fayetteville,Office Supplies,Binders,74.71,22,5.0,-49.33,-66.03
+,"('South',)",Fayetteville,Office Supplies,Envelopes,105.42,2,0.0,51.66,49.0
+,"('South',)",Fayetteville,Office Supplies,Paper,109.71,13,0.4,50.5,46.03
+,"('South',)",Fayetteville,Office Supplies,Storage,2078.92,15,0.2,-64.55,-3.1
+,"('South',)",Fayetteville,Office Supplies,Supplies,51.15,5,0.0,13.3,26.0
+,"('South',)",Fayetteville,Technology,Accessories,109.98,7,0.4,10.34,9.4
+,"('South',)",Fayetteville,Technology,Copiers,11199.94,9,0.6,2064.99,18.44
+,"('South',)",Fayetteville,Technology,Phones,157.5,5,0.6,-11.31,-7.18
+,"('South',)",Florence,Furniture,Bookcases,301.47,3,0.5,-241.18,-80.0
+,"('South',)",Florence,Furniture,Chairs,423.65,2,0.2,47.66,11.25
+,"('South',)",Florence,Furniture,Furnishings,31.98,1,0.2,0.0,0.0
+,"('South',)",Florence,Office Supplies,Appliances,272.05,7,0.2,30.61,11.25
+,"('South',)",Florence,Office Supplies,Art,33.05,7,0.4,3.66,11.07
+,"('South',)",Florence,Office Supplies,Binders,1614.58,6,0.7,-1237.85,-76.67
+,"('South',)",Florence,Office Supplies,Envelopes,52.37,8,0.4,17.49,33.4
+,"('South',)",Florence,Office Supplies,Fasteners,24.32,5,0.2,9.12,37.5
+,"('South',)",Florence,Office Supplies,Paper,26.98,5,0.2,10.51,38.95
+,"('South',)",Florence,Office Supplies,Storage,549.78,16,0.6,-82.31,-14.97
+,"('South',)",Florence,Office Supplies,Supplies,4.36,2,0.0,0.17,3.9
+,"('South',)",Florence,Technology,Accessories,1.58,2,0.2,0.48,30.38
+,"('South',)",Fort Lauderdale,Furniture,Bookcases,141.96,2,0.0,41.17,29.0
+,"('South',)",Fort Lauderdale,Furniture,Chairs,726.17,7,0.2,76.43,10.53
+,"('South',)",Fort Lauderdale,Furniture,Furnishings,54.24,9,0.4,18.97,34.97
+,"('South',)",Fort Lauderdale,Furniture,Tables,957.58,5,0.45,-383.03,-40.0
+,"('South',)",Fort Lauderdale,Office Supplies,Envelopes,18.69,2,0.2,7.01,37.51
+,"('South',)",Fort Lauderdale,Office Supplies,Paper,374.3,16,0.2,150.69,40.26
+,"('South',)",Fort Lauderdale,Office Supplies,Storage,280.85,4,0.4,-0.71,-0.25
+,"('South',)",Fort Lauderdale,Office Supplies,Supplies,8.83,3,0.2,-1.99,-22.54
+,"('South',)",Fort Lauderdale,Technology,Phones,39.96,4,0.0,10.39,26.0
+,"('South',)",Franklin,Furniture,Chairs,291.1,5,0.0,75.69,26.0
+,"('South',)",Franklin,Furniture,Furnishings,51.33,14,0.8,-2.45,-4.77
+,"('South',)",Franklin,Furniture,Tables,696.42,2,0.0,160.18,23.0
+,"('South',)",Franklin,Office Supplies,Appliances,87.17,8,0.8,-226.64,-260.0
+,"('South',)",Franklin,Office Supplies,Binders,54.9,2,0.2,18.53,33.75
+,"('South',)",Franklin,Office Supplies,Labels,491.55,5,0.0,240.86,49.0
+,"('South',)",Franklin,Office Supplies,Paper,165.41,11,0.6,52.37,31.66
+,"('South',)",Franklin,Office Supplies,Storage,32.23,3,0.2,2.42,7.51
+,"('South',)",Franklin,Technology,Accessories,143.96,5,0.2,1.8,1.25
+,"('South',)",Franklin,Technology,Copiers,2399.96,5,0.2,569.99,23.75
+,"('South',)",Franklin,Technology,Phones,463.77,4,0.2,64.2,13.84
+,"('South',)",Gastonia,Furniture,Furnishings,1523.72,13,0.4,62.63,4.11
+,"('South',)",Gastonia,Furniture,Tables,2065.32,12,0.4,-619.6,-30.0
+,"('South',)",Gastonia,Office Supplies,Binders,242.65,9,2.1,-184.26,-75.94
+,"('South',)",Gastonia,Office Supplies,Envelopes,15.28,2,0.0,7.49,49.02
+,"('South',)",Gastonia,Office Supplies,Labels,80.53,15,0.0,38.07,47.27
+,"('South',)",Gastonia,Office Supplies,Paper,140.79,14,0.4,60.31,42.84
+,"('South',)",Gastonia,Office Supplies,Storage,544.82,5,0.4,-48.02,-8.81
+,"('South',)",Gastonia,Technology,Accessories,1020.2,22,0.8,221.64,21.73
+,"('South',)",Greensboro,Office Supplies,Appliances,163.44,3,0.0,45.76,28.0
+,"('South',)",Greensboro,Office Supplies,Art,42.76,2,0.0,11.12,26.01
+,"('South',)",Greensboro,Office Supplies,Binders,78.15,19,2.4,-51.12,-65.41
+,"('South',)",Greensboro,Office Supplies,Paper,218.61,16,0.2,94.7,43.32
+,"('South',)",Greensboro,Office Supplies,Storage,991.2,6,0.0,257.71,26.0
+,"('South',)",Greensboro,Technology,Copiers,1359.96,5,0.4,491.98,36.18
+,"('South',)",Greenville,Furniture,Chairs,192.19,3,0.1,36.3,18.89
+,"('South',)",Greenville,Furniture,Furnishings,148.05,12,0.2,32.81,22.16
+,"('South',)",Greenville,Furniture,Tables,476.45,3,0.8,-102.0,-21.41
+,"('South',)",Greenville,Office Supplies,Appliances,268.01,8,0.0,72.23,26.95
+,"('South',)",Greenville,Office Supplies,Art,4.22,3,0.2,1.48,35.07
+,"('South',)",Greenville,Office Supplies,Binders,760.64,8,0.7,320.41,42.12
+,"('South',)",Greenville,Office Supplies,Fasteners,5.04,4,0.0,0.2,3.97
+,"('South',)",Greenville,Office Supplies,Labels,55.44,11,0.2,18.02,32.5
+,"('South',)",Greenville,Office Supplies,Paper,295.95,18,0.4,135.43,45.76
+,"('South',)",Greenville,Office Supplies,Storage,3357.41,24,0.2,66.69,1.99
+,"('South',)",Gulfport,Furniture,Furnishings,111.15,5,0.0,48.91,44.0
+,"('South',)",Gulfport,Furniture,Tables,992.36,6,0.5,-70.55,-7.11
+,"('South',)",Gulfport,Office Supplies,Appliances,901.95,3,0.0,297.64,33.0
+,"('South',)",Gulfport,Office Supplies,Envelopes,48.69,9,0.0,23.86,49.0
+,"('South',)",Gulfport,Office Supplies,Storage,421.1,2,0.0,105.27,25.0
+,"('South',)",Gulfport,Technology,Accessories,43.5,3,0.0,10.88,25.01
+,"('South',)",Gulfport,Technology,Phones,137.94,3,0.0,35.86,26.0
+,"('South',)",Henderson,Furniture,Bookcases,261.96,2,0.0,41.91,16.0
+,"('South',)",Henderson,Furniture,Chairs,1015.86,7,0.0,290.56,28.6
+,"('South',)",Henderson,Furniture,Furnishings,261.29,22,0.8,-54.1,-20.7
+,"('South',)",Henderson,Furniture,Tables,277.5,4,0.5,-188.7,-68.0
+,"('South',)",Henderson,Office Supplies,Appliances,307.84,8,0.0,81.56,26.49
+,"('South',)",Henderson,Office Supplies,Art,12.26,7,0.2,1.07,8.73
+,"('South',)",Henderson,Office Supplies,Binders,78.64,8,0.2,34.08,43.34
+,"('South',)",Henderson,Office Supplies,Envelopes,33.83,3,0.0,16.49,48.74
+,"('South',)",Henderson,Office Supplies,Labels,92.93,9,0.0,43.62,46.94
+,"('South',)",Henderson,Office Supplies,Paper,58.02,7,0.2,26.31,45.35
+,"('South',)",Henderson,Office Supplies,Storage,1007.26,17,0.6,-50.08,-4.97
+,"('South',)",Henderson,Technology,Accessories,365.08,7,0.0,71.39,19.55
+,"('South',)",Henderson,Technology,Phones,1976.24,18,0.4,482.96,24.44
+,"('South',)",Hialeah,Furniture,Chairs,201.96,2,0.0,50.49,25.0
+,"('South',)",Hialeah,Furniture,Furnishings,68.64,11,0.0,17.16,25.0
+,"('South',)",Hialeah,Office Supplies,Appliances,110.74,12,1.8,-85.69,-77.38
+,"('South',)",Hialeah,Office Supplies,Art,3.04,1,0.0,1.03,33.88
+,"('South',)",Hialeah,Office Supplies,Paper,359.92,13,0.0,167.33,46.49
+,"('South',)",Hialeah,Office Supplies,Storage,714.3,5,0.0,207.15,29.0
+,"('South',)",Hialeah,Office Supplies,Supplies,98.17,10,0.2,20.91,21.3
+,"('South',)",Hialeah,Technology,Accessories,499.95,5,0.0,174.98,35.0
+,"('South',)",Hialeah,Technology,Phones,519.68,7,0.2,58.46,11.25
+,"('South',)",Hoover,Furniture,Bookcases,388.09,4,0.32,-36.26,-9.34
+,"('South',)",Hoover,Furniture,Chairs,892.22,3,0.2,89.22,10.0
+,"('South',)",Hoover,Office Supplies,Art,15.47,7,0.0,4.18,27.02
+,"('South',)",Hoover,Office Supplies,Binders,17.84,4,0.0,8.46,47.42
+,"('South',)",Hoover,Office Supplies,Envelopes,24.45,4,0.2,8.86,36.24
+,"('South',)",Hoover,Office Supplies,Labels,11.7,2,0.2,3.95,33.76
+,"('South',)",Hoover,Technology,Copiers,2439.95,5,0.2,1064.98,43.65
+,"('South',)",Huntsville,Furniture,Chairs,790.54,8,0.6,-98.63,-12.48
+,"('South',)",Huntsville,Furniture,Furnishings,186.54,3,0.0,41.04,22.0
+,"('South',)",Huntsville,Office Supplies,Appliances,44.43,3,0.0,18.66,42.0
+,"('South',)",Huntsville,Office Supplies,Art,313.32,16,0.0,92.21,29.43
+,"('South',)",Huntsville,Office Supplies,Paper,11.17,2,0.2,3.77,33.75
+,"('South',)",Huntsville,Office Supplies,Storage,504.1,8,0.4,54.99,10.91
+,"('South',)",Huntsville,Technology,Accessories,45.59,3,0.0,13.06,28.65
+,"('South',)",Huntsville,Technology,Phones,269.8,9,0.0,71.02,26.32
+,"('South',)",Jackson,Furniture,Chairs,3565.98,19,1.2,209.24,5.87
+,"('South',)",Jackson,Furniture,Furnishings,1160.59,30,1.0,311.58,26.85
+,"('South',)",Jackson,Furniture,Tables,3599.16,13,0.3,115.29,3.2
+,"('South',)",Jackson,Office Supplies,Appliances,400.8,5,0.0,112.22,28.0
+,"('South',)",Jackson,Office Supplies,Art,146.85,16,0.4,38.76,26.39
+,"('South',)",Jackson,Office Supplies,Binders,893.7,25,1.6,317.54,35.53
+,"('South',)",Jackson,Office Supplies,Envelopes,8.93,2,0.2,3.35,37.51
+,"('South',)",Jackson,Office Supplies,Fasteners,6.03,3,0.0,2.95,48.92
+,"('South',)",Jackson,Office Supplies,Labels,54.37,7,0.2,24.25,44.6
+,"('South',)",Jackson,Office Supplies,Paper,225.52,27,0.6,93.23,41.34
+,"('South',)",Jackson,Office Supplies,Storage,1299.17,16,0.2,87.42,6.73
+,"('South',)",Jackson,Office Supplies,Supplies,28.05,2,0.2,3.51,12.51
+,"('South',)",Jackson,Technology,Accessories,3370.59,18,0.2,1138.12,33.77
+,"('South',)",Jackson,Technology,Copiers,959.98,2,0.2,335.99,35.0
+,"('South',)",Jackson,Technology,Machines,2009.98,4,1.0,-2630.99,-130.9
+,"('South',)",Jackson,Technology,Phones,1057.25,13,0.6,196.96,18.63
+,"('South',)",Jacksonville,Furniture,Bookcases,2015.47,16,0.62,89.57,4.44
+,"('South',)",Jacksonville,Furniture,Chairs,3079.82,17,0.9,470.81,15.29
+,"('South',)",Jacksonville,Furniture,Furnishings,577.3,31,0.6,116.06,20.1
+,"('South',)",Jacksonville,Furniture,Tables,433.4,4,0.2,56.49,13.03
+,"('South',)",Jacksonville,Office Supplies,Appliances,1099.53,18,1.0,16.22,1.48
+,"('South',)",Jacksonville,Office Supplies,Art,198.53,29,1.0,49.33,24.85
+,"('South',)",Jacksonville,Office Supplies,Binders,1817.64,67,9.2,-2452.14,-134.91
+,"('South',)",Jacksonville,Office Supplies,Envelopes,92.97,11,0.2,40.37,43.42
+,"('South',)",Jacksonville,Office Supplies,Labels,7.31,1,0.0,3.44,47.06
+,"('South',)",Jacksonville,Office Supplies,Paper,747.11,77,2.0,303.6,40.64
+,"('South',)",Jacksonville,Office Supplies,Storage,2776.21,32,0.6,210.26,7.57
+,"('South',)",Jacksonville,Office Supplies,Supplies,62.27,7,0.2,14.81,23.78
+,"('South',)",Jacksonville,Technology,Accessories,287.52,15,0.6,-7.43,-2.58
+,"('South',)",Jacksonville,Technology,Copiers,479.98,2,0.2,90.0,18.75
+,"('South',)",Jacksonville,Technology,Machines,2135.68,5,0.9,-291.83,-13.66
+,"('South',)",Jacksonville,Technology,Phones,3856.85,30,1.0,607.53,15.75
+,"('South',)",Lafayette,Furniture,Bookcases,141.96,2,0.0,39.75,28.0
+,"('South',)",Lafayette,Furniture,Chairs,1661.31,18,0.4,291.93,17.57
+,"('South',)",Lafayette,Furniture,Tables,27.41,3,0.4,-14.16,-51.66
+,"('South',)",Lafayette,Office Supplies,Art,309.72,10,0.0,93.8,30.29
+,"('South',)",Lafayette,Office Supplies,Binders,2.95,2,0.7,-2.06,-69.83
+,"('South',)",Lafayette,Office Supplies,Fasteners,55.1,6,0.2,18.6,33.76
+,"('South',)",Lafayette,Office Supplies,Labels,14.73,3,0.0,7.22,49.02
+,"('South',)",Lafayette,Office Supplies,Paper,12.96,2,0.0,6.22,47.99
+,"('South',)",Lafayette,Office Supplies,Storage,499.84,8,0.0,19.72,3.95
+,"('South',)",Lake Charles,Furniture,Bookcases,314.35,3,0.2,-15.72,-5.0
+,"('South',)",Lake Charles,Furniture,Chairs,51.96,2,0.0,12.99,25.0
+,"('South',)",Lake Charles,Office Supplies,Binders,51.41,13,1.1,17.09,33.24
+,"('South',)",Lake Charles,Office Supplies,Paper,349.74,11,0.4,130.83,37.41
+,"('South',)",Lake Charles,Office Supplies,Storage,18.16,2,0.2,1.82,10.02
+,"('South',)",Lakeland,Furniture,Chairs,683.95,3,0.2,42.75,6.25
+,"('South',)",Lakeland,Furniture,Furnishings,45.7,3,0.2,5.14,11.25
+,"('South',)",Louisville,Furniture,Bookcases,349.97,7,0.5,-216.98,-62.0
+,"('South',)",Louisville,Furniture,Chairs,2764.92,18,0.1,486.93,17.61
+,"('South',)",Louisville,Furniture,Furnishings,20.94,3,0.0,6.07,28.99
+,"('South',)",Louisville,Office Supplies,Appliances,48.22,3,0.0,13.32,27.62
+,"('South',)",Louisville,Office Supplies,Art,22.32,5,0.2,5.3,23.75
+,"('South',)",Louisville,Office Supplies,Binders,358.21,35,3.4,12.04,3.36
+,"('South',)",Louisville,Office Supplies,Paper,133.85,10,0.0,61.66,46.07
+,"('South',)",Louisville,Office Supplies,Storage,515.44,10,0.6,-104.5,-20.27
+,"('South',)",Louisville,Office Supplies,Supplies,14.72,5,0.2,-3.31,-22.49
+,"('South',)",Louisville,Technology,Accessories,675.32,24,0.2,183.37,27.15
+,"('South',)",Louisville,Technology,Phones,897.2,16,0.4,-53.47,-5.96
+,"('South',)",Macon,Furniture,Tables,73.92,1,0.5,-45.83,-62.0
+,"('South',)",Macon,Office Supplies,Binders,26.16,4,0.0,12.82,49.01
+,"('South',)",Macon,Office Supplies,Labels,15.0,4,0.0,7.2,48.0
+,"('South',)",Macon,Office Supplies,Paper,38.88,6,0.0,18.66,47.99
+,"('South',)",Macon,Office Supplies,Storage,2432.94,15,0.2,366.43,15.06
+,"('South',)",Macon,Technology,Phones,306.56,6,0.0,84.06,27.42
+,"('South',)",Melbourne,Furniture,Tables,949.89,13,0.8,-247.09,-26.01
+,"('South',)",Melbourne,Office Supplies,Art,19.73,9,0.2,1.73,8.77
+,"('South',)",Melbourne,Office Supplies,Binders,15.65,8,1.4,-11.83,-75.59
+,"('South',)",Melbourne,Office Supplies,Envelopes,12.77,6,0.2,4.63,36.26
+,"('South',)",Melbourne,Office Supplies,Fasteners,4.67,2,0.2,1.46,31.26
+,"('South',)",Melbourne,Office Supplies,Paper,171.27,9,0.4,60.34,35.23
+,"('South',)",Melbourne,Office Supplies,Storage,95.62,2,0.2,9.56,10.0
+,"('South',)",Melbourne,Office Supplies,Supplies,15.36,2,0.2,-3.26,-21.22
+,"('South',)",Melbourne,Technology,Accessories,1326.96,6,0.4,214.38,16.16
+,"('South',)",Melbourne,Technology,Phones,2046.01,20,1.2,216.75,10.59
+,"('South',)",Memphis,Furniture,Bookcases,102.83,1,0.15,-6.05,-5.88
+,"('South',)",Memphis,Furniture,Chairs,5531.02,31,1.4,-373.15,-6.75
+,"('South',)",Memphis,Furniture,Furnishings,163.46,15,0.8,7.46,4.56
+,"('South',)",Memphis,Furniture,Tables,189.88,3,0.4,-94.94,-50.0
+,"('South',)",Memphis,Office Supplies,Appliances,269.27,16,1.6,-182.16,-67.65
+,"('South',)",Memphis,Office Supplies,Art,55.65,8,0.4,15.75,28.3
+,"('South',)",Memphis,Office Supplies,Binders,2304.61,14,0.9,-742.15,-32.2
+,"('South',)",Memphis,Office Supplies,Paper,73.38,5,0.2,31.59,43.05
+,"('South',)",Memphis,Office Supplies,Storage,462.88,9,0.2,-10.14,-2.19
+,"('South',)",Memphis,Office Supplies,Supplies,15.88,5,0.2,-3.77,-23.74
+,"('South',)",Memphis,Technology,Accessories,495.58,14,0.4,114.83,23.17
+,"('South',)",Memphis,Technology,Phones,911.84,17,0.2,201.91,22.14
+,"('South',)",Miami,Furniture,Chairs,383.61,7,0.1,63.93,16.67
+,"('South',)",Miami,Furniture,Furnishings,170.38,8,1.2,-8.98,-5.27
+,"('South',)",Miami,Office Supplies,Appliances,4.84,2,0.8,-12.09,-249.79
+,"('South',)",Miami,Office Supplies,Art,7.15,3,0.2,0.72,10.07
+,"('South',)",Miami,Office Supplies,Binders,2203.24,17,2.4,-3742.06,-169.84
+,"('South',)",Miami,Office Supplies,Envelopes,29.34,3,0.0,14.67,50.0
+,"('South',)",Miami,Office Supplies,Paper,107.63,13,0.2,50.54,46.96
+,"('South',)",Miami,Office Supplies,Storage,593.19,7,0.0,76.25,12.85
+,"('South',)",Miami,Technology,Accessories,431.14,9,0.2,-26.95,-6.25
+,"('South',)",Mobile,Furniture,Chairs,230.28,3,0.2,23.03,10.0
+,"('South',)",Mobile,Furniture,Furnishings,77.71,6,0.6,24.13,31.05
+,"('South',)",Mobile,Office Supplies,Binders,125.43,8,0.0,62.72,50.0
+,"('South',)",Mobile,Office Supplies,Envelopes,62.24,8,0.0,29.25,47.0
+,"('South',)",Mobile,Office Supplies,Paper,176.5,12,0.2,69.07,39.13
+,"('South',)",Mobile,Technology,Copiers,719.98,3,0.2,135.0,18.75
+,"('South',)",Mobile,Technology,Machines,3040.0,8,0.0,1459.2,48.0
+,"('South',)",Monroe,Furniture,Chairs,365.51,10,0.3,49.6,13.57
+,"('South',)",Monroe,Furniture,Furnishings,679.57,10,0.4,54.96,8.09
+,"('South',)",Monroe,Furniture,Tables,902.71,3,0.2,33.85,3.75
+,"('South',)",Monroe,Office Supplies,Appliances,1648.6,7,0.0,461.45,27.99
+,"('South',)",Monroe,Office Supplies,Art,100.33,9,0.4,20.02,19.95
+,"('South',)",Monroe,Office Supplies,Binders,1607.34,18,1.6,-940.13,-58.49
+,"('South',)",Monroe,Office Supplies,Envelopes,54.9,5,0.0,26.9,49.0
+,"('South',)",Monroe,Office Supplies,Fasteners,51.63,15,0.6,6.41,12.42
+,"('South',)",Monroe,Office Supplies,Paper,270.14,30,1.2,101.59,37.61
+,"('South',)",Monroe,Office Supplies,Storage,1202.65,18,0.6,-226.38,-18.82
+,"('South',)",Monroe,Office Supplies,Supplies,27.14,6,0.4,2.95,10.87
+,"('South',)",Monroe,Technology,Accessories,1015.8,15,0.4,334.37,32.92
+,"('South',)",Monroe,Technology,Copiers,2879.95,6,0.2,1007.98,35.0
+,"('South',)",Monroe,Technology,Machines,23565.33,16,1.2,-1791.89,-7.6
+,"('South',)",Monroe,Technology,Phones,1335.45,16,0.4,303.57,22.73
+,"('South',)",Montgomery,Furniture,Bookcases,432.19,10,0.65,-16.94,-3.92
+,"('South',)",Montgomery,Furniture,Chairs,383.61,9,0.3,-5.48,-1.43
+,"('South',)",Montgomery,Furniture,Furnishings,7.76,1,0.6,-2.13,-27.45
+,"('South',)",Montgomery,Office Supplies,Art,82.93,19,0.2,31.43,37.9
+,"('South',)",Montgomery,Office Supplies,Binders,24.68,7,0.8,8.39,34.0
+,"('South',)",Montgomery,Office Supplies,Fasteners,15.0,3,0.0,7.2,48.0
+,"('South',)",Montgomery,Office Supplies,Labels,29.24,5,0.2,9.87,33.76
+,"('South',)",Montgomery,Office Supplies,Paper,294.21,14,0.4,111.74,37.98
+,"('South',)",Montgomery,Office Supplies,Storage,48.56,5,0.4,-7.35,-15.14
+,"('South',)",Montgomery,Technology,Accessories,544.7,5,0.4,90.61,16.63
+,"('South',)",Montgomery,Technology,Machines,1362.9,3,0.3,-19.47,-1.43
+,"('South',)",Montgomery,Technology,Phones,3009.13,20,1.0,280.28,9.31
+,"('South',)",Murfreesboro,Furniture,Chairs,1731.2,7,0.5,76.42,4.41
+,"('South',)",Murfreesboro,Furniture,Furnishings,80.95,3,0.2,22.44,27.72
+,"('South',)",Murfreesboro,Office Supplies,Appliances,826.11,3,0.0,322.18,39.0
+,"('South',)",Murfreesboro,Office Supplies,Art,11.76,4,0.0,3.18,27.04
+,"('South',)",Murfreesboro,Office Supplies,Binders,104.48,9,0.2,45.92,43.95
+,"('South',)",Murfreesboro,Office Supplies,Envelopes,64.52,6,0.0,31.95,49.52
+,"('South',)",Murfreesboro,Office Supplies,Fasteners,12.67,7,0.0,4.56,35.99
+,"('South',)",Murfreesboro,Office Supplies,Labels,20.7,2,0.0,9.94,48.02
+,"('South',)",Murfreesboro,Office Supplies,Paper,284.58,33,0.6,125.16,43.98
+,"('South',)",Murfreesboro,Technology,Accessories,527.41,18,0.2,139.91,26.53
+,"('South',)",Murfreesboro,Technology,Phones,57.41,6,0.2,5.74,10.0
+,"('South',)",Murray,Furniture,Furnishings,548.96,5,0.4,34.97,6.37
+,"('South',)",Murray,Furniture,Tables,69.38,1,0.5,-47.18,-68.0
+,"('South',)",Murray,Office Supplies,Appliances,72.8,5,0.0,19.66,27.01
+,"('South',)",Murray,Office Supplies,Art,96.18,9,0.4,14.07,14.63
+,"('South',)",Murray,Office Supplies,Binders,54.79,6,0.7,-40.18,-73.33
+,"('South',)",Murray,Office Supplies,Paper,49.79,11,0.2,20.85,41.88
+,"('South',)",Murray,Office Supplies,Storage,637.08,3,0.0,84.21,13.22
+,"('South',)",Murray,Office Supplies,Supplies,31.68,4,0.2,2.77,8.74
+,"('South',)",Murray,Technology,Accessories,89.57,4,0.2,-1.12,-1.25
+,"('South',)",Murray,Technology,Phones,2003.17,4,0.2,250.4,12.5
+,"('South',)",Palm Coast,Furniture,Bookcases,180.59,2,0.7,-240.78,-133.33
+,"('South',)",Palm Coast,Furniture,Chairs,112.65,1,0.2,11.26,10.0
+,"('South',)",Palm Coast,Furniture,Furnishings,232.92,10,0.2,63.63,27.32
+,"('South',)",Palm Coast,Furniture,Tables,842.94,3,0.0,160.16,19.0
+,"('South',)",Palm Coast,Office Supplies,Appliances,100.44,6,0.0,35.16,35.01
+,"('South',)",Palm Coast,Office Supplies,Art,243.66,19,0.0,67.79,27.82
+,"('South',)",Palm Coast,Office Supplies,Binders,153.55,3,0.2,51.82,33.75
+,"('South',)",Palm Coast,Office Supplies,Envelopes,24.45,4,0.2,8.86,36.24
+,"('South',)",Palm Coast,Office Supplies,Fasteners,40.57,11,0.0,16.27,40.1
+,"('South',)",Palm Coast,Office Supplies,Paper,400.11,23,0.6,144.9,36.22
+,"('South',)",Palm Coast,Office Supplies,Storage,62.18,1,0.0,16.79,27.0
+,"('South',)",Palm Coast,Office Supplies,Supplies,6.8,1,0.2,0.51,7.5
+,"('South',)",Palm Coast,Technology,Accessories,92.73,7,0.2,9.1,9.81
+,"('South',)",Palm Coast,Technology,Machines,686.32,2,0.2,223.05,32.5
+,"('South',)",Palm Coast,Technology,Phones,143.64,9,0.2,10.77,7.5
+,"('South',)",Pembroke Pines,Furniture,Tables,375.46,3,0.45,-157.01,-41.82
+,"('South',)",Pembroke Pines,Office Supplies,Appliances,73.28,4,0.0,21.25,29.0
+,"('South',)",Pembroke Pines,Office Supplies,Art,63.13,5,0.4,4.92,7.79
+,"('South',)",Pembroke Pines,Office Supplies,Binders,102.72,3,0.2,37.24,36.25
+,"('South',)",Pembroke Pines,Office Supplies,Envelopes,58.4,10,0.4,20.81,35.63
+,"('South',)",Pembroke Pines,Office Supplies,Paper,42.68,9,0.2,16.42,38.47
+,"('South',)",Pembroke Pines,Office Supplies,Storage,272.94,3,0.0,0.0,0.0
+,"('South',)",Pembroke Pines,Technology,Accessories,226.47,6,0.4,-4.61,-2.04
+,"('South',)",Pembroke Pines,Technology,Phones,84.95,5,0.0,22.09,26.0
+,"('South',)",Raleigh,Furniture,Furnishings,46.15,3,0.2,12.11,26.24
+,"('South',)",Raleigh,Office Supplies,Paper,45.72,8,0.2,17.62,38.54
+,"('South',)",Raleigh,Office Supplies,Storage,403.0,5,0.4,-94.74,-23.51
+,"('South',)",Raleigh,Technology,Phones,1427.88,5,0.2,201.88,14.14
+,"('South',)",Richmond,Furniture,Bookcases,241.96,2,0.0,33.87,14.0
+,"('South',)",Richmond,Furniture,Chairs,579.49,10,0.5,16.81,2.9
+,"('South',)",Richmond,Furniture,Furnishings,315.55,20,0.0,76.02,24.09
+,"('South',)",Richmond,Office Supplies,Appliances,73.09,3,1.0,-11.55,-15.8
+,"('South',)",Richmond,Office Supplies,Art,42.08,13,0.0,12.15,28.87
+,"('South',)",Richmond,Office Supplies,Binders,1401.41,28,0.4,492.89,35.17
+,"('South',)",Richmond,Office Supplies,Envelopes,70.71,6,0.2,29.52,41.75
+,"('South',)",Richmond,Office Supplies,Labels,346.68,8,0.0,169.36,48.85
+,"('South',)",Richmond,Office Supplies,Paper,866.38,27,0.0,416.84,48.11
+,"('South',)",Richmond,Office Supplies,Storage,1844.77,23,0.0,150.6,8.16
+,"('South',)",Richmond,Technology,Accessories,1287.45,5,0.0,244.62,19.0
+,"('South',)",Richmond,Technology,Copiers,899.97,3,0.0,314.99,35.0
+,"('South',)",Richmond,Technology,Machines,532.72,2,0.2,53.27,10.0
+,"('South',)",Richmond,Technology,Phones,1542.85,15,0.2,391.61,25.38
+,"('South',)",Roswell,Furniture,Bookcases,242.35,3,0.2,9.09,3.75
+,"('South',)",Roswell,Furniture,Chairs,809.35,13,0.4,99.95,12.35
+,"('South',)",Roswell,Furniture,Furnishings,75.59,8,0.2,18.9,25.0
+,"('South',)",Roswell,Furniture,Tables,376.87,3,0.4,-213.56,-56.67
+,"('South',)",Roswell,Office Supplies,Appliances,241.6,11,0.2,45.69,18.91
+,"('South',)",Roswell,Office Supplies,Art,100.92,19,0.4,21.19,21.0
+,"('South',)",Roswell,Office Supplies,Binders,2911.58,20,0.8,1355.12,46.54
+,"('South',)",Roswell,Office Supplies,Envelopes,15.28,2,0.0,7.49,49.02
+,"('South',)",Roswell,Office Supplies,Fasteners,5.43,3,0.0,1.79,32.97
+,"('South',)",Roswell,Office Supplies,Labels,28.86,5,0.0,13.27,45.98
+,"('South',)",Roswell,Office Supplies,Paper,611.39,34,0.2,279.56,45.73
+,"('South',)",Roswell,Office Supplies,Storage,42.76,1,0.0,11.12,26.01
+,"('South',)",Roswell,Office Supplies,Supplies,27.93,3,0.0,8.1,29.0
+,"('South',)",Roswell,Technology,Accessories,1471.77,25,0.4,329.47,22.39
+,"('South',)",Roswell,Technology,Machines,479.97,3,0.0,239.99,50.0
+,"('South',)",Roswell,Technology,Phones,1114.47,12,0.8,165.36,14.84
+,"('South',)",Saint Petersburg,Furniture,Bookcases,1194.17,5,0.15,210.73,17.65
+,"('South',)",Saint Petersburg,Furniture,Chairs,1059.12,4,0.0,307.14,29.0
+,"('South',)",Saint Petersburg,Furniture,Furnishings,516.24,18,0.2,92.9,18.0
+,"('South',)",Saint Petersburg,Furniture,Tables,481.18,2,0.4,-120.29,-25.0
+,"('South',)",Saint Petersburg,Office Supplies,Art,5.25,2,0.2,0.59,11.24
+,"('South',)",Saint Petersburg,Office Supplies,Binders,72.06,17,0.6,29.85,41.42
+,"('South',)",Saint Petersburg,Office Supplies,Envelopes,57.9,5,0.0,28.95,50.0
+,"('South',)",Saint Petersburg,Office Supplies,Fasteners,18.58,7,0.0,7.61,40.96
+,"('South',)",Saint Petersburg,Office Supplies,Labels,274.77,9,0.0,126.39,46.0
+,"('South',)",Saint Petersburg,Office Supplies,Paper,69.07,12,0.2,30.49,44.14
+,"('South',)",Saint Petersburg,Office Supplies,Storage,148.72,10,0.0,19.65,13.21
+,"('South',)",Saint Petersburg,Technology,Accessories,302.17,14,0.2,58.55,19.38
+,"('South',)",Saint Petersburg,Technology,Machines,1327.66,9,0.6,166.71,12.56
+,"('South',)",Saint Petersburg,Technology,Phones,429.54,7,0.6,46.68,10.87
+,"('South',)",Salem,Furniture,Bookcases,341.96,2,0.0,78.65,23.0
+,"('South',)",Salem,Furniture,Chairs,1587.25,8,0.3,11.27,0.71
+,"('South',)",Salem,Furniture,Furnishings,85.44,7,0.8,2.09,2.45
+,"('South',)",Salem,Furniture,Tables,386.91,9,0.5,-185.72,-48.0
+,"('South',)",Salem,Office Supplies,Art,4.3,2,0.0,1.42,33.02
+,"('South',)",Salem,Office Supplies,Binders,10.44,1,0.0,4.8,45.98
+,"('South',)",Salem,Office Supplies,Envelopes,262.43,8,0.2,122.2,46.56
+,"('South',)",Salem,Office Supplies,Paper,243.33,12,0.0,114.04,46.87
+,"('South',)",Salem,Office Supplies,Storage,622.95,10,0.6,46.48,7.46
+,"('South',)",Salem,Technology,Accessories,1719.79,5,0.2,747.43,43.46
+,"('South',)",Salem,Technology,Phones,355.38,5,0.2,31.12,8.76
+,"('South',)",Smyrna,Furniture,Bookcases,541.94,4,0.0,113.19,20.89
+,"('South',)",Smyrna,Furniture,Chairs,172.76,2,0.1,13.44,7.78
+,"('South',)",Smyrna,Furniture,Furnishings,188.53,15,0.2,44.96,23.85
+,"('South',)",Smyrna,Furniture,Tables,2348.82,9,0.0,399.3,17.0
+,"('South',)",Smyrna,Office Supplies,Appliances,1041.74,11,0.2,227.22,21.81
+,"('South',)",Smyrna,Office Supplies,Art,12.16,5,0.0,4.2,34.54
+,"('South',)",Smyrna,Office Supplies,Binders,128.65,17,1.4,-37.28,-28.98
+,"('South',)",Smyrna,Office Supplies,Envelopes,167.96,2,0.0,78.94,47.0
+,"('South',)",Smyrna,Office Supplies,Fasteners,9.45,5,0.0,0.19,2.01
+,"('South',)",Smyrna,Office Supplies,Labels,15.12,6,0.4,5.33,35.25
+,"('South',)",Smyrna,Office Supplies,Paper,930.62,25,0.6,433.76,46.61
+,"('South',)",Smyrna,Office Supplies,Storage,235.42,4,0.0,3.16,1.34
+,"('South',)",Smyrna,Technology,Accessories,328.89,10,0.2,23.42,7.12
+,"('South',)",Smyrna,Technology,Phones,1130.55,23,0.6,185.28,16.39
+,"('South',)",Springfield,Furniture,Chairs,261.96,2,0.0,23.58,9.0
+,"('South',)",Springfield,Furniture,Furnishings,91.92,3,0.0,31.29,34.04
+,"('South',)",Springfield,Furniture,Tables,2258.25,16,0.8,-999.45,-44.26
+,"('South',)",Springfield,Office Supplies,Appliances,1766.02,8,0.0,513.3,29.07
+,"('South',)",Springfield,Office Supplies,Art,244.9,21,0.2,56.33,23.0
+,"('South',)",Springfield,Office Supplies,Binders,905.65,12,2.3,-1487.7,-164.27
+,"('South',)",Springfield,Office Supplies,Labels,76.89,6,0.0,38.36,49.89
+,"('South',)",Springfield,Office Supplies,Paper,846.72,29,0.6,334.28,39.48
+,"('South',)",Springfield,Office Supplies,Storage,1067.17,7,0.0,189.76,17.78
+,"('South',)",Springfield,Office Supplies,Supplies,25.76,7,0.0,0.52,2.02
+,"('South',)",Springfield,Technology,Accessories,389.91,9,0.0,147.86,37.92
+,"('South',)",Springfield,Technology,Machines,4899.93,7,0.0,2400.97,49.0
+,"('South',)",Springfield,Technology,Phones,509.62,10,0.6,43.77,8.59
+,"('South',)",Suffolk,Furniture,Chairs,225.3,2,0.2,22.53,10.0
+,"('South',)",Suffolk,Furniture,Furnishings,747.34,20,0.2,155.33,20.78
+,"('South',)",Suffolk,Furniture,Tables,85.98,1,0.0,22.35,25.99
+,"('South',)",Suffolk,Office Supplies,Appliances,663.94,4,0.2,82.99,12.5
+,"('South',)",Suffolk,Office Supplies,Art,11.75,5,0.4,1.37,11.66
+,"('South',)",Suffolk,Office Supplies,Binders,1267.92,5,0.4,474.21,37.4
+,"('South',)",Suffolk,Office Supplies,Fasteners,11.3,3,0.2,-2.12,-18.76
+,"('South',)",Suffolk,Office Supplies,Labels,281.61,11,0.2,129.69,46.05
+,"('South',)",Suffolk,Office Supplies,Paper,133.03,7,0.2,61.28,46.06
+,"('South',)",Suffolk,Office Supplies,Supplies,35.06,2,0.0,10.52,30.01
+,"('South',)",Suffolk,Technology,Accessories,528.64,9,0.2,119.8,22.66
+,"('South',)",Suffolk,Technology,Phones,1001.58,2,0.2,125.2,12.5
+,"('South',)",Tallahassee,Office Supplies,Binders,35.63,6,1.4,-26.12,-73.31
+,"('South',)",Tallahassee,Office Supplies,Storage,704.76,5,0.2,26.43,3.75
+,"('South',)",Tamarac,Furniture,Chairs,99.37,2,0.3,-7.1,-7.15
+,"('South',)",Tamarac,Furniture,Furnishings,33.57,2,0.2,-5.45,-16.23
+,"('South',)",Tamarac,Office Supplies,Appliances,194.53,2,0.2,24.32,12.5
+,"('South',)",Tamarac,Office Supplies,Binders,298.5,17,1.9,-186.0,-62.31
+,"('South',)",Tamarac,Office Supplies,Supplies,961.48,5,0.2,-204.31,-21.25
+,"('South',)",Tampa,Furniture,Bookcases,148.26,3,0.15,15.7,10.59
+,"('South',)",Tampa,Furniture,Chairs,2641.87,16,0.5,237.48,8.99
+,"('South',)",Tampa,Furniture,Furnishings,202.65,29,1.2,43.51,21.47
+,"('South',)",Tampa,Furniture,Tables,393.17,3,0.5,-204.45,-52.0
+,"('South',)",Tampa,Office Supplies,Appliances,107.34,11,0.4,20.84,19.41
+,"('South',)",Tampa,Office Supplies,Art,12.23,5,0.2,3.12,25.51
+,"('South',)",Tampa,Office Supplies,Binders,194.59,26,4.2,-119.94,-61.64
+,"('South',)",Tampa,Office Supplies,Envelopes,7.64,1,0.0,3.74,48.95
+,"('South',)",Tampa,Office Supplies,Labels,12.32,4,0.0,5.92,48.05
+,"('South',)",Tampa,Office Supplies,Paper,820.67,30,1.0,321.8,39.21
+,"('South',)",Tampa,Office Supplies,Storage,179.52,4,0.4,21.52,11.99
+,"('South',)",Tampa,Office Supplies,Supplies,17.0,2,0.0,4.42,26.0
+,"('South',)",Tampa,Technology,Accessories,262.63,16,0.0,96.29,36.66
+,"('South',)",Tampa,Technology,Phones,797.92,8,0.0,219.64,27.53
+,"('South',)",Thomasville,Office Supplies,Appliances,168.1,5,0.0,43.71,26.0
+,"('South',)",Thomasville,Office Supplies,Binders,456.59,2,0.7,-304.39,-66.67
+,"('South',)",Thomasville,Office Supplies,Labels,18.75,5,0.0,9.0,48.0
+,"('South',)",Thomasville,Office Supplies,Paper,38.52,9,0.0,17.34,45.02
+,"('South',)",Thomasville,Office Supplies,Supplies,52.14,7,0.2,5.87,11.26
+,"('South',)",Thomasville,Technology,Accessories,59.98,3,0.2,12.0,20.01
+,"('South',)",Thomasville,Technology,Machines,4895.99,9,0.7,-6409.9,-130.92
+,"('South',)",Virginia Beach,Furniture,Tables,298.12,6,0.3,-4.26,-1.43
+,"('South',)",Virginia Beach,Office Supplies,Art,25.37,10,0.2,7.01,27.63
+,"('South',)",Virginia Beach,Office Supplies,Binders,2715.93,7,0.0,1276.49,47.0
+,"('South',)",Virginia Beach,Office Supplies,Fasteners,3.76,2,0.0,1.32,35.11
+,"('South',)",Virginia Beach,Office Supplies,Labels,11.7,2,0.2,3.95,33.76
+,"('South',)",Virginia Beach,Office Supplies,Paper,22.48,1,0.0,10.34,46.0
+,"('South',)",Virginia Beach,Office Supplies,Storage,331.54,3,0.2,-82.88,-25.0
+,"('South',)",Virginia Beach,Technology,Accessories,101.23,5,0.2,33.97,33.56
+,"('South',)",Virginia Beach,Technology,Machines,1919.98,3,0.2,216.0,11.25
+,"('South',)",Virginia Beach,Technology,Phones,617.97,3,0.0,173.03,28.0
+,"('South',)",Warner Robins,Furniture,Chairs,1847.84,8,0.0,421.49,22.81
+,"('South',)",Warner Robins,Furniture,Furnishings,119.32,5,0.0,39.77,33.33
+,"('South',)",Warner Robins,Office Supplies,Paper,45.36,7,0.0,21.77,47.99
+,"('South',)",Waynesboro,Furniture,Chairs,717.72,3,0.2,71.77,10.0
+,"('South',)",Waynesboro,Furniture,Furnishings,157.21,6,0.0,35.87,22.82
+,"('South',)",Waynesboro,Furniture,Tables,553.16,12,0.6,-133.96,-24.22
+,"('South',)",Waynesboro,Office Supplies,Art,131.67,13,0.0,36.87,28.0
+,"('South',)",Waynesboro,Office Supplies,Binders,1217.57,2,0.2,456.59,37.5
+,"('South',)",Waynesboro,Office Supplies,Fasteners,10.65,3,0.0,5.01,47.04
+,"('South',)",Waynesboro,Office Supplies,Paper,236.64,6,0.0,110.8,46.82
+,"('South',)",Waynesboro,Office Supplies,Storage,315.3,15,0.0,81.85,25.96
+,"('South',)",Waynesboro,Technology,Accessories,397.77,7,0.0,87.18,21.92
+,"('South',)",Waynesboro,Technology,Phones,1791.93,10,0.2,456.93,25.5
+,"('South',)",Wilmington,Furniture,Chairs,301.96,2,0.0,33.22,11.0
+,"('South',)",Wilmington,Furniture,Furnishings,5.31,2,0.6,-1.59,-29.94
+,"('South',)",Wilmington,Office Supplies,Appliances,2700.72,27,0.4,519.89,19.25
+,"('South',)",Wilmington,Office Supplies,Art,34.68,8,0.4,6.86,19.78
+,"('South',)",Wilmington,Office Supplies,Binders,446.92,16,0.9,196.53,43.97
+,"('South',)",Wilmington,Office Supplies,Labels,45.79,10,0.4,19.5,42.59
+,"('South',)",Wilmington,Office Supplies,Paper,654.42,19,0.4,268.63,41.05
+,"('South',)",Wilmington,Office Supplies,Storage,1094.04,8,0.0,170.65,15.6
+,"('South',)",Wilmington,Technology,Accessories,895.49,25,0.0,201.45,22.5
+,"('South',)",Wilmington,Technology,Phones,341.88,4,0.0,95.72,28.0
+,"('South',)",Subtotal,,,402032.06,6121,255.01,30175.31,7.51
+,"('West',)",Albuquerque,Furniture,Furnishings,117.36,12,0.0,44.6,38.0
+,"('West',)",Albuquerque,Furniture,Tables,692.94,3,0.0,173.24,25.0
+,"('West',)",Albuquerque,Office Supplies,Binders,86.24,10,1.0,20.39,23.64
+,"('West',)",Albuquerque,Office Supplies,Paper,333.6,13,0.0,160.13,48.0
+,"('West',)",Albuquerque,Office Supplies,Storage,146.42,10,0.2,30.98,21.16
+,"('West',)",Albuquerque,Technology,Accessories,809.95,10,0.0,183.33,22.63
+,"('West',)",Albuquerque,Technology,Phones,140.74,8,0.2,49.26,35.0
+,"('West',)",Apple Valley,Furniture,Chairs,272.56,3,0.2,6.04,2.22
+,"('West',)",Apple Valley,Furniture,Furnishings,22.14,3,0.0,6.42,29.0
+,"('West',)",Apple Valley,Office Supplies,Art,124.6,8,0.0,33.17,26.62
+,"('West',)",Apple Valley,Office Supplies,Paper,432.36,6,0.0,207.53,48.0
+,"('West',)",Apple Valley,Technology,Accessories,13.98,2,0.0,6.01,42.99
+,"('West',)",Apple Valley,Technology,Phones,43.18,3,0.2,15.11,34.99
+,"('West',)",Arvada,Furniture,Bookcases,141.37,2,0.3,-14.14,-10.0
+,"('West',)",Arvada,Furniture,Chairs,466.77,2,0.2,52.51,11.25
+,"('West',)",Arvada,Furniture,Furnishings,131.49,13,0.4,42.71,32.48
+,"('West',)",Arvada,Furniture,Tables,103.48,1,0.3,-16.26,-15.71
+,"('West',)",Arvada,Office Supplies,Appliances,6.99,2,0.2,0.52,7.44
+,"('West',)",Arvada,Office Supplies,Art,22.91,4,0.2,5.87,25.62
+,"('West',)",Arvada,Office Supplies,Binders,190.09,12,1.1,-50.0,-26.3
+,"('West',)",Arvada,Office Supplies,Labels,6.26,3,0.2,2.04,32.59
+,"('West',)",Arvada,Office Supplies,Paper,12.67,3,0.2,3.96,31.25
+,"('West',)",Arvada,Office Supplies,Storage,324.9,5,0.0,38.99,12.0
+,"('West',)",Arvada,Technology,Accessories,1168.97,17,0.2,214.89,18.38
+,"('West',)",Arvada,Technology,Phones,1099.96,5,0.2,82.5,7.5
+,"('West',)",Aurora,Furniture,Bookcases,410.0,3,0.32,-96.47,-23.53
+,"('West',)",Aurora,Furniture,Chairs,1847.06,9,0.4,91.61,4.96
+,"('West',)",Aurora,Furniture,Furnishings,395.64,28,2.2,-204.17,-51.6
+,"('West',)",Aurora,Furniture,Tables,1472.84,12,1.3,-545.93,-37.07
+,"('West',)",Aurora,Office Supplies,Appliances,1647.26,23,2.7,143.63,8.72
+,"('West',)",Aurora,Office Supplies,Art,589.34,31,0.4,136.23,23.12
+,"('West',)",Aurora,Office Supplies,Binders,591.56,55,5.8,-128.18,-21.67
+,"('West',)",Aurora,Office Supplies,Fasteners,11.22,3,0.0,0.22,1.96
+,"('West',)",Aurora,Office Supplies,Labels,772.11,18,0.4,292.78,37.92
+,"('West',)",Aurora,Office Supplies,Paper,525.17,35,1.4,199.95,38.07
+,"('West',)",Aurora,Office Supplies,Storage,1645.86,27,0.8,44.92,2.73
+,"('West',)",Aurora,Office Supplies,Supplies,64.9,14,0.4,1.73,2.67
+,"('West',)",Aurora,Technology,Accessories,1264.58,48,1.6,160.06,12.66
+,"('West',)",Aurora,Technology,Phones,1408.25,27,2.0,144.42,10.26
+,"('West',)",Brentwood,Office Supplies,Art,3.36,2,0.0,0.87,25.89
+,"('West',)",Brentwood,Office Supplies,Binders,1777.19,15,0.6,831.16,46.77
+,"('West',)",Brentwood,Office Supplies,Fasteners,30.4,5,0.0,15.2,50.0
+,"('West',)",Brentwood,Office Supplies,Paper,16.5,2,0.2,5.57,33.76
+,"('West',)",Brentwood,Office Supplies,Storage,1352.18,14,0.0,104.57,7.73
+,"('West',)",Brentwood,Technology,Accessories,79.9,2,0.0,35.16,44.01
+,"('West',)",Brentwood,Technology,Phones,1545.82,13,0.4,316.03,20.44
+,"('West',)",Broomfield,Furniture,Bookcases,77.73,2,0.2,-3.89,-5.0
+,"('West',)",Broomfield,Furniture,Chairs,4622.64,17,0.7,492.59,10.66
+,"('West',)",Broomfield,Furniture,Tables,2219.77,8,0.4,479.38,21.6
+,"('West',)",Broomfield,Office Supplies,Appliances,309.46,9,0.2,34.81,11.25
+,"('West',)",Broomfield,Office Supplies,Art,53.7,12,0.2,13.33,24.82
+,"('West',)",Broomfield,Office Supplies,Binders,106.9,24,4.4,-109.24,-102.19
+,"('West',)",Broomfield,Office Supplies,Paper,85.41,11,0.2,35.79,41.9
+,"('West',)",Broomfield,Office Supplies,Storage,59.19,9,0.4,0.67,1.13
+,"('West',)",Broomfield,Technology,Accessories,1012.68,3,0.2,303.8,30.0
+,"('West',)",Broomfield,Technology,Phones,150.38,2,0.2,15.04,10.0
+,"('West',)",Carlsbad,Furniture,Furnishings,241.27,11,0.0,55.71,23.09
+,"('West',)",Carlsbad,Office Supplies,Art,40.59,5,0.0,12.06,29.71
+,"('West',)",Carlsbad,Office Supplies,Binders,40.2,5,0.0,18.09,45.0
+,"('West',)",Carlsbad,Office Supplies,Envelopes,28.4,5,0.0,13.35,47.01
+,"('West',)",Carlsbad,Office Supplies,Labels,61.77,11,0.0,28.64,46.37
+,"('West',)",Carlsbad,Office Supplies,Paper,82.22,9,0.0,37.4,45.49
+,"('West',)",Carlsbad,Office Supplies,Storage,821.18,13,0.2,48.34,5.89
+,"('West',)",Carlsbad,Technology,Accessories,338.43,9,0.4,83.58,24.7
+,"('West',)",Carlsbad,Technology,Phones,1479.86,17,0.6,158.36,10.7
+,"('West',)",Colorado Springs,Furniture,Chairs,1236.27,9,0.7,-65.44,-5.29
+,"('West',)",Colorado Springs,Furniture,Furnishings,1087.04,19,0.8,33.44,3.08
+,"('West',)",Colorado Springs,Furniture,Tables,623.68,5,0.7,-210.61,-33.77
+,"('West',)",Colorado Springs,Office Supplies,Art,8.55,4,0.2,1.95,22.81
+,"('West',)",Colorado Springs,Office Supplies,Binders,343.99,26,3.3,-192.95,-56.09
+,"('West',)",Colorado Springs,Office Supplies,Fasteners,27.55,3,0.2,9.3,33.76
+,"('West',)",Colorado Springs,Office Supplies,Paper,124.88,4,0.4,43.71,35.0
+,"('West',)",Colorado Springs,Technology,Accessories,204.55,9,0.0,78.81,38.53
+,"('West',)",Colorado Springs,Technology,Phones,1359.96,5,0.2,119.0,8.75
+,"('West',)",Concord,Furniture,Chairs,1356.5,11,0.8,-50.27,-3.71
+,"('West',)",Concord,Furniture,Furnishings,674.59,20,0.0,146.52,21.72
+,"('West',)",Concord,Office Supplies,Art,15.55,3,0.2,2.33,14.98
+,"('West',)",Concord,Office Supplies,Binders,11468.17,22,0.4,5549.14,48.39
+,"('West',)",Concord,Office Supplies,Envelopes,21.84,3,0.0,10.48,47.99
+,"('West',)",Concord,Office Supplies,Fasteners,5.04,3,0.0,0.2,3.97
+,"('West',)",Concord,Office Supplies,Labels,27.72,9,0.0,13.31,48.02
+,"('West',)",Concord,Office Supplies,Paper,138.04,10,0.0,63.21,45.79
+,"('West',)",Concord,Office Supplies,Storage,404.9,5,0.0,16.2,4.0
+,"('West',)",Concord,Technology,Accessories,29.99,1,0.0,6.3,21.01
+,"('West',)",Costa Mesa,Furniture,Chairs,1487.04,5,0.2,148.7,10.0
+,"('West',)",Costa Mesa,Furniture,Furnishings,532.81,11,0.0,151.32,28.4
+,"('West',)",Costa Mesa,Office Supplies,Appliances,270.72,3,0.0,78.51,29.0
+,"('West',)",Costa Mesa,Office Supplies,Art,31.02,9,0.0,10.52,33.91
+,"('West',)",Costa Mesa,Office Supplies,Binders,6.1,2,0.2,2.13,34.92
+,"('West',)",Costa Mesa,Technology,Accessories,239.97,3,0.0,26.4,11.0
+,"('West',)",Denver,Furniture,Bookcases,362.63,4,0.15,59.58,16.43
+,"('West',)",Denver,Furniture,Chairs,389.97,3,0.0,35.1,9.0
+,"('West',)",Denver,Furniture,Furnishings,105.13,5,0.2,26.96,25.64
+,"('West',)",Denver,Furniture,Tables,218.75,2,0.5,-161.88,-74.0
+,"('West',)",Denver,Office Supplies,Appliances,389.81,10,0.6,74.03,18.99
+,"('West',)",Denver,Office Supplies,Binders,825.35,33,1.8,-179.29,-21.72
+,"('West',)",Denver,Office Supplies,Envelopes,116.92,11,0.2,41.08,35.14
+,"('West',)",Denver,Office Supplies,Fasteners,26.7,7,0.2,12.0,44.94
+,"('West',)",Denver,Office Supplies,Labels,59.22,19,0.0,28.43,48.01
+,"('West',)",Denver,Office Supplies,Paper,364.44,15,0.2,174.01,47.75
+,"('West',)",Denver,Office Supplies,Storage,1469.94,19,0.2,26.49,1.8
+,"('West',)",Denver,Office Supplies,Supplies,55.6,4,0.0,16.12,28.99
+,"('West',)",Denver,Technology,Accessories,913.93,7,0.0,60.01,6.57
+,"('West',)",Denver,Technology,Phones,1825.09,18,1.4,-66.88,-3.66
+,"('West',)",Des Moines,Furniture,Furnishings,77.95,3,0.2,12.67,16.25
+,"('West',)",Des Moines,Office Supplies,Art,9.34,2,0.2,1.17,12.53
+,"('West',)",Des Moines,Office Supplies,Binders,95.97,5,0.7,-73.58,-76.67
+,"('West',)",Des Moines,Technology,Accessories,23.47,3,0.2,4.99,21.26
+,"('West',)",Des Moines,Technology,Copiers,1799.97,3,0.0,701.99,39.0
+,"('West',)",Des Moines,Technology,Phones,351.96,4,0.4,36.96,10.5
+,"('West',)",Escondido,Office Supplies,Art,53.94,3,0.0,15.64,29.0
+,"('West',)",Escondido,Office Supplies,Paper,74.35,3,0.2,23.23,31.24
+,"('West',)",Escondido,Technology,Phones,201.58,2,0.2,20.16,10.0
+,"('West',)",Fairfield,Office Supplies,Binders,38.72,7,1.1,8.26,21.33
+,"('West',)",Fairfield,Office Supplies,Supplies,20.61,2,0.2,-4.38,-21.25
+,"('West',)",Fairfield,Technology,Copiers,959.97,4,0.2,120.0,12.5
+,"('West',)",Fairfield,Technology,Phones,623.96,5,0.2,39.0,6.25
+,"('West',)",Fort Collins,Furniture,Tables,1137.75,5,0.0,250.31,22.0
+,"('West',)",Fort Collins,Office Supplies,Appliances,73.16,6,0.8,-186.57,-255.02
+,"('West',)",Fort Collins,Office Supplies,Art,9.32,4,0.0,2.54,27.25
+,"('West',)",Fort Collins,Office Supplies,Binders,99.68,5,0.2,32.4,32.5
+,"('West',)",Fort Collins,Office Supplies,Envelopes,25.71,5,0.2,10.54,41.0
+,"('West',)",Fort Collins,Office Supplies,Paper,306.67,14,0.0,148.97,48.58
+,"('West',)",Fort Collins,Office Supplies,Supplies,93.5,7,0.0,27.19,29.08
+,"('West',)",Fort Collins,Technology,Accessories,27.7,3,0.2,3.46,12.49
+,"('West',)",Fort Collins,Technology,Phones,507.09,6,0.4,40.93,8.07
+,"('West',)",Fresno,Furniture,Bookcases,254.97,3,0.15,12.0,4.71
+,"('West',)",Fresno,Furniture,Furnishings,63.94,1,0.0,24.94,39.01
+,"('West',)",Fresno,Furniture,Tables,5769.41,24,0.8,271.39,4.7
+,"('West',)",Fresno,Office Supplies,Appliances,176.04,4,0.0,45.77,26.0
+,"('West',)",Fresno,Office Supplies,Art,32.7,15,0.0,8.83,27.0
+,"('West',)",Fresno,Office Supplies,Binders,447.84,26,1.2,140.64,31.4
+,"('West',)",Fresno,Office Supplies,Envelopes,6.12,3,0.0,2.88,47.06
+,"('West',)",Fresno,Office Supplies,Labels,5.76,2,0.0,2.82,48.96
+,"('West',)",Fresno,Office Supplies,Paper,292.61,11,0.2,125.2,42.79
+,"('West',)",Fresno,Office Supplies,Storage,1987.5,9,0.4,316.11,15.9
+,"('West',)",Fresno,Office Supplies,Supplies,22.72,4,0.0,6.59,29.01
+,"('West',)",Fresno,Technology,Accessories,1303.59,20,0.4,208.02,15.96
+,"('West',)",Fresno,Technology,Copiers,479.98,2,0.2,60.0,12.5
+,"('West',)",Fresno,Technology,Phones,211.17,4,0.2,15.84,7.5
+,"('West',)",Gilbert,Furniture,Bookcases,6294.58,15,0.9,80.24,1.27
+,"('West',)",Gilbert,Furniture,Chairs,901.72,4,0.1,177.35,19.67
+,"('West',)",Gilbert,Furniture,Furnishings,404.96,10,0.4,-25.4,-6.27
+,"('West',)",Gilbert,Office Supplies,Appliances,471.64,9,0.8,-1179.18,-250.02
+,"('West',)",Gilbert,Office Supplies,Art,1152.98,15,0.2,125.56,10.89
+,"('West',)",Gilbert,Office Supplies,Binders,30.25,15,2.1,-23.54,-77.82
+,"('West',)",Gilbert,Office Supplies,Labels,87.71,7,0.0,41.22,47.0
+,"('West',)",Gilbert,Office Supplies,Paper,154.51,9,0.2,72.03,46.62
+,"('West',)",Gilbert,Office Supplies,Storage,191.87,11,0.2,8.91,4.64
+,"('West',)",Gilbert,Technology,Accessories,1043.85,8,0.2,265.76,25.46
+,"('West',)",Gilbert,Technology,Phones,783.72,13,0.2,224.53,28.65
+,"('West',)",Glendale,Furniture,Chairs,838.83,11,0.5,-129.91,-15.49
+,"('West',)",Glendale,Furniture,Furnishings,180.14,10,0.8,7.52,4.17
+,"('West',)",Glendale,Office Supplies,Appliances,427.53,6,0.8,-56.97,-13.33
+,"('West',)",Glendale,Office Supplies,Art,20.26,7,0.0,5.42,26.75
+,"('West',)",Glendale,Office Supplies,Binders,163.94,20,1.8,53.56,32.67
+,"('West',)",Glendale,Office Supplies,Fasteners,28.44,9,0.2,4.27,15.01
+,"('West',)",Glendale,Office Supplies,Labels,23.04,8,0.0,11.29,49.0
+,"('West',)",Glendale,Office Supplies,Paper,802.36,23,0.4,371.6,46.31
+,"('West',)",Glendale,Office Supplies,Storage,266.53,18,0.0,57.95,21.74
+,"('West',)",Glendale,Technology,Accessories,161.45,7,0.2,65.73,40.71
+,"('West',)",Glendale,Technology,Copiers,1499.95,5,0.0,449.98,30.0
+,"('West',)",Glendale,Technology,Machines,599.99,5,0.7,-479.99,-80.0
+,"('West',)",Glendale,Technology,Phones,2395.44,10,0.6,382.08,15.95
+,"('West',)",Hesperia,Furniture,Tables,351.22,3,0.2,4.39,1.25
+,"('West',)",Hesperia,Office Supplies,Art,145.64,19,0.6,26.81,18.41
+,"('West',)",Hesperia,Office Supplies,Binders,2045.5,8,0.2,924.91,45.22
+,"('West',)",Hesperia,Office Supplies,Labels,9.86,4,0.2,3.45,34.99
+,"('West',)",Hesperia,Office Supplies,Paper,45.36,7,0.0,21.77,47.99
+,"('West',)",Hesperia,Technology,Accessories,354.23,8,0.0,111.27,31.41
+,"('West',)",Hesperia,Technology,Machines,479.99,2,0.4,56.0,11.67
+,"('West',)",Hesperia,Technology,Phones,3065.48,15,0.6,299.95,9.78
+,"('West',)",Huntington Beach,Furniture,Bookcases,1200.11,6,0.52,-52.2,-4.35
+,"('West',)",Huntington Beach,Furniture,Chairs,4058.49,14,0.9,-15.93,-0.39
+,"('West',)",Huntington Beach,Furniture,Furnishings,75.33,10,0.2,31.37,41.64
+,"('West',)",Huntington Beach,Furniture,Tables,933.26,4,0.45,-458.15,-49.09
+,"('West',)",Huntington Beach,Office Supplies,Appliances,394.82,4,0.2,93.77,23.75
+,"('West',)",Huntington Beach,Office Supplies,Art,100.08,10,0.2,26.26,26.24
+,"('West',)",Huntington Beach,Office Supplies,Binders,103.42,11,0.9,16.35,15.81
+,"('West',)",Huntington Beach,Office Supplies,Fasteners,11.84,8,0.0,5.68,47.97
+,"('West',)",Huntington Beach,Office Supplies,Labels,44.4,3,0.0,22.2,50.0
+,"('West',)",Huntington Beach,Office Supplies,Supplies,3.33,2,0.2,0.42,12.61
+,"('West',)",Huntington Beach,Technology,Accessories,239.94,6,0.2,28.99,12.08
+,"('West',)",Huntington Beach,Technology,Machines,3999.95,5,0.0,1159.99,29.0
+,"('West',)",Inglewood,Office Supplies,Appliances,47.62,7,0.4,4.32,9.07
+,"('West',)",Inglewood,Office Supplies,Art,5.98,1,0.0,1.55,25.92
+,"('West',)",Inglewood,Office Supplies,Binders,29.37,7,0.8,-47.0,-160.03
+,"('West',)",Inglewood,Office Supplies,Fasteners,31.56,5,0.2,9.86,31.24
+,"('West',)",Inglewood,Office Supplies,Paper,8.82,2,0.0,4.06,46.03
+,"('West',)",Inglewood,Office Supplies,Storage,276.28,2,0.0,0.0,0.0
+,"('West',)",Inglewood,Technology,Phones,344.7,2,0.2,38.78,11.25
+,"('West',)",Kent,Furniture,Furnishings,198.46,2,0.0,99.23,50.0
+,"('West',)",Kent,Office Supplies,Binders,23.17,2,0.2,7.82,33.75
+,"('West',)",Kent,Office Supplies,Labels,786.48,8,0.0,385.38,49.0
+,"('West',)",Kent,Technology,Accessories,50.0,2,0.0,10.5,21.0
+,"('West',)",La Quinta,Furniture,Chairs,113.37,2,0.3,-3.24,-2.86
+,"('West',)",La Quinta,Furniture,Furnishings,258.37,13,1.2,97.65,37.79
+,"('West',)",La Quinta,Office Supplies,Binders,1.68,5,0.8,-2.69,-160.12
+,"('West',)",La Quinta,Office Supplies,Envelopes,47.98,2,0.0,23.99,50.0
+,"('West',)",La Quinta,Office Supplies,Paper,29.9,5,0.0,13.45,44.98
+,"('West',)",La Quinta,Office Supplies,Storage,146.73,3,0.0,2.93,2.0
+,"('West',)",La Quinta,Technology,Accessories,46.32,4,0.0,18.06,38.99
+,"('West',)",Laguna Niguel,Furniture,Bookcases,479.93,5,0.35,-21.14,-4.4
+,"('West',)",Laguna Niguel,Furniture,Furnishings,211.83,9,0.0,87.12,41.13
+,"('West',)",Laguna Niguel,Furniture,Tables,1762.44,10,0.9,-300.42,-17.05
+,"('West',)",Laguna Niguel,Office Supplies,Appliances,87.17,2,0.2,8.72,10.0
+,"('West',)",Laguna Niguel,Office Supplies,Art,3.54,2,0.2,0.31,8.76
+,"('West',)",Laguna Niguel,Office Supplies,Binders,139.65,26,1.3,33.06,23.67
+,"('West',)",Laguna Niguel,Office Supplies,Envelopes,43.7,5,0.0,20.54,47.0
+,"('West',)",Laguna Niguel,Office Supplies,Paper,241.78,11,0.0,112.4,46.49
+,"('West',)",Laguna Niguel,Office Supplies,Storage,1117.92,4,0.0,55.9,5.0
+,"('West',)",Laguna Niguel,Technology,Accessories,999.96,4,0.0,229.99,23.0
+,"('West',)",Lake Elsinore,Furniture,Bookcases,183.97,2,0.2,-25.3,-13.75
+,"('West',)",Lake Elsinore,Furniture,Chairs,283.92,5,0.2,17.75,6.25
+,"('West',)",Lake Elsinore,Furniture,Furnishings,70.56,6,0.0,23.99,34.0
+,"('West',)",Lake Elsinore,Office Supplies,Appliances,81.96,2,0.0,22.95,28.0
+,"('West',)",Lake Elsinore,Office Supplies,Art,68.97,3,0.0,19.31,28.0
+,"('West',)",Lake Elsinore,Office Supplies,Paper,84.62,14,0.0,40.36,47.7
+,"('West',)",Lake Elsinore,Technology,Phones,1259.97,3,0.0,327.59,26.0
+,"('West',)",Lancaster,Furniture,Bookcases,512.5,3,0.15,-30.15,-5.88
+,"('West',)",Lancaster,Furniture,Chairs,348.93,2,0.2,34.89,10.0
+,"('West',)",Lancaster,Furniture,Furnishings,119.16,12,0.0,43.04,36.12
+,"('West',)",Lancaster,Furniture,Tables,557.59,5,0.3,0.0,0.0
+,"('West',)",Lancaster,Office Supplies,Art,89.43,5,0.2,24.46,27.35
+,"('West',)",Lancaster,Office Supplies,Binders,135.89,16,2.0,35.38,26.04
+,"('West',)",Lancaster,Office Supplies,Paper,70.08,5,0.2,24.53,35.0
+,"('West',)",Lancaster,Technology,Phones,1102.68,15,0.4,188.83,17.12
+,"('West',)",Las Cruces,Furniture,Furnishings,41.37,3,0.0,17.38,42.01
+,"('West',)",Las Cruces,Office Supplies,Appliances,19.75,5,0.0,5.14,26.03
+,"('West',)",Las Cruces,Office Supplies,Art,43.36,18,0.2,11.88,27.4
+,"('West',)",Las Cruces,Office Supplies,Supplies,3.1,1,0.2,0.35,11.29
+,"('West',)",Las Cruces,Technology,Accessories,393.54,3,0.0,165.29,42.0
+,"('West',)",Las Cruces,Technology,Machines,83.9,2,0.0,22.65,27.0
+,"('West',)",Las Vegas,Office Supplies,Binders,94.79,8,0.2,34.51,36.41
+,"('West',)",Las Vegas,Office Supplies,Storage,353.05,7,0.0,7.06,2.0
+,"('West',)",Las Vegas,Technology,Phones,546.06,3,0.0,163.82,30.0
+,"('West',)",Lehi,Office Supplies,Appliances,48.78,1,0.2,3.66,7.5
+,"('West',)",Lehi,Office Supplies,Binders,13.09,4,0.7,-10.04,-76.7
+,"('West',)",Lehi,Office Supplies,Labels,9.82,2,0.0,4.81,48.98
+,"('West',)",Lehi,Technology,Phones,16.78,3,0.2,1.68,10.01
+,"('West',)",Littleton,Furniture,Bookcases,425.86,3,0.9,-143.0,-33.58
+,"('West',)",Littleton,Furniture,Furnishings,70.92,4,0.0,27.78,39.17
+,"('West',)",Littleton,Office Supplies,Appliances,15.56,4,0.0,4.05,26.03
+,"('West',)",Littleton,Office Supplies,Binders,14.67,3,0.0,6.75,46.01
+,"('West',)",Littleton,Office Supplies,Paper,76.86,2,0.2,26.9,35.0
+,"('West',)",Long Beach,Furniture,Bookcases,289.57,2,0.2,10.86,3.75
+,"('West',)",Long Beach,Furniture,Chairs,1698.66,14,0.3,162.17,9.55
+,"('West',)",Long Beach,Furniture,Furnishings,813.45,31,1.0,182.38,22.42
+,"('West',)",Long Beach,Furniture,Tables,369.91,3,0.2,-13.87,-3.75
+,"('West',)",Long Beach,Office Supplies,Appliances,610.52,16,0.6,74.27,12.17
+,"('West',)",Long Beach,Office Supplies,Art,63.55,5,0.2,16.54,26.03
+,"('West',)",Long Beach,Office Supplies,Binders,29.3,9,1.6,-7.79,-26.59
+,"('West',)",Long Beach,Office Supplies,Fasteners,14.07,5,0.2,5.91,42.0
+,"('West',)",Long Beach,Office Supplies,Labels,40.1,4,0.2,13.53,33.74
+,"('West',)",Long Beach,Office Supplies,Paper,200.4,22,0.4,95.43,47.62
+,"('West',)",Long Beach,Office Supplies,Storage,193.38,22,0.2,33.75,17.45
+,"('West',)",Long Beach,Office Supplies,Supplies,39.22,6,0.0,11.45,29.19
+,"('West',)",Long Beach,Technology,Accessories,833.44,14,0.4,170.12,20.41
+,"('West',)",Long Beach,Technology,Copiers,439.99,1,0.2,165.0,37.5
+,"('West',)",Long Beach,Technology,Machines,566.27,5,0.9,131.2,23.17
+,"('West',)",Long Beach,Technology,Phones,1566.51,21,1.2,165.57,10.57
+,"('West',)",Los Angeles,Furniture,Bookcases,5422.8,53,3.61,-536.92,-9.9
+,"('West',)",Los Angeles,Furniture,Chairs,23284.78,166,9.2,720.57,3.09
+,"('West',)",Los Angeles,Furniture,Furnishings,5799.08,247,6.8,1230.94,21.23
+,"('West',)",Los Angeles,Furniture,Tables,17687.07,111,7.35,-1619.32,-9.16
+,"('West',)",Los Angeles,Office Supplies,Appliances,6269.23,119,3.0,1575.7,25.13
+,"('West',)",Los Angeles,Office Supplies,Art,1340.42,194,2.8,375.97,28.05
+,"('West',)",Los Angeles,Office Supplies,Binders,13441.86,445,45.3,-2665.09,-19.83
+,"('West',)",Los Angeles,Office Supplies,Envelopes,1548.21,81,2.6,637.86,41.2
+,"('West',)",Los Angeles,Office Supplies,Fasteners,384.41,93,1.8,110.94,28.86
+,"('West',)",Los Angeles,Office Supplies,Labels,641.06,108,1.6,290.08,45.25
+,"('West',)",Los Angeles,Office Supplies,Paper,5498.44,367,8.0,2386.61,43.41
+,"('West',)",Los Angeles,Office Supplies,Storage,11999.2,240,3.6,1116.85,9.31
+,"('West',)",Los Angeles,Office Supplies,Supplies,5461.4,65,0.4,221.1,4.05
+,"('West',)",Los Angeles,Technology,Accessories,9296.51,183,3.6,2625.13,28.24
+,"('West',)",Los Angeles,Technology,Copiers,4239.92,10,0.6,1379.97,32.55
+,"('West',)",Los Angeles,Technology,Machines,4839.77,33,2.7,879.92,18.18
+,"('West',)",Los Angeles,Technology,Phones,24616.63,241,11.4,2383.46,9.68
+,"('West',)",Louisville,Furniture,Bookcases,572.44,6,0.15,27.88,4.87
+,"('West',)",Louisville,Furniture,Chairs,1309.67,11,0.8,69.64,5.32
+,"('West',)",Louisville,Furniture,Furnishings,25.08,6,0.0,9.03,36.0
+,"('West',)",Louisville,Furniture,Tables,145.98,2,0.5,-99.27,-68.0
+,"('West',)",Louisville,Office Supplies,Art,156.34,20,0.4,47.9,30.64
+,"('West',)",Louisville,Office Supplies,Binders,2586.77,18,2.8,1237.88,47.85
+,"('West',)",Louisville,Office Supplies,Envelopes,16.56,2,0.0,7.78,46.98
+,"('West',)",Louisville,Office Supplies,Fasteners,10.65,3,0.0,5.01,47.04
+,"('West',)",Louisville,Office Supplies,Paper,139.53,20,0.4,59.18,42.41
+,"('West',)",Louisville,Technology,Accessories,36.24,1,0.0,15.22,42.0
+,"('West',)",Louisville,Technology,Machines,2549.99,5,0.7,-3399.98,-133.33
+,"('West',)",Louisville,Technology,Phones,1313.92,9,0.4,201.05,15.3
+,"('West',)",Manteca,Furniture,Chairs,2639.82,11,0.4,329.97,12.5
+,"('West',)",Manteca,Office Supplies,Appliances,41.95,5,0.0,10.49,25.01
+,"('West',)",Manteca,Office Supplies,Art,27.0,7,0.0,8.67,32.11
+,"('West',)",Manteca,Office Supplies,Binders,169.99,1,0.0,78.2,46.0
+,"('West',)",Manteca,Office Supplies,Envelopes,22.18,2,0.0,10.87,49.01
+,"('West',)",Manteca,Office Supplies,Labels,15.75,5,0.0,7.56,48.0
+,"('West',)",Manteca,Office Supplies,Paper,387.77,17,0.0,186.12,48.0
+,"('West',)",Manteca,Office Supplies,Storage,3050.99,9,0.0,639.17,20.95
+,"('West',)",Manteca,Technology,Phones,4248.81,10,0.2,389.07,9.16
+,"('West',)",Marysville,Furniture,Furnishings,120.58,8,0.2,33.16,27.5
+,"('West',)",Marysville,Furniture,Tables,2665.62,9,0.0,239.91,9.0
+,"('West',)",Marysville,Office Supplies,Appliances,267.93,18,0.0,74.42,27.78
+,"('West',)",Marysville,Office Supplies,Art,38.45,6,0.0,10.9,28.35
+,"('West',)",Marysville,Office Supplies,Binders,166.92,15,1.1,-85.31,-51.11
+,"('West',)",Marysville,Office Supplies,Fasteners,10.47,3,0.0,4.82,46.04
+,"('West',)",Marysville,Office Supplies,Labels,11.07,3,0.0,5.2,46.97
+,"('West',)",Marysville,Technology,Phones,141.74,12,0.6,3.81,2.69
+,"('West',)",Mesa,Furniture,Chairs,2350.52,13,0.3,460.89,19.61
+,"('West',)",Mesa,Furniture,Furnishings,359.29,12,0.0,110.53,30.76
+,"('West',)",Mesa,Furniture,Tables,283.56,4,0.0,45.37,16.0
+,"('West',)",Mesa,Office Supplies,Appliances,2981.0,17,0.3,791.45,26.55
+,"('West',)",Mesa,Office Supplies,Art,84.61,6,0.2,24.4,28.84
+,"('West',)",Mesa,Office Supplies,Binders,469.24,45,3.8,-7.51,-1.6
+,"('West',)",Mesa,Office Supplies,Envelopes,30.74,4,0.0,15.07,49.02
+,"('West',)",Mesa,Office Supplies,Labels,498.46,8,0.2,243.37,48.82
+,"('West',)",Mesa,Office Supplies,Paper,222.59,24,0.6,92.2,41.42
+,"('West',)",Mesa,Office Supplies,Storage,1561.35,24,1.0,109.51,7.01
+,"('West',)",Mesa,Technology,Accessories,745.92,8,0.4,160.79,21.56
+,"('West',)",Mesa,Technology,Phones,479.9,13,0.8,65.4,13.63
+,"('West',)",Mission Viejo,Furniture,Bookcases,290.67,2,0.15,3.42,1.18
+,"('West',)",Mission Viejo,Furniture,Chairs,2274.47,25,0.5,386.85,17.01
+,"('West',)",Mission Viejo,Furniture,Furnishings,794.88,17,1.0,185.25,23.31
+,"('West',)",Mission Viejo,Office Supplies,Appliances,261.7,9,0.0,78.7,30.07
+,"('West',)",Mission Viejo,Office Supplies,Art,54.6,21,0.2,14.36,26.3
+,"('West',)",Mission Viejo,Office Supplies,Binders,101.75,15,0.9,24.78,24.35
+,"('West',)",Mission Viejo,Office Supplies,Fasteners,11.62,2,0.0,3.6,30.98
+,"('West',)",Mission Viejo,Office Supplies,Labels,32.01,9,0.0,15.25,47.64
+,"('West',)",Mission Viejo,Office Supplies,Paper,56.77,11,0.2,26.16,46.08
+,"('West',)",Mission Viejo,Office Supplies,Storage,853.42,25,0.6,155.63,18.24
+,"('West',)",Mission Viejo,Technology,Accessories,370.03,19,0.0,135.53,36.63
+,"('West',)",Mission Viejo,Technology,Copiers,1399.98,2,0.0,629.99,45.0
+,"('West',)",Mission Viejo,Technology,Machines,2912.96,7,0.7,-847.8,-29.1
+,"('West',)",Mission Viejo,Technology,Phones,2480.14,22,1.2,-496.03,-20.0
+,"('West',)",Murray,Furniture,Furnishings,104.7,16,0.6,27.87,26.62
+,"('West',)",Murray,Furniture,Tables,2783.41,12,1.2,-1122.77,-40.34
+,"('West',)",Murray,Office Supplies,Art,4.66,2,0.0,1.35,28.97
+,"('West',)",Murray,Office Supplies,Binders,157.79,18,2.8,-68.86,-43.64
+,"('West',)",Murray,Office Supplies,Envelopes,52.34,2,0.0,24.6,47.0
+,"('West',)",Murray,Office Supplies,Fasteners,18.94,3,0.2,5.92,31.26
+,"('West',)",Murray,Office Supplies,Labels,44.4,3,0.0,22.2,50.0
+,"('West',)",Murray,Office Supplies,Paper,106.52,15,0.2,48.61,45.63
+,"('West',)",Murray,Office Supplies,Storage,721.78,14,0.2,102.02,14.13
+,"('West',)",Murray,Technology,Accessories,659.95,10,0.0,161.24,24.43
+,"('West',)",Murray,Technology,Machines,2321.9,2,0.0,1114.51,48.0
+,"('West',)",Murray,Technology,Phones,222.38,2,0.2,16.68,7.5
+,"('West',)",Murrieta,Furniture,Furnishings,16.19,2,0.6,-8.5,-52.5
+,"('West',)",Murrieta,Furniture,Tables,425.07,5,0.75,-178.89,-42.08
+,"('West',)",Murrieta,Office Supplies,Binders,505.18,4,0.7,-336.78,-66.67
+,"('West',)",Murrieta,Office Supplies,Envelopes,29.81,2,0.2,10.81,36.26
+,"('West',)",Murrieta,Office Supplies,Storage,685.19,12,0.4,63.21,9.23
+,"('West',)",Murrieta,Technology,Accessories,25.49,2,0.2,4.46,17.5
+,"('West',)",North Las Vegas,Furniture,Furnishings,20.32,5,0.2,3.56,17.52
+,"('West',)",North Las Vegas,Office Supplies,Binders,57.86,4,0.4,20.04,34.64
+,"('West',)",North Las Vegas,Office Supplies,Envelopes,55.94,8,0.2,18.88,33.75
+,"('West',)",North Las Vegas,Office Supplies,Labels,18.43,8,0.2,5.99,32.5
+,"('West',)",North Las Vegas,Office Supplies,Paper,9.96,2,0.0,4.88,49.0
+,"('West',)",North Las Vegas,Technology,Accessories,58.58,2,0.0,19.33,33.0
+,"('West',)",Oakland,Furniture,Bookcases,301.47,3,0.5,-205.0,-68.0
+,"('West',)",Oakland,Furniture,Chairs,499.3,9,0.2,88.29,17.68
+,"('West',)",Oakland,Furniture,Furnishings,1077.61,20,0.8,121.27,11.25
+,"('West',)",Oakland,Furniture,Tables,568.73,3,0.2,28.44,5.0
+,"('West',)",Oakland,Office Supplies,Appliances,203.52,3,0.0,54.95,27.0
+,"('West',)",Oakland,Office Supplies,Art,133.6,16,0.0,36.65,27.43
+,"('West',)",Oakland,Office Supplies,Binders,414.81,19,1.0,-253.15,-61.03
+,"('West',)",Oakland,Office Supplies,Envelopes,9.91,3,0.2,3.22,32.49
+,"('West',)",Oakland,Office Supplies,Fasteners,17.9,5,0.0,8.77,48.99
+,"('West',)",Oakland,Office Supplies,Labels,63.41,9,0.2,29.54,46.59
+,"('West',)",Oakland,Office Supplies,Paper,7.78,1,0.0,3.5,44.99
+,"('West',)",Oakland,Office Supplies,Storage,140.63,10,0.2,12.94,9.2
+,"('West',)",Oakland,Technology,Accessories,907.48,8,0.2,193.85,21.36
+,"('West',)",Oakland,Technology,Phones,1638.14,18,1.0,155.4,9.49
+,"('West',)",Oceanside,Furniture,Chairs,178.75,4,0.4,15.25,8.53
+,"('West',)",Oceanside,Furniture,Furnishings,504.27,22,0.0,110.3,21.87
+,"('West',)",Oceanside,Office Supplies,Appliances,533.94,3,0.0,154.84,29.0
+,"('West',)",Oceanside,Office Supplies,Art,8.02,3,0.2,1.1,13.72
+,"('West',)",Oceanside,Office Supplies,Binders,80.86,9,0.2,35.85,44.34
+,"('West',)",Oceanside,Office Supplies,Labels,14.94,3,0.0,6.87,45.98
+,"('West',)",Oceanside,Office Supplies,Paper,251.42,9,0.0,122.1,48.56
+,"('West',)",Oceanside,Office Supplies,Storage,52.4,5,0.0,14.15,27.0
+,"('West',)",Oceanside,Technology,Machines,1299.99,2,0.5,-572.0,-44.0
+,"('West',)",Oceanside,Technology,Phones,844.63,17,0.2,219.09,25.94
+,"('West',)",Olympia,Furniture,Chairs,218.35,3,0.2,0.0,0.0
+,"('West',)",Olympia,Furniture,Furnishings,547.21,8,0.0,111.17,20.32
+,"('West',)",Olympia,Office Supplies,Appliances,173.86,7,0.0,49.33,28.37
+,"('West',)",Olympia,Office Supplies,Art,99.3,10,0.0,41.71,42.0
+,"('West',)",Olympia,Office Supplies,Binders,215.96,10,0.8,96.45,44.66
+,"('West',)",Olympia,Office Supplies,Storage,1676.88,6,0.0,83.84,5.0
+,"('West',)",Olympia,Technology,Phones,1341.38,16,0.6,98.09,7.31
+,"('West',)",Ontario,Furniture,Bookcases,321.57,2,0.2,-16.08,-5.0
+,"('West',)",Ontario,Furniture,Chairs,283.92,5,0.2,-46.14,-16.25
+,"('West',)",Ontario,Office Supplies,Art,338.27,22,0.0,92.12,27.23
+,"('West',)",Ontario,Office Supplies,Envelopes,167.96,2,0.0,78.94,47.0
+,"('West',)",Ontario,Office Supplies,Paper,307.93,22,0.2,122.67,39.84
+,"('West',)",Ontario,Office Supplies,Storage,81.96,2,0.0,0.0,0.0
+,"('West',)",Ontario,Technology,Accessories,17.9,2,0.0,3.4,18.99
+,"('West',)",Orem,Furniture,Chairs,3185.65,22,0.9,288.11,9.04
+,"('West',)",Orem,Furniture,Furnishings,263.38,12,0.2,62.27,23.64
+,"('West',)",Orem,Furniture,Tables,1500.6,8,0.4,133.87,8.92
+,"('West',)",Orem,Office Supplies,Appliances,121.79,4,0.2,13.7,11.25
+,"('West',)",Orem,Office Supplies,Art,12.74,4,0.2,3.8,29.83
+,"('West',)",Orem,Office Supplies,Binders,86.63,17,2.3,0.35,0.4
+,"('West',)",Orem,Office Supplies,Fasteners,30.0,6,0.0,14.4,48.0
+,"('West',)",Orem,Office Supplies,Paper,25.92,4,0.0,12.7,49.0
+,"('West',)",Orem,Technology,Phones,485.83,10,1.2,-6.45,-1.33
+,"('West',)",Parker,Furniture,Chairs,801.57,2,0.2,50.1,6.25
+,"('West',)",Parker,Furniture,Furnishings,547.3,13,0.0,175.14,32.0
+,"('West',)",Parker,Office Supplies,Binders,51.62,10,2.8,-36.72,-71.14
+,"('West',)",Parker,Office Supplies,Envelopes,64.85,7,0.2,24.32,37.5
+,"('West',)",Parker,Office Supplies,Labels,5.76,2,0.0,2.65,46.01
+,"('West',)",Parker,Office Supplies,Paper,106.47,6,0.6,36.1,33.91
+,"('West',)",Parker,Technology,Accessories,479.94,6,0.0,52.79,11.0
+,"('West',)",Parker,Technology,Phones,196.78,3,0.2,14.76,7.5
+,"('West',)",Pasadena,Furniture,Chairs,4218.86,8,0.3,355.55,8.43
+,"('West',)",Pasadena,Furniture,Furnishings,495.23,21,2.4,-546.54,-110.36
+,"('West',)",Pasadena,Office Supplies,Appliances,578.16,5,0.2,66.31,11.47
+,"('West',)",Pasadena,Office Supplies,Art,77.87,12,0.4,19.24,24.71
+,"('West',)",Pasadena,Office Supplies,Binders,584.18,23,2.2,183.6,31.43
+,"('West',)",Pasadena,Office Supplies,Envelopes,167.86,2,0.0,78.89,47.0
+,"('West',)",Pasadena,Office Supplies,Fasteners,27.45,9,0.4,9.28,33.81
+,"('West',)",Pasadena,Office Supplies,Labels,11.7,2,0.2,3.95,33.76
+,"('West',)",Pasadena,Office Supplies,Paper,103.14,27,0.8,34.81,33.75
+,"('West',)",Pasadena,Office Supplies,Storage,883.21,17,0.0,50.59,5.73
+,"('West',)",Pasadena,Technology,Accessories,616.06,16,0.4,141.73,23.01
+,"('West',)",Pasadena,Technology,Phones,1574.86,15,0.6,247.58,15.72
+,"('West',)",Peoria,Furniture,Chairs,1926.56,23,1.0,107.72,5.59
+,"('West',)",Peoria,Furniture,Furnishings,82.64,2,0.0,7.44,9.0
+,"('West',)",Peoria,Office Supplies,Art,150.18,18,0.4,22.14,14.74
+,"('West',)",Peoria,Office Supplies,Paper,12.96,2,0.0,6.35,49.0
+,"('West',)",Peoria,Office Supplies,Storage,315.06,9,0.4,-32.74,-10.39
+,"('West',)",Peoria,Technology,Accessories,446.27,6,0.2,140.69,31.53
+,"('West',)",Phoenix,Furniture,Chairs,1496.88,12,0.6,76.46,5.11
+,"('West',)",Phoenix,Furniture,Furnishings,929.74,22,2.0,122.64,13.19
+,"('West',)",Phoenix,Furniture,Tables,3147.95,18,1.6,-1214.97,-38.6
+,"('West',)",Phoenix,Office Supplies,Appliances,455.01,6,0.3,77.03,16.93
+,"('West',)",Phoenix,Office Supplies,Art,79.11,10,0.6,13.55,17.13
+,"('West',)",Phoenix,Office Supplies,Binders,11324.94,70,7.4,5241.34,46.28
+,"('West',)",Phoenix,Office Supplies,Envelopes,38.62,5,0.0,18.46,47.8
+,"('West',)",Phoenix,Office Supplies,Labels,3.69,1,0.0,1.73,46.88
+,"('West',)",Phoenix,Office Supplies,Paper,349.85,26,0.8,124.57,35.61
+,"('West',)",Phoenix,Office Supplies,Storage,932.4,20,1.0,-74.72,-8.01
+,"('West',)",Phoenix,Office Supplies,Supplies,4849.12,9,0.4,-1084.1,-22.36
+,"('West',)",Phoenix,Technology,Accessories,1383.17,39,1.0,170.56,12.33
+,"('West',)",Phoenix,Technology,Machines,317.84,8,1.1,11.65,3.67
+,"('West',)",Phoenix,Technology,Phones,1611.77,10,1.0,151.13,9.38
+,"('West',)",Pico Rivera,Furniture,Furnishings,197.66,8,0.6,29.1,14.72
+,"('West',)",Pico Rivera,Furniture,Tables,415.95,3,0.7,-126.94,-30.52
+,"('West',)",Pico Rivera,Office Supplies,Art,81.76,5,0.4,17.78,21.75
+,"('West',)",Pico Rivera,Office Supplies,Binders,54.98,6,1.0,14.05,25.55
+,"('West',)",Pico Rivera,Office Supplies,Labels,23.68,2,0.2,8.88,37.5
+,"('West',)",Pico Rivera,Office Supplies,Paper,63.86,10,0.4,22.32,34.95
+,"('West',)",Pico Rivera,Office Supplies,Storage,701.24,14,0.0,56.2,8.01
+,"('West',)",Pico Rivera,Technology,Accessories,684.13,12,0.4,132.54,19.37
+,"('West',)",Pico Rivera,Technology,Machines,600.53,2,0.3,137.26,22.86
+,"('West',)",Pico Rivera,Technology,Phones,801.55,7,0.4,75.24,9.39
+,"('West',)",Portland,Furniture,Chairs,864.47,8,0.4,-96.93,-11.21
+,"('West',)",Portland,Office Supplies,Art,46.47,9,0.0,16.29,35.05
+,"('West',)",Portland,Office Supplies,Binders,5.68,1,0.7,-3.79,-66.73
+,"('West',)",Portland,Office Supplies,Storage,70.98,1,0.0,3.55,5.0
+,"('West',)",Portland,Technology,Phones,1079.85,3,0.0,323.95,30.0
+,"('West',)",Pueblo,Furniture,Chairs,2566.72,23,0.8,67.44,2.63
+,"('West',)",Pueblo,Furniture,Furnishings,74.76,7,0.0,23.92,32.0
+,"('West',)",Pueblo,Furniture,Tables,364.78,3,0.2,27.36,7.5
+,"('West',)",Pueblo,Office Supplies,Appliances,887.63,22,0.6,93.14,10.49
+,"('West',)",Pueblo,Office Supplies,Art,79.17,7,0.2,19.66,24.83
+,"('West',)",Pueblo,Office Supplies,Binders,37.62,10,2.1,-25.82,-68.63
+,"('West',)",Pueblo,Office Supplies,Fasteners,5.94,3,0.0,0.0,0.0
+,"('West',)",Pueblo,Office Supplies,Paper,147.75,16,0.4,62.69,42.43
+,"('West',)",Pueblo,Office Supplies,Storage,433.69,5,0.2,97.49,22.48
+,"('West',)",Pueblo,Office Supplies,Supplies,794.2,7,0.2,-156.94,-19.76
+,"('West',)",Pueblo,Technology,Accessories,27.55,3,0.2,-0.34,-1.23
+,"('West',)",Pueblo,Technology,Machines,371.98,3,0.2,116.24,31.25
+,"('West',)",Pueblo,Technology,Phones,569.92,10,0.6,63.23,11.09
+,"('West',)",Redlands,Furniture,Furnishings,12.54,7,0.6,-9.09,-72.49
+,"('West',)",Redlands,Office Supplies,Appliances,22.98,1,0.0,6.89,29.98
+,"('West',)",Redlands,Office Supplies,Binders,2050.37,12,2.0,749.03,36.53
+,"('West',)",Redlands,Office Supplies,Envelopes,14.28,7,0.0,6.71,46.99
+,"('West',)",Redlands,Office Supplies,Storage,15.01,2,0.2,1.5,9.99
+,"('West',)",Redlands,Office Supplies,Supplies,347.58,3,0.0,17.38,5.0
+,"('West',)",Redlands,Technology,Accessories,102.13,7,0.0,15.32,15.0
+,"('West',)",Riverside,Furniture,Bookcases,369.2,3,0.32,-114.02,-30.88
+,"('West',)",Riverside,Furniture,Furnishings,165.96,16,1.8,23.75,14.31
+,"('West',)",Riverside,Office Supplies,Appliances,134.48,4,0.0,34.96,26.0
+,"('West',)",Riverside,Office Supplies,Binders,106.21,34,3.3,-8.49,-7.99
+,"('West',)",Riverside,Office Supplies,Labels,60.03,10,0.2,25.14,41.88
+,"('West',)",Riverside,Office Supplies,Paper,291.63,20,0.4,126.5,43.38
+,"('West',)",Riverside,Office Supplies,Storage,41.88,6,0.0,0.84,2.01
+,"('West',)",Riverside,Technology,Accessories,1649.95,5,0.0,659.98,40.0
+,"('West',)",Riverside,Technology,Phones,297.28,9,0.2,99.81,33.57
+,"('West',)",Roseville,Furniture,Chairs,1055.3,7,0.4,90.11,8.54
+,"('West',)",Roseville,Furniture,Furnishings,635.15,33,1.0,-136.7,-21.52
+,"('West',)",Roseville,Furniture,Tables,974.99,4,0.3,-97.5,-10.0
+,"('West',)",Roseville,Office Supplies,Art,11.52,4,0.0,3.46,30.03
+,"('West',)",Roseville,Office Supplies,Binders,3170.79,16,1.5,1174.73,37.05
+,"('West',)",Roseville,Office Supplies,Fasteners,4.02,2,0.0,1.97,49.0
+,"('West',)",Roseville,Office Supplies,Paper,95.56,10,0.0,45.52,47.63
+,"('West',)",Roseville,Office Supplies,Supplies,65.88,6,0.0,18.45,28.01
+,"('West',)",Roseville,Technology,Accessories,99.99,1,0.0,38.0,38.0
+,"('West',)",Roseville,Technology,Copiers,2799.96,5,0.2,944.99,33.75
+,"('West',)",Roseville,Technology,Phones,1622.6,24,0.6,181.11,11.16
+,"('West',)",Salem,Furniture,Chairs,1740.24,14,0.6,366.32,21.05
+,"('West',)",Salem,Furniture,Furnishings,150.07,7,0.8,-51.54,-34.34
+,"('West',)",Salem,Furniture,Tables,2009.38,8,0.2,213.91,10.65
+,"('West',)",Salem,Office Supplies,Appliances,216.62,6,1.6,55.72,25.72
+,"('West',)",Salem,Office Supplies,Art,61.12,9,0.0,17.73,29.01
+,"('West',)",Salem,Office Supplies,Binders,1111.26,13,2.9,-1868.45,-168.14
+,"('West',)",Salem,Office Supplies,Envelopes,27.82,3,0.2,11.72,42.13
+,"('West',)",Salem,Office Supplies,Fasteners,4.51,3,0.2,0.85,18.85
+,"('West',)",Salem,Office Supplies,Paper,177.29,14,0.6,58.4,32.94
+,"('West',)",Salem,Office Supplies,Storage,221.02,2,0.2,-55.26,-25.0
+,"('West',)",Salem,Technology,Accessories,857.63,19,0.2,153.36,17.88
+,"('West',)",Salem,Technology,Phones,1448.74,7,0.4,65.11,4.49
+,"('West',)",Salinas,Furniture,Chairs,1691.54,10,0.7,218.52,12.92
+,"('West',)",Salinas,Furniture,Tables,79.97,3,0.4,-29.32,-36.66
+,"('West',)",Salinas,Office Supplies,Appliances,110.46,3,0.4,13.25,12.0
+,"('West',)",Salinas,Office Supplies,Art,108.1,12,0.0,30.95,28.63
+,"('West',)",Salinas,Office Supplies,Binders,1396.4,52,3.7,454.13,32.52
+,"('West',)",Salinas,Office Supplies,Envelopes,745.8,15,0.0,350.67,47.02
+,"('West',)",Salinas,Office Supplies,Fasteners,7.92,5,0.2,1.68,21.21
+,"('West',)",Salinas,Office Supplies,Labels,430.57,15,0.0,198.12,46.01
+,"('West',)",Salinas,Office Supplies,Paper,101.08,17,0.4,44.32,43.85
+,"('West',)",Salinas,Office Supplies,Storage,32.56,2,0.0,8.47,26.01
+,"('West',)",Salinas,Technology,Accessories,178.35,7,0.2,38.23,21.44
+,"('West',)",Salinas,Technology,Copiers,479.98,2,0.2,90.0,18.75
+,"('West',)",Salinas,Technology,Phones,108.74,6,0.2,25.27,23.24
+,"('West',)",Salt Lake City,Furniture,Furnishings,199.9,5,0.0,39.98,20.0
+,"('West',)",Salt Lake City,Office Supplies,Binders,331.88,27,1.0,113.45,34.18
+,"('West',)",Salt Lake City,Office Supplies,Paper,177.4,19,0.0,82.81,46.68
+,"('West',)",Salt Lake City,Technology,Phones,31.18,3,0.2,-7.01,-22.48
+,"('West',)",San Diego,Furniture,Bookcases,1096.59,15,0.5,-100.14,-9.13
+,"('West',)",San Diego,Furniture,Chairs,7795.39,45,1.0,1440.5,18.48
+,"('West',)",San Diego,Furniture,Furnishings,2665.14,69,2.0,350.14,13.14
+,"('West',)",San Diego,Furniture,Tables,2424.24,23,1.3,-128.74,-5.31
+,"('West',)",San Diego,Office Supplies,Appliances,5762.17,49,1.3,1596.16,27.7
+,"('West',)",San Diego,Office Supplies,Art,452.63,62,1.4,109.84,24.27
+,"('West',)",San Diego,Office Supplies,Binders,855.43,103,8.8,141.52,16.54
+,"('West',)",San Diego,Office Supplies,Envelopes,107.45,14,0.2,46.57,43.34
+,"('West',)",San Diego,Office Supplies,Fasteners,53.33,22,0.0,21.72,40.73
+,"('West',)",San Diego,Office Supplies,Labels,228.56,33,0.2,107.73,47.13
+,"('West',)",San Diego,Office Supplies,Paper,1293.81,74,1.0,604.57,46.73
+,"('West',)",San Diego,Office Supplies,Storage,3327.24,33,0.4,715.58,21.51
+,"('West',)",San Diego,Office Supplies,Supplies,36.08,5,0.2,7.34,20.34
+,"('West',)",San Diego,Technology,Accessories,9628.36,93,0.8,2227.37,23.13
+,"('West',)",San Diego,Technology,Copiers,1199.98,3,0.2,434.99,36.25
+,"('West',)",San Diego,Technology,Machines,4156.22,9,1.2,1075.33,25.87
+,"('West',)",San Diego,Technology,Phones,5078.93,44,2.0,599.92,11.81
+,"('West',)",San Francisco,Furniture,Bookcases,10111.24,68,1.45,876.17,8.67
+,"('West',)",San Francisco,Furniture,Chairs,14080.44,93,5.9,1130.54,8.03
+,"('West',)",San Francisco,Furniture,Furnishings,4510.31,157,3.2,1048.73,23.25
+,"('West',)",San Francisco,Furniture,Tables,12696.1,47,1.8,-291.27,-2.29
+,"('West',)",San Francisco,Office Supplies,Appliances,6662.24,76,2.9,1756.97,26.37
+,"('West',)",San Francisco,Office Supplies,Art,986.6,125,1.4,255.01,25.85
+,"('West',)",San Francisco,Office Supplies,Binders,6465.87,254,19.9,1417.95,21.93
+,"('West',)",San Francisco,Office Supplies,Envelopes,637.41,35,0.8,294.44,46.19
+,"('West',)",San Francisco,Office Supplies,Fasteners,110.61,34,1.0,36.26,32.78
+,"('West',)",San Francisco,Office Supplies,Labels,935.83,107,0.4,411.5,43.97
+,"('West',)",San Francisco,Office Supplies,Paper,3656.28,267,4.2,1609.24,44.01
+,"('West',)",San Francisco,Office Supplies,Storage,18155.12,157,1.8,2196.71,12.1
+,"('West',)",San Francisco,Office Supplies,Supplies,65.29,16,0.2,13.14,20.13
+,"('West',)",San Francisco,Technology,Accessories,6703.99,143,1.6,1998.84,29.82
+,"('West',)",San Francisco,Technology,Copiers,2399.96,6,0.4,809.98,33.75
+,"('West',)",San Francisco,Technology,Machines,1077.58,6,0.4,143.81,13.35
+,"('West',)",San Francisco,Technology,Phones,17829.2,182,6.8,3433.7,19.26
+,"('West',)",San Jose,Furniture,Furnishings,22.75,6,0.6,-8.53,-37.49
+,"('West',)",San Jose,Office Supplies,Appliances,207.14,3,0.1,48.33,23.33
+,"('West',)",San Jose,Office Supplies,Art,68.93,18,0.2,20.54,29.8
+,"('West',)",San Jose,Office Supplies,Binders,315.82,14,0.4,113.44,35.92
+,"('West',)",San Jose,Office Supplies,Paper,163.9,11,0.0,74.81,45.64
+,"('West',)",San Jose,Office Supplies,Storage,80.88,6,0.0,21.03,26.0
+,"('West',)",San Jose,Technology,Accessories,369.93,8,0.2,67.88,18.35
+,"('West',)",San Jose,Technology,Phones,643.08,5,0.8,-69.03,-10.73
+,"('West',)",Santa Ana,Furniture,Bookcases,1198.33,10,0.15,70.49,5.88
+,"('West',)",Santa Ana,Furniture,Furnishings,34.62,5,0.0,11.14,32.18
+,"('West',)",Santa Ana,Furniture,Tables,146.04,1,0.2,-12.78,-8.75
+,"('West',)",Santa Ana,Office Supplies,Art,89.57,9,0.2,23.07,25.76
+,"('West',)",Santa Ana,Office Supplies,Binders,3.33,2,0.2,1.21,36.34
+,"('West',)",Santa Ana,Office Supplies,Storage,4.46,1,0.2,0.33,7.4
+,"('West',)",Santa Ana,Technology,Accessories,1425.42,9,0.2,606.75,42.57
+,"('West',)",Santa Ana,Technology,Phones,225.94,6,0.0,79.9,35.36
+,"('West',)",Santa Clara,Furniture,Furnishings,63.55,3,0.2,14.3,22.5
+,"('West',)",Santa Clara,Furniture,Tables,1548.99,9,0.4,-464.7,-30.0
+,"('West',)",Santa Clara,Office Supplies,Art,172.7,6,0.2,10.79,6.25
+,"('West',)",Santa Clara,Office Supplies,Binders,760.98,5,0.8,-1141.47,-150.0
+,"('West',)",Santa Clara,Office Supplies,Envelopes,19.87,3,0.2,6.71,33.77
+,"('West',)",Santa Clara,Office Supplies,Labels,21.56,7,0.0,10.35,48.01
+,"('West',)",Santa Clara,Office Supplies,Paper,165.27,13,0.0,79.1,47.86
+,"('West',)",Santa Clara,Office Supplies,Storage,31.44,3,0.0,8.49,27.0
+,"('West',)",Santa Clara,Office Supplies,Supplies,41.38,3,0.2,4.65,11.24
+,"('West',)",Santa Clara,Technology,Accessories,147.35,7,0.0,50.0,33.93
+,"('West',)",Scottsdale,Furniture,Chairs,3012.78,12,0.6,171.54,5.69
+,"('West',)",Scottsdale,Furniture,Furnishings,563.75,26,0.2,126.94,22.52
+,"('West',)",Scottsdale,Furniture,Tables,4343.48,17,0.0,790.62,18.2
+,"('West',)",Scottsdale,Office Supplies,Appliances,298.59,8,0.2,72.63,24.32
+,"('West',)",Scottsdale,Office Supplies,Binders,670.62,40,1.9,213.71,31.87
+,"('West',)",Scottsdale,Office Supplies,Envelopes,7.08,3,0.2,2.48,35.03
+,"('West',)",Scottsdale,Office Supplies,Labels,5.76,2,0.0,2.82,48.96
+,"('West',)",Scottsdale,Office Supplies,Paper,507.11,25,0.6,231.28,45.61
+,"('West',)",Scottsdale,Office Supplies,Storage,500.22,7,0.0,83.88,16.77
+,"('West',)",Scottsdale,Technology,Phones,503.08,4,0.2,90.22,17.93
+,"('West',)",Seattle,Furniture,Bookcases,4907.71,48,3.29,58.8,1.2
+,"('West',)",Seattle,Furniture,Chairs,18166.78,126,5.3,483.9,2.66
+,"('West',)",Seattle,Furniture,Furnishings,3220.84,100,5.6,-285.89,-8.88
+,"('West',)",Seattle,Furniture,Tables,13578.42,62,3.2,-119.37,-0.88
+,"('West',)",Seattle,Office Supplies,Appliances,5811.0,46,1.2,1402.49,24.14
+,"('West',)",Seattle,Office Supplies,Art,1031.2,110,3.0,203.41,19.73
+,"('West',)",Seattle,Office Supplies,Binders,4925.69,236,20.7,317.22,6.44
+,"('West',)",Seattle,Office Supplies,Envelopes,156.6,18,0.4,64.71,41.32
+,"('West',)",Seattle,Office Supplies,Fasteners,78.23,22,0.4,14.11,18.04
+,"('West',)",Seattle,Office Supplies,Labels,235.55,36,0.4,107.01,45.43
+,"('West',)",Seattle,Office Supplies,Paper,3159.74,203,3.4,1382.25,43.75
+,"('West',)",Seattle,Office Supplies,Storage,5980.86,126,2.2,718.64,12.02
+,"('West',)",Seattle,Office Supplies,Supplies,798.98,16,0.0,32.75,4.1
+,"('West',)",Seattle,Technology,Accessories,5486.71,105,1.8,1620.16,29.53
+,"('West',)",Seattle,Technology,Copiers,20859.89,12,0.4,9551.96,45.79
+,"('West',)",Seattle,Technology,Machines,11862.56,13,0.4,2873.84,24.23
+,"('West',)",Seattle,Technology,Phones,8377.44,92,3.4,1553.83,18.55
+,"('West',)",Spokane,Furniture,Furnishings,74.68,6,0.0,31.84,42.64
+,"('West',)",Spokane,Furniture,Tables,70.98,1,0.0,20.58,28.99
+,"('West',)",Spokane,Office Supplies,Binders,6.38,1,0.0,2.93,45.92
+,"('West',)",Spokane,Office Supplies,Paper,6.48,1,0.0,3.11,47.99
+,"('West',)",Spokane,Technology,Phones,1022.97,5,0.4,-255.74,-25.0
+,"('West',)",Stockton,Furniture,Bookcases,231.92,5,0.2,5.8,2.5
+,"('West',)",Stockton,Furniture,Chairs,545.9,7,0.6,-61.47,-11.26
+,"('West',)",Stockton,Furniture,Tables,182.55,2,0.5,-135.09,-74.0
+,"('West',)",Stockton,Office Supplies,Art,12.67,9,0.2,1.43,11.29
+,"('West',)",Stockton,Office Supplies,Binders,59.75,14,2.2,-51.68,-86.49
+,"('West',)",Stockton,Office Supplies,Envelopes,81.54,3,0.0,38.32,47.0
+,"('West',)",Stockton,Office Supplies,Paper,294.62,21,0.4,124.38,42.22
+,"('West',)",Stockton,Office Supplies,Storage,25.98,1,0.2,-5.2,-20.02
+,"('West',)",Stockton,Technology,Accessories,215.26,14,0.2,24.02,11.16
+,"('West',)",Stockton,Technology,Phones,95.84,4,0.2,34.74,36.25
+,"('West',)",Tigard,Furniture,Bookcases,141.96,2,0.0,41.17,29.0
+,"('West',)",Tigard,Furniture,Chairs,1184.62,9,0.1,327.78,27.67
+,"('West',)",Tigard,Furniture,Furnishings,83.42,4,0.2,30.84,36.97
+,"('West',)",Tigard,Furniture,Tables,801.96,2,0.0,200.49,25.0
+,"('West',)",Tigard,Office Supplies,Appliances,44.42,2,0.2,3.89,8.76
+,"('West',)",Tigard,Office Supplies,Art,30.32,4,0.0,11.82,38.98
+,"('West',)",Tigard,Office Supplies,Binders,79.22,13,1.6,12.45,15.72
+,"('West',)",Tigard,Office Supplies,Envelopes,24.9,4,0.2,8.4,33.73
+,"('West',)",Tigard,Office Supplies,Paper,34.99,6,0.2,14.77,42.21
+,"('West',)",Tigard,Office Supplies,Storage,669.08,5,0.2,-167.27,-25.0
+,"('West',)",Tigard,Office Supplies,Supplies,357.93,3,0.0,7.16,2.0
+,"('West',)",Tigard,Technology,Accessories,95.97,4,0.2,28.79,30.0
+,"('West',)",Tigard,Technology,Copiers,2799.94,7,0.2,1014.98,36.25
+,"('West',)",Tigard,Technology,Machines,386.98,6,1.4,-424.48,-109.69
+,"('West',)",Tigard,Technology,Phones,498.31,7,0.2,-87.67,-17.59
+,"('West',)",Tucson,Furniture,Bookcases,1424.74,17,0.5,-8.79,-0.62
+,"('West',)",Tucson,Furniture,Chairs,2322.71,18,0.9,-42.73,-1.84
+,"('West',)",Tucson,Furniture,Furnishings,511.08,20,1.0,-35.73,-6.99
+,"('West',)",Tucson,Furniture,Tables,377.45,5,0.5,-264.22,-70.0
+,"('West',)",Tucson,Office Supplies,Appliances,148.87,5,0.0,41.92,28.16
+,"('West',)",Tucson,Office Supplies,Art,119.48,13,0.8,13.56,11.35
+,"('West',)",Tucson,Office Supplies,Binders,3522.39,46,4.8,1017.21,28.88
+,"('West',)",Tucson,Office Supplies,Envelopes,7.82,1,0.2,2.93,37.47
+,"('West',)",Tucson,Office Supplies,Fasteners,17.9,5,0.0,8.95,50.0
+,"('West',)",Tucson,Office Supplies,Labels,72.88,21,0.6,30.85,42.33
+,"('West',)",Tucson,Office Supplies,Paper,908.46,32,1.0,367.96,40.5
+,"('West',)",Tucson,Office Supplies,Storage,424.65,11,0.2,-10.75,-2.53
+,"('West',)",Tucson,Office Supplies,Supplies,65.17,7,0.0,18.9,29.0
+,"('West',)",Tucson,Technology,Accessories,2115.78,47,1.0,157.59,7.45
+,"('West',)",Tucson,Technology,Machines,95.99,2,0.7,-64.0,-66.67
+,"('West',)",Tucson,Technology,Phones,591.64,7,0.6,35.05,5.92
+,"('West',)",Vallejo,Furniture,Tables,626.1,3,0.5,-538.45,-86.0
+,"('West',)",Vallejo,Office Supplies,Binders,97.38,5,1.0,28.41,29.17
+,"('West',)",Vallejo,Office Supplies,Labels,14.45,5,0.0,6.79,46.99
+,"('West',)",Vallejo,Office Supplies,Paper,212.64,6,0.0,99.94,47.0
+,"('West',)",Vallejo,Technology,Phones,1439.97,4,0.2,144.0,10.0
+,"('West',)",Vancouver,Furniture,Chairs,2198.66,20,0.8,-48.89,-2.22
+,"('West',)",Vancouver,Furniture,Furnishings,283.7,23,0.0,71.88,25.34
+,"('West',)",Vancouver,Furniture,Tables,1115.17,7,0.0,334.55,30.0
+,"('West',)",Vancouver,Office Supplies,Art,74.78,14,0.2,19.83,26.52
+,"('West',)",Vancouver,Office Supplies,Binders,5083.96,5,0.2,1906.49,37.5
+,"('West',)",Vancouver,Office Supplies,Paper,408.19,15,0.0,199.62,48.9
+,"('West',)",Vancouver,Office Supplies,Supplies,384.59,2,0.2,-81.73,-21.25
+,"('West',)",Vancouver,Technology,Accessories,525.94,10,0.0,71.49,13.59
+,"('West',)",Vancouver,Technology,Phones,2170.05,24,0.6,195.3,9.0
+,"('West',)",West Jordan,Furniture,Furnishings,1351.45,16,0.2,389.07,28.79
+,"('West',)",West Jordan,Office Supplies,Appliances,378.0,2,0.0,136.08,36.0
+,"('West',)",West Jordan,Office Supplies,Binders,37.68,6,0.0,16.96,45.01
+,"('West',)",West Jordan,Office Supplies,Labels,14.4,5,0.0,7.06,49.03
+,"('West',)",West Jordan,Office Supplies,Paper,35.25,6,0.0,17.09,48.48
+,"('West',)",West Jordan,Office Supplies,Storage,469.32,11,0.0,111.13,23.68
+,"('West',)",West Jordan,Office Supplies,Supplies,16.9,2,0.0,5.07,30.0
+,"('West',)",West Jordan,Technology,Accessories,99.98,2,0.0,8.0,8.0
+,"('West',)",West Jordan,Technology,Phones,179.92,8,0.0,42.29,23.5
+,"('West',)",Whittier,Furniture,Chairs,823.95,4,0.3,125.15,15.19
+,"('West',)",Whittier,Furniture,Furnishings,29.46,6,0.0,9.72,32.99
+,"('West',)",Whittier,Office Supplies,Binders,19.05,8,1.6,-33.19,-174.23
+,"('West',)",Whittier,Office Supplies,Storage,29.9,5,0.0,5.08,16.99
+,"('West',)",Whittier,Office Supplies,Supplies,22.34,3,0.2,2.51,11.24
+,"('West',)",Whittier,Technology,Accessories,99.98,2,0.0,8.0,8.0
+,"('West',)",Whittier,Technology,Phones,444.77,4,0.2,44.48,10.0
+,"('West',)",Subtotal,,,764634.4,12272,496.41,98007.97,12.82
+,Grand Total,,,,2297200.99,37873,1561.09,286396.18,12.47
